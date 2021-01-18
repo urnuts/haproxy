@@ -1,7 +1,7 @@
 【HaProxy】：
      安装haproxy ##：apt-get install -y haproxy
      停止haproxy ##：/etc/init.d/haproxy stop
-     启动haproxy ## ：/etc/init.d/haproxy restart
+     启动haproxy ##：/etc/init.d/haproxy restart
      haproxy目录 ##：cd /etc/haproxy
      
      
@@ -38,8 +38,9 @@
     
 【iptables一键脚本】
  
+       wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
       ./iptables-pf.sh
-      无BBR,稳定，doubibackup.com/mbofzp9h-2.html
+      推荐Debian / Ubuntu,无BBR,稳定，doubibackup.com/mbofzp9h-2.html
     
     
     
