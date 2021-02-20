@@ -1,15 +1,16 @@
 centos7 更新源：yum makecache fast
 centos6 更新源：
 
-碳云：dd系统debian 9：【新centos6.8】：
-
-              01. ##：wget --no-check-certificate -O AutoReinstall.sh https://git.io/AutoReinstall.sh && bash AutoReinstall.sh
-           ##：密码：Pwd@Linux
-
-
-dd系统debian 9：【新centos6.8】：密码cxthhhhh.com
-         http://www.yehes.com/wangluo/18828.html
-         https://shell.p1e.cn/?dir=/reinstall
-           ##：yum install -y xz openssl gawk file
-           ##：wget –no-check-certificate http://shell.p1e.cn/reinstall/Network-Reinstall-System-Modify-2019.sh && chmod a+x Network-Reinstall-System-Modify-2019.sh
-           ##：bash Network-Reinstall-System-Modify-2019.sh -Debian_9
+碳云：【dd系统debian 9及其他系统，基于新centos6.8】：
+     01. ##：wget --no-check-certificate -O AutoReinstall.sh https://git.io/AutoReinstall.sh && bash AutoReinstall.sh
+         ##：密码Pwd@Linux
+           
+     02. http://www.yehes.com/wangluo/18828.html  ；https://shell.p1e.cn/?dir=/reinstall
+         ##：yum install -y xz openssl gawk file
+         ##：wget –no-check-certificate http://shell.p1e.cn/reinstall/Network-Reinstall-System-Modify-2019.sh && chmod a+x Network-Reinstall-System-Modify-2019.sh
+         ##：bash Network-Reinstall-System-Modify-2019.sh -Debian_9
+         ##：密码cxthhhhh.com
+         
+ 
+ 水墨云：【dd debian9，基于ubuntu18】
+      ##： bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/InstallNET.sh') -d 9 -v 64 -a -p yourpassword
