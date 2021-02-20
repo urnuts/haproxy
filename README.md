@@ -59,16 +59,14 @@ Haproxy参考模板02：静态负载平衡
        option      redispatch
        retries     1
 
-# CF -> HKNAT
-
+    # CF -> HKNAT
     frontend ss-in-c8f-hknat
         bind *:21118
         default_backend ss-out-cf8-hknat
     backend ss-out-cf8-hknat
         server server1 104.19.27.223:443 maxconn 20480
 
-# CloudFlare负载均衡
-
+    # CloudFlare负载均衡
     frontend cf-in
         mode tcp
         bind *:21119
@@ -82,9 +80,8 @@ Haproxy参考模板02：静态负载平衡
         server  cf23     104.19.77.23:443   check  weight 50  check inter 1s rise 3 fall 2  maxconn 20480
         server  cf223    104.19.27.223:443  check  weight 5   check inter 1s rise 3 fall 2  maxconn 20480
    
-其他参考：haproxy 做负载均衡
-   
-     listen V2ry-Raid
+    其他参考：haproxy 做负载均衡
+        listen V2ry-Raid
         bind 0.0.0.0:443
         mode tcp
         #option tcp-check
