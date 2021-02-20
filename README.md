@@ -136,24 +136,24 @@ Haproxy参考模板03：单端口域名分流
         use_backend defaultserv if { req.ssl_hello_type 1 } !v2-gcp !v2-tr !v2-pr !ss-gcp
 
     backend gcp
-      mode tcp
-      option ssl-hello-chk
-      server server1 xxx.xxx.xxx.xxx:443
+        mode tcp
+        option ssl-hello-chk
+        server server1 xxx.xxx.xxx.xxx:443
 
     backend tr
-       mode tcp
-       option ssl-hello-chk
-       http-request set-header Host pr.trojan.best
-       #option httpclose
-       server server1 xxx.xxx.xxx.xxx:4431
+         mode tcp
+         option ssl-hello-chk
+         http-request set-header Host pr.trojan.best
+         #option httpclose
+         server server1 xxx.xxx.xxx.xxx:4431
 
     backend pr
-       mode tcp
-       option ssl-hello-chk
-       server server1 xxx.xxx.xxx.xxx:443
+         mode tcp
+         option ssl-hello-chk
+         server server1 xxx.xxx.xxx.xxx:443
     backend defaultserv
-        mode tcp
-        server server1 www.baidu.com
+          mode tcp
+          server server1 www.baidu.com
    
    
    
