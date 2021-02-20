@@ -1,4 +1,4 @@
-【HaProxy】：
+【HaProxy】debian/centos/ubuntu：
 
      安装haproxy ##：apt-get install -y haproxy
      停止haproxy ##：/etc/init.d/haproxy stop
@@ -94,8 +94,9 @@ Haproxy参考模板02：静态负载平衡
    
       
 Haproxy参考模板03：单端口域名分流
-   重点：trojan 域名 需要手动 指hosts  ，v2ray则直接http伪装填写域名.
-   nat小鸡 -> haproxy Sever --> 443 {v2*y s* tr*jan ssh}
+
+    重点：trojan域名需要手动指hosts，v2ray则直接http伪装填写域名；
+    nat小鸡 -> haproxy Sever --> 443 {v*y s* tr*jan ssh};
 
     global
         log /dev/log local0
