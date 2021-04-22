@@ -8,38 +8,28 @@
      
  Haproxy参考模板01：单节点转发
  
-     global
+    global
 
-     defaults
-             log     global
-             mode    tcp
-             option  dontlognull
-             timeout connect 5000
-             timeout client  50000
-             timeout server  50000
+    defaults
+            log     global
+            mode    tcp
+            option  dontlognull
+            timeout connect 5000
+            timeout client  50000
+            timeout server  50000
 
-     frontend ss-in1
-         bind *:20053
-         default_backend ss-out1
+    frontend ss-in1
+        bind *:20053
+        default_backend ss-out1
+    backend ss-out1
+        server server1 18.183.4.146:443 maxconn 20480
 
-     backend ss-out1
-         server server1 18.183.4.146:443 maxconn 20480
-
-     frontend ss-in2
-         bind *:20054
-         default_backend ss-out2
-     backend ss-out2
+    frontend ss-in2
+        bind *:20054
+        default_backend ss-out2
+    backend ss-out2
          server server1 54.169.209.153:443 maxconn 20480
 
-     frontend ss-in3
-         bind *:20055
-         default_backend ss-out3
-     backend ss-out3
-         server server1 54.169.209.153:443 maxconn 20480
-   
-   
-   
-   
 Haproxy参考模板02：静态负载平衡
  
     global
@@ -74,23 +64,11 @@ Haproxy参考模板02：静态负载平衡
     backend cf-out
         mode tcp
         option  tcp-check
-        balance static-rr
-        #balance roundrobin
+        balance static-rr   # 静态负载平衡
+        #balance roundrobin # 轮询负载平衡
         server  cfbak    104.19.99.114:443  backup
         server  cf23     104.19.77.23:443   check  weight 50  check inter 1s rise 3 fall 2  maxconn 20480
         server  cf223    104.19.27.223:443  check  weight 5   check inter 1s rise 3 fall 2  maxconn 20480
-   
-    其他参考：haproxy 做负载均衡
-        listen V2ry-Raid
-        bind 0.0.0.0:443
-        mode tcp
-        #option tcp-check
-        balance roundrobin
-        #balance static-rr
-        server  cf   104.22.13.39:443 weight 5 check inter 6800 fastinter 2s downinter 2s rise 2 fall 2
-        server  v2ex   v2ex.com:443 weight 10 check inter 6800 fastinter 2s downinter 2s rise 2 fall 2
-        #server  cf   104.20.10.19:443 weight 10 check inter 6800 fastinter 2s downinter 2s rise 2 fall 2
-        #server  cf   104.20.20.15:443 weight 10 check inter 6800 fastinter 2s downinter 2s rise 2 fall 2
    
       
 Haproxy参考模板03：单端口域名分流
@@ -155,18 +133,14 @@ Haproxy参考模板03：单端口域名分流
           mode tcp
           server server1 www.baidu.com
    
-   
-   
-   
-    
-【iptables一键脚本】
+
+iptables一键脚本
  
       wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
       推荐Debian / Ubuntu,无BBR,稳定，doubibackup.com/mbofzp9h-2.html
     
-    
-    
-【socat一键脚本】
+
+socat一键脚本
       
       wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/socat.sh && chmod +x socat.sh && bash socat.sh
     
