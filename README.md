@@ -3,13 +3,14 @@
 
 
 =============================================
-=============================================
 
 方案1：iptables,不支持bbr,延迟稳定
+
       wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
       推荐Debian / Ubuntu,无BBR,稳定，doubibackup.com/mbofzp9h-2.html
     
 方案2：socat,支持bbr
+
       wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/socat.sh && chmod +x socat.sh && bash socat.sh
     
     
