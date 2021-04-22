@@ -1,12 +1,26 @@
-【HaProxy】debian/centos/ubuntu：
+自用第三种方案：可以sni分流,拒绝白嫖CF:
+
+
+
+=============================================
+=============================================
+
+方案1：iptables,不支持bbr,延迟稳定
+      wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
+      推荐Debian / Ubuntu,无BBR,稳定，doubibackup.com/mbofzp9h-2.html
+    
+方案2：socat,支持bbr
+      wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/socat.sh && chmod +x socat.sh && bash socat.sh
+    
+    
+方案3：Haproxy
 
      安装haproxy ##：apt-get install -y haproxy
      停止haproxy ##：/etc/init.d/haproxy stop
      启动haproxy ##：/etc/init.d/haproxy restart
      haproxy目录 ##：cd /etc/haproxy
      
-     
- Haproxy参考模板01：单节点转发
+    // Haproxy参考模板01：单节点转发
  
     global
 
@@ -30,7 +44,10 @@
     backend ss-out2
          server server1 54.169.209.153:443 maxconn 20480
 
-Haproxy参考模板02：静态负载平衡
+
+
+
+    // Haproxy参考模板02：静态负载平衡
  
     global
        log /dev/log local0
@@ -71,7 +88,7 @@ Haproxy参考模板02：静态负载平衡
         server  cf223    104.19.27.223:443  check  weight 5   check inter 1s rise 3 fall 2  maxconn 20480
    
       
-Haproxy参考模板03：单端口域名分流
+    // Haproxy参考模板03：单端口域名分流
 
     重点：trojan域名需要手动指hosts，v2ray则直接http伪装填写域名；
     nat小鸡 -> haproxy Sever --> 443 {v*y s* tr*jan ssh};
@@ -133,19 +150,4 @@ Haproxy参考模板03：单端口域名分流
           mode tcp
           server server1 www.baidu.com
    
-
-iptables一键脚本
- 
-      wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
-      推荐Debian / Ubuntu,无BBR,稳定，doubibackup.com/mbofzp9h-2.html
-    
-
-socat一键脚本
-      
-      wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/socat.sh && chmod +x socat.sh && bash socat.sh
-    
-    
-    
-    
-    
     
