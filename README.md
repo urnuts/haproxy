@@ -1,17 +1,16 @@
 自用第三种方案：可以sni分流,拒绝白嫖CF:
 
 
-
 =============================================
 
 方案1：iptables,不支持bbr,延迟稳定
 
-      wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
+      wget -N --no-check-certificate https://raw.githubusercontent.com/urnuts/haproxy/main/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
       推荐Debian / Ubuntu,无BBR,稳定，doubibackup.com/mbofzp9h-2.html
     
 方案2：socat,支持bbr
 
-      wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/socat.sh && chmod +x socat.sh && bash socat.sh
+      wget -N --no-check-certificate https://raw.githubusercontent.com/urnuts/haproxy/main/socat.sh && chmod +x socat.sh && bash socat.sh
     
     
 方案3：Haproxy
@@ -20,6 +19,8 @@
      停止haproxy ##：/etc/init.d/haproxy stop
      启动haproxy ##：/etc/init.d/haproxy restart
      haproxy目录 ##：cd /etc/haproxy
+     bind后为本地端口; xxxx:xx未需要转发的---远程ip:远程端口---
+     
      
     // Haproxy参考模板01：单节点转发
  
@@ -112,6 +113,12 @@
         timeout client 24h
         timeout server 24h
 
+
+    frontend ss-in1
+        bind *:20053
+        default_backend ss-out1
+    backend ss-out1
+        server server1 18.183.4.146:443 maxconn 20480
 
     frontend ssl
         mode tcp
