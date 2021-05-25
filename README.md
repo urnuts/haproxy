@@ -6,7 +6,6 @@
 方案1：iptables,不支持bbr,延迟稳定
 
       wget -N --no-check-certificate https://raw.githubusercontent.com/urnuts/haproxy/main/iptables-pf.sh && chmod +x iptables-pf.sh && bash iptables-pf.sh
-      推荐Debian / Ubuntu,无BBR,稳定，doubibackup.com/mbofzp9h-2.html
     
 方案2：socat,支持bbr
 
@@ -49,32 +48,8 @@
 
 
 
-    // Haproxy参考模板02：静态负载平衡
+    // Haproxy参考02：负载平衡
  
-    global
-       log /dev/log local0
-       log /dev/log local1 notice
-       user root
-       group root
-       daemon
-
-    defaults
-       log global
-       mode tcp
-       timeout connect 5s
-       timeout client 50s
-       timeout server 50s
-       option      dontlognull
-       option      redispatch
-       retries     1
-
-    # CF -> HKNAT
-    frontend ss-in-c8f-hknat
-        bind *:21118
-        default_backend ss-out-cf8-hknat
-    backend ss-out-cf8-hknat
-        server server1 104.19.27.223:443 maxconn 20480
-
     # CloudFlare负载均衡
     frontend cf-in
         mode tcp
