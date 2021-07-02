@@ -133,4 +133,66 @@
           mode tcp
           server server1 www.baidu.com
    
+   
+    // Haproxy参考模板04：本机端口转发
+    
+    Haproxy本机端口转发:         
+
+1）导入配置：
+
+echo -e "global
+    log /dev/log local0
+    log /dev/log local1 notice
+    user  root
+    group root
+    daemon
+
+defaults
+    log global
+    mode tcp
+    timeout connect 3s
+    timeout client 50s
+    timeout server 50s
+    option      dontlognull
+    option      redispatch
+
+# 本机端口转发
+frontend p-in
+    bind *:50001-65000
+    default_backend p-out
+backend p-out
+    server server1 127.0.0.1:443 maxconn 20480" > /etc/haproxy/haproxy.cfg
+
+/etc/init.d/haproxy restart  # 重启haproxy
+
+
+
+--------------------------------------------------------------------
+echo 1 > /proc/sys/net/ipv4/ip_forward
+iptables -t nat -A PREROUTING -p tcp --dport 59680 -j REDIRECT --to-ports 443
+iptables -t nat -A PREROUTING -p tcp --dport 59681 -j REDIRECT --to-ports 443
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
