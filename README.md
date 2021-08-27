@@ -136,9 +136,9 @@
    
     // Haproxy参考模板04：本机端口转发
     
-    Haproxy本机端口转发:         
 
-1）命令栏导入配置：
+
+Haproxy本机端口转发: 命令栏导入配置：
 
     echo -e "global
         log /dev/log local0
