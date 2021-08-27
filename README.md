@@ -138,7 +138,7 @@
     
 
 
-Haproxy本机端口转发: 命令栏导入配置：
+本机端口转发Haproxy: 命令栏导入配置：
 
     echo -e "global
         log /dev/log local0
@@ -168,7 +168,7 @@ Haproxy本机端口转发: 命令栏导入配置：
 
 
 --------------------------------------------------------------------
-
+    本机端口转发iptables: 重启失效
     echo 1 > /proc/sys/net/ipv4/ip_forward
     iptables -t nat -A PREROUTING -p tcp --dport 59680 -j REDIRECT --to-ports 443
     iptables -t nat -A PREROUTING -p tcp --dport 59681 -j REDIRECT --to-ports 443
