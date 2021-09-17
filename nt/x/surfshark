@@ -1,4 +1,4 @@
-# 4-5m/s,216条
+// 4-5m/s,216条
 shadowsocks = 84.39.112.35:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇨🇭Zurich
 shadowsocks = 84.39.112.35:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇨🇭Zurich 2
 shadowsocks = 217.138.220.139:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇨🇿Prague
