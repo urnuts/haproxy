@@ -1,0 +1,191 @@
+vmess = AZHK-MOON-THROW-01.PL2020.XYZ:16811, method=chacha20-ietf-poly1305, password=fc1317da-2872-4093-b69a-23eddf19473b, obfs=ws, obfs-host=AZHK-MOON-THROW-01.PL2020.XYZ, obfs-uri=/, tag=🇭🇰 中国香港3 130Mbps 132ms
+shadowsocks = 162.14.11.142:31078, method=rc4-md5, password=Yw0SCS, ssr-protocol=origin, ssr-protocol-param=t.me/vpnhat, obfs=http_simple, obfs-host=download.windowsupdate.com, tag=🇭🇰 中国香港4 130Mbps 108ms 奈飞中国香港
+vmess = 120.232.214.25:119, method=chacha20-ietf-poly1305, password=908fb0cc-0cf3-4dc5-8868-8a2665b2c5f8, obfs=over-tls, obfs-host=120.232.214.25, tag=🇭🇰 中国香港5 126Mbps 180ms 奈飞自制剧
+vmess = 120.232.214.25:122, method=chacha20-ietf-poly1305, password=908fb0cc-0cf3-4dc5-8868-8a2665b2c5f8, obfs=over-tls, obfs-host=120.232.214.25, tag=🇭🇰 中国香港8 118Mbps 176ms 奈飞自制剧
+trojan = hk1.ifl520.xyz:16001, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=hk1.ifl520.xyz, tls-verification=false, tag=🇭🇰 中国香港9 116Mbps 202ms 奈飞自制剧
+vmess = 18.167.94.242:80, method=chacha20-ietf-poly1305, password=cec85927-8a7a-4866-df8c-27ed589de0ce, obfs=ws, obfs-host=18.167.94.242, obfs-uri=/TS/recharge/tzUrl.html, tag=🇭🇰 中国香港10 110Mbps 264ms 奈飞自制剧
+trojan = hk2.ifl520.xyz:16005, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=hk2.ifl520.xyz, tls-verification=false, tag=🇭🇰 中国香港16 81Mbps 167ms 奈飞自制剧
+vmess = 23.224.191.13:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-host=23.224.191.13, obfs-uri=/footers, tag=🇭🇰 中国香港18 39Mbps 306ms 奈飞自制剧
+vmess = hk4.direct.starlink.st:65000, method=chacha20-ietf-poly1305, password=8ee1ee4e-b65a-4238-ac88-d1429c018e58, tag=🇭🇰 中国香港21 15Mbps 267ms 奈飞中国香港
+shadowsocks = 13.213.251.185:18331, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, tag=🇸🇬 新加坡1 126Mbps 310ms 奈飞自制剧
+vmess = gzcm.sspro.nl:10799, method=chacha20-poly1305, password=fd252902-aac0-36be-8420-a3b23fe803af, obfs=ws, obfs-host=none, obfs-uri=/ssrgr-hk18, tag=🇸🇬 新加坡2 122Mbps 396ms 奈飞新加坡
+vmess = zl-sg-1.no-ne.xyz:10161, method=chacha20-ietf-poly1305, password=18326f3d-910c-488f-8584-afcd3e9a3d9e, obfs=ws, obfs-host=zl-sg-1.no-ne.xyz, obfs-uri=/alun, tag=🇸🇬 新加坡3 121Mbps 238ms 奈飞自制剧
+trojan = sg3.ifl520.xyz:17005, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=sg3.ifl520.xyz, tls-verification=true, tag=🇸🇬 新加坡4 119Mbps 394ms 奈飞自制剧
+vmess = 120.232.214.25:115, method=chacha20-ietf-poly1305, password=908fb0cc-0cf3-4dc5-8868-8a2665b2c5f8, obfs=over-tls, obfs-host=120.232.214.25, tag=🇸🇬 新加坡5 113Mbps 402ms
+shadowsocks = 54.251.230.216:18332, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, tag=🇸🇬 新加坡6 108Mbps 266ms 奈飞自制剧
+shadowsocks = 185.128.24.34:809, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, tag=🇸🇬 新加坡7 106Mbps 311ms 奈飞自制剧
+trojan = sg1.ifl520.xyz:17001, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=sg1.ifl520.xyz, tls-verification=false, tag=🇸🇬 新加坡10 98Mbps 351ms 奈飞自制剧
+vmess = gzcm.sspro.nl:10799, method=chacha20-poly1305, password=fd252902-aac0-36be-8420-a3b23fe803af, obfs=ws, obfs-host=none, obfs-uri=/ssrgr-sg07, tag=🇸🇬 新加坡11 93Mbps 339ms 奈飞自制剧
+trojan = www.ligonwen.cf:443, password=7836137d-2db0-4809-9b57-ed14cf2ed4ce, over-tls=true, tls-host=www.ligonwen.cf, tls-verification=true, tag=🇸🇬 新加坡12 93Mbps 400ms 奈飞自制剧
+trojan = 188.166.242.117:4443, password=7x42LetRa0, over-tls=true, tls-host=, tls-verification=false, tag=🇸🇬 新加坡14 68Mbps 766ms 奈飞自制剧
+vmess = gzcm.sspro.nl:10799, method=chacha20-poly1305, password=fd252902-aac0-36be-8420-a3b23fe803af, obfs=ws, obfs-host=none, obfs-uri=/ssrgr-sg3, tag=🇸🇬 新加坡15 52Mbps 838ms 奈飞自制剧
+shadowsocks = 2.58.241.29:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, tag=🇨🇳 中国台湾3 104Mbps 162ms
+shadowsocks = 2.58.242.45:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=🇨🇳 中国台湾6 101Mbps 94ms
+shadowsocks = p5.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, tag=🇨🇳 中国台湾13 37Mbps 352ms 奈飞自制剧
+shadowsocks = 210.241.243.8:8320, method=rc4-md5, password=passinfo123, tag=🇨🇳 中国台湾14 30Mbps 253ms 奈飞中国台湾
+shadowsocks = 59.125.11.164:8362, method=rc4-md5, password=passinfo123, tag=🇨🇳 中国台湾15 26Mbps 162ms 奈飞中国台湾
+vmess = 35.201.218.125:28879, method=chacha20-ietf-poly1305, password=8f55c99d-d400-47d5-a949-638204907e0b, tag=🇨🇳 中国台湾16 14Mbps 575ms 奈飞自制剧
+vmess = 120.232.214.25:113, method=chacha20-ietf-poly1305, password=908fb0cc-0cf3-4dc5-8868-8a2665b2c5f8, obfs=over-tls, obfs-host=120.232.214.25, tag=🇯🇵 日本2 123Mbps 296ms
+vmess = af01.uwork.mobi:80, method=chacha20-ietf-poly1305, password=00000000-0000-0000-0000-000000000001, tag=🇯🇵 日本3 118Mbps 262ms 奈飞日本
+trojan = jp1.ifl520.xyz:15001, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=jp1.ifl520.xyz, tls-verification=false, tag=🇯🇵 日本5 116Mbps 335ms 奈飞自制剧
+trojan = t6.ssrsub.one:8443, password=7622e286-0c41-412e-8381-1fe7a2da2c91, over-tls=true, tls-host=, tls-verification=false, tag=🇯🇵 日本8 113Mbps 892ms 奈飞自制剧
+shadowsocks = 13.231.43.203:8081, method=aes-256-cfb, password=3H2aN5Gnm, ssr-protocol=origin, obfs=tls1.2_ticket_auth, tag=🇯🇵 日本9 112Mbps 332ms 奈飞自制剧
+vmess = jp6.baicaijs.space:10109, method=chacha20-ietf-poly1305, password=a6b64cf4-eaad-3c17-9db9-e712301c1aa1, obfs=wss, obfs-host=jp6.baicaijs.space, obfs-uri=/qianting, tag=🇯🇵 日本10 110Mbps 403ms
+vmess = gzcm.sspro.nl:10799, method=chacha20-poly1305, password=fd252902-aac0-36be-8420-a3b23fe803af, obfs=ws, obfs-host=none, obfs-uri=/ssrgr-jp3, tag=🇯🇵 日本11 102Mbps 417ms 奈飞自制剧
+trojan = jp2.ifl520.xyz:15003, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=jp2.ifl520.xyz, tls-verification=false, tag=🇯🇵 日本12 99Mbps 314ms 奈飞自制剧
+vmess = jp1.direct.starlink.st:65000, method=chacha20-ietf-poly1305, password=8ee1ee4e-b65a-4238-ac88-d1429c018e58, tag=🇯🇵 日本13 39Mbps 382ms 奈飞日本
+shadowsocks = 154.17.22.153:18337, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, tag=🇯🇵 日本14 29Mbps 868ms 奈飞自制剧
+vmess = gzcm.sspro.nl:10799, method=chacha20-poly1305, password=fd252902-aac0-36be-8420-a3b23fe803af, obfs=ws, obfs-host=none, obfs-uri=/ssrgr-in02, tag=🇮🇳 印度1 107Mbps 598ms 奈飞自制剧
+shadowsocks = 103.94.27.101:49514, method=aes-256-gcm, password=dpGjA4GkzV28QPDYzEp94cTe, tag=🇮🇳 印度2 78Mbps 495ms
+shadowsocks = 103.94.27.182:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, tag=🇮🇳 印度3 71Mbps 480ms
+shadowsocks = 103.39.132.189:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇮🇳 印度4 60Mbps 343ms
+trojan = in1-1.noojat.com:1443, password=7x42LetRa0, over-tls=true, tls-host=in1-1.noojat.com, tls-verification=false, tag=🇮🇳 印度5 37Mbps 992ms 奈飞自制剧
+shadowsocks = 137.59.52.107:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇮🇳 印度6 24Mbps 663ms
+shadowsocks = 165.231.253.147:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇮🇳 印度7 12Mbps 286ms
+shadowsocks = 103.39.132.187:37559, method=aes-256-gcm, password=Qbt22F6JsxzFGqcsK5SaR8q3, tag=🇮🇳 印度8 3Mbps 425ms
+shadowsocks = 103.156.50.99:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇮🇳 印度9 2Mbps 837ms
+shadowsocks = 27.131.164.110:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇹🇭 泰国1 105Mbps 267ms
+shadowsocks = 27.131.164.92:41992, method=aes-256-gcm, password=XmQSxDCn5ehpcq6DBYms8FJf, tag=🇹🇭 泰国2 105Mbps 270ms
+shadowsocks = 27.131.164.94:46354, method=aes-256-gcm, password=MYPKdC7n6qjL6xmJBBcrzzqS, tag=🇹🇭 泰国3 91Mbps 297ms
+shadowsocks = 27.131.164.100:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇹🇭 泰国4 63Mbps 266ms
+shadowsocks = 212.102.44.86:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇺🇲 美国6 93Mbps 222ms
+shadowsocks = 104.200.131.172:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=🇺🇲 美国8 92Mbps 259ms
+shadowsocks = 18.236.120.96:8081, method=aes-256-cfb, password=YFVrXZgRo, ssr-protocol=origin, obfs=tls1.2_ticket_auth, tag=🇺🇲 美国14 74Mbps 719ms 奈飞美国
+vmess = 142.0.135.67:443, method=chacha20-ietf-poly1305, password=7884536d-42ca-43bb-909c-3b222f21a6bb, obfs=wss, obfs-host=142.0.135.67, obfs-uri=/path/310910211916, tag=🇺🇲 美国16 65Mbps 1109ms 奈飞自制剧
+vmess = 142.4.127.67:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-host=142.4.127.67, obfs-uri=/path/310910211916, tag=🇺🇲 美国17 62Mbps 998ms 奈飞自制剧
+vmess = 142.0.136.26:443, method=chacha20-ietf-poly1305, password=99a32d2a-05a6-48e3-aaaf-76ee979f82b2, obfs=wss, obfs-host=142.0.136.26, obfs-uri=/path/310910211916, tag=🇺🇲 美国18 61Mbps 978ms 奈飞自制剧
+vmess = 173.82.46.67:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-host=173.82.46.67, obfs-uri=/footers, tag=🇺🇲 美国19 61Mbps 1060ms 奈飞自制剧
+vmess = 23.83.225.140:26917, method=chacha20-ietf-poly1305, password=3bc30c04-4854-47bc-80b5-4fbb2364006e, tag=🇺🇲 美国21 55Mbps 558ms 奈飞自制剧
+vmess = 192.74.237.162:443, method=chacha20-ietf-poly1305, password=c7c4b446-3dfd-46c1-8a61-ab2d81f29098, obfs=wss, obfs-host=192.74.237.162, obfs-uri=/path/310910211916, tag=🇺🇲 美国22 55Mbps 1014ms 奈飞自制剧
+vmess = 199.193.126.73:26917, method=chacha20-ietf-poly1305, password=3bc30c04-4854-47bc-80b5-4fbb2364006e, tag=🇺🇲 美国23 54Mbps 1023ms 奈飞自制剧
+vmess = 192.74.229.15:443, method=chacha20-ietf-poly1305, password=67906f52-14ba-4d33-ba9f-bd6d870c7150, obfs=wss, obfs-host=192.74.229.15, obfs-uri=/path/310910211916, tag=🇺🇲 美国24 51Mbps 990ms 奈飞自制剧
+vmess = 184.169.250.80:443, method=chacha20-ietf-poly1305, password=e5b55048-1b8e-4ebf-bc8e-5d70e9dc9e98, obfs=wss, obfs-host=184.169.250.80, obfs-uri=/jjyun, tag=🇺🇲 美国25 50Mbps 796ms 奈飞自制剧
+vmess = 137.175.57.197:443, method=chacha20-ietf-poly1305, password=08fc4943-4c7a-4a69-9265-fb961eaea917, obfs=wss, obfs-host=137.175.57.197, obfs-uri=/footers, tag=🇺🇲 美国26 48Mbps 976ms 奈飞自制剧
+vmess = 173.82.150.26:443, method=chacha20-ietf-poly1305, password=1a116d02-5fca-47fa-a2a1-6e8d0f2f71cc, obfs=wss, obfs-host=www.75287890.xyz, obfs-uri=/path/310910211916, tag=🇺🇲 美国27 48Mbps 1068ms 奈飞自制剧
+vmess = 142.4.104.187:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-host=142.4.104.187, obfs-uri=/path/310910211916, tag=🇺🇲 美国28 48Mbps 1115ms 奈飞自制剧
+vmess = 142.0.135.131:443, method=chacha20-ietf-poly1305, password=948754ae-984f-40d4-a49a-aabc7a005258, obfs=wss, obfs-host=www.42177849.xyz, obfs-uri=/path/310910211916, tag=🇺🇲 美国29 45Mbps 950ms 奈飞自制剧
+vmess = 173.82.19.59:443, method=chacha20-ietf-poly1305, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-host=www.38705043.xyz, obfs-uri=/footers, tag=🇺🇲 美国31 29Mbps 1018ms 奈飞自制剧
+vmess = v2.coding996.com:443, method=chacha20-ietf-poly1305, password=d0b0220b-0704-452a-b7f8-46f158091493, obfs=wss, obfs-host=v2.coding996.com, obfs-uri=/baidu, tag=🇺🇲 美国32 25Mbps 1100ms 奈飞自制剧
+vmess = v1.coding996.com:443, method=chacha20-ietf-poly1305, password=da46b8ad-7837-4ff6-ad10-0e9c3a0d630d, obfs=wss, obfs-host=v1.coding996.com, obfs-uri=/baidu, tag=🇺🇲 美国33 22Mbps 1051ms 奈飞自制剧
+vmess = zzr.zzzr.ltd:2053, method=chacha20-ietf-poly1305, password=b4bce79c-f5f4-11eb-8bf1-dd5c143fd9ce, obfs=wss, obfs-host=zzr.zzzr.ltd, obfs-uri=/KX3VqUfM/, tag=🇺🇲 美国34 22Mbps 933ms 奈飞自制剧
+vmess = v6.coding996.com:443, method=chacha20-ietf-poly1305, password=1e7aca54-979a-40b0-9d1c-d7ef65a3d665, obfs=wss, obfs-host=v6.coding996.com, obfs-uri=/wechat, tag=🇺🇲 美国35 19Mbps 1066ms 奈飞美国
+trojan = ust-1.opensvr.net:443, password=opentunnel.net-urewjdkw, over-tls=true, tls-host=, tls-verification=true, tag=🇺🇲 美国36 15Mbps 1186ms 奈飞自制剧
+vmess = 204.124.181.224:26917, method=chacha20-ietf-poly1305, password=3bc30c04-4854-47bc-80b5-4fbb2364006e, tag=🇨🇦 加拿大1 93Mbps 330ms 奈飞加拿大
+shadowsocks = 198.8.92.67:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇨🇦 加拿大2 75Mbps 494ms
+shadowsocks = 104.200.132.35:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=🇨🇦 加拿大3 74Mbps 507ms
+vmess = 204.124.181.160:61173, method=chacha20-ietf-poly1305, password=9d1043a6-e87e-4bb7-8858-c1185e9c0c3b, tag=🇨🇦 加拿大4 71Mbps 473ms 奈飞加拿大
+shadowsocks = 134.195.196.118:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tag=🇨🇦 加拿大5 57Mbps 567ms 奈飞自制剧
+shadowsocks = 208.78.41.195:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=🇨🇦 加拿大6 56Mbps 491ms
+shadowsocks = 66.115.147.92:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, tag=🇨🇦 加拿大7 54Mbps 492ms
+shadowsocks = ssr3.ssrsub.one:28139, method=aes-256-cfb, password=suo.yt/ssrsub, ssr-protocol=origin, obfs=plain, tag=🇨🇦 加拿大11 35Mbps 554ms 奈飞自制剧
+shadowsocks = 45.125.247.91:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇦🇺 🇦🇺 澳大利亚1 46Mbps 493ms
+shadowsocks = 45.125.247.43:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇺 🇦🇺 澳大利亚3 45Mbps 481ms
+shadowsocks = 45.125.247.45:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇦🇺 🇦🇺 澳大利亚5 42Mbps 499ms
+shadowsocks = 45.125.247.93:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇺 🇦🇺 澳大利亚8 40Mbps 488ms
+shadowsocks = 144.48.38.179:45746, method=aes-256-gcm, password=wEsFcHCvbL4eJkL4DZQa7RgR, tag=🇦🇺 🇦🇺 澳大利亚9 40Mbps 579ms
+vmess = 104.245.96.123:61173, method=chacha20-ietf-poly1305, password=9d1043a6-e87e-4bb7-8858-c1185e9c0c3b, tag=🇳🇱 荷兰1 75Mbps 626ms 奈飞荷兰
+vmess = 46.182.107.108:443, method=chacha20-ietf-poly1305, password=a6678d34-6aed-44bf-abc0-ad58de119c18, obfs=wss, obfs-host=46.182.107.108, obfs-uri=/footers, tag=🇳🇱 荷兰2 18Mbps 1092ms 奈飞自制剧
+vmess = 46.182.107.94:443, method=chacha20-ietf-poly1305, password=743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, obfs=wss, obfs-host=46.182.107.94, obfs-uri=/footers, tag=🇳🇱 荷兰3 13Mbps 1080ms 奈飞自制剧
+vmess = 46.182.107.154:443, method=chacha20-ietf-poly1305, password=130c9f2e-42b1-4ebf-b345-e26456a061f9, obfs=wss, obfs-host=46.182.107.154, obfs-uri=/footers, tag=🇳🇱 荷兰4 11Mbps 1064ms 奈飞自制剧
+vmess = 46.182.107.165:443, method=chacha20-ietf-poly1305, password=d3133484-f2bf-4b0c-8d38-f8e645b65687, obfs=wss, obfs-host=46.182.107.165, obfs-uri=/footers, tag=🇳🇱 荷兰5 10Mbps 1049ms 奈飞自制剧
+shadowsocks = 188.166.53.232:12593, method=aes-256-gcm, password=DIGTIALOCEAN188, tag=🇳🇱 荷兰7 0Mbps 1065ms
+shadowsocks = 185.212.203.115:36402, method=aes-256-gcm, password=qLVVsktJzWpi, tag=🇳🇱 荷兰8 0Mbps 1141ms
+shadowsocks = 84.17.53.219:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇨🇭 瑞士1 77Mbps 542ms
+shadowsocks = 156.146.62.57:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, tag=🇨🇭 瑞士2 76Mbps 465ms
+shadowsocks = 84.17.53.212:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇨🇭 瑞士3 67Mbps 504ms
+shadowsocks = 45.12.222.245:39556, method=aes-256-gcm, password=g4AfpNELpdYEeLYhM8XCX9se, tag=🇨🇭 瑞士4 66Mbps 528ms
+shadowsocks = 84.17.53.86:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇨🇭 瑞士5 65Mbps 616ms
+shadowsocks = 156.146.62.51:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇨🇭 瑞士10 51Mbps 489ms
+shadowsocks = 82.102.16.101:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇩🇪 德国1 76Mbps 487ms
+shadowsocks = 37.120.196.53:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇩🇪 德国3 68Mbps 493ms
+shadowsocks = 193.29.106.29:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇩🇪 德国4 66Mbps 439ms
+shadowsocks = 193.29.106.5:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇩🇪 德国5 60Mbps 509ms
+shadowsocks = 37.120.217.131:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇩🇪 德国6 59Mbps 470ms
+shadowsocks = 45.87.212.211:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇩🇪 德国7 58Mbps 493ms
+trojan = 139.59.209.152:4443, password=7x42LetRa0, over-tls=true, tls-host=, tls-verification=false, tag=🇩🇪 德国8 52Mbps 802ms 奈飞自制剧
+shadowsocks = 37.120.217.149:35200, method=aes-256-gcm, password=WBLAbN6AwtV5avBx73hFRLB3, tag=🇩🇪 德国9 51Mbps 510ms
+shadowsocks = 193.29.106.61:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇩🇪 德国10 51Mbps 526ms
+shadowsocks = 89.163.212.75:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, tag=🇩🇪 德国11 49Mbps 652ms 奈飞自制剧
+shadowsocks = 51.89.99.52:805, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, tag=🇩🇪 德国12 47Mbps 597ms 奈飞自制剧
+vmess = 51.89.127.84:443, method=chacha20-ietf-poly1305, password=b49905f3-efc7-4e1a-8435-f5f66857516d, obfs=wss, obfs-host=51.89.127.84, obfs-uri=/path/310910211916, tag=🇩🇪 德国14 20Mbps 1408ms 奈飞自制剧
+vmess = euserv6p.ezddns.tk:80, method=chacha20-ietf-poly1305, password=499737a4-9f18-4e1f-fb38-437e1855fc04, obfs=ws, obfs-host=euserv6p.ezddns.tk, obfs-uri=/video, tag=🇩🇪 德国15 11Mbps 1316ms 奈飞自制剧
+vmess = euserv12p.ezddns.tk:80, method=chacha20-ietf-poly1305, password=c0304bc1-f8ff-4108-9bc6-3415d16ae5e3, obfs=ws, obfs-host=euserv12p.ezddns.tk, obfs-uri=/video, tag=🇩🇪 德国16 10Mbps 1190ms 奈飞自制剧
+shadowsocks = 45.12.221.179:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇩🇰 丹麦1 76Mbps 523ms
+shadowsocks = 193.29.107.123:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇩🇰 丹麦2 74Mbps 570ms
+shadowsocks = 193.29.107.163:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇩🇰 丹麦3 64Mbps 591ms
+shadowsocks = 193.29.107.181:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, tag=🇩🇰 丹麦5 34Mbps 568ms
+shadowsocks = 194.37.98.228:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇬🇧 英国2 62Mbps 528ms
+shadowsocks = 86.106.136.85:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇬🇧 英国3 62Mbps 557ms
+shadowsocks = 143.244.57.106:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=🇫🇷 法国1 73Mbps 509ms
+shadowsocks = 138.199.16.137:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=🇫🇷 法国2 51Mbps 575ms
+shadowsocks = 143.244.57.99:49126, method=aes-256-gcm, password=wrCaGtrUbzeRqQLdc8Kmk3Nd, tag=🇫🇷 法国3 49Mbps 562ms
+shadowsocks = 217.138.207.253:32558, method=aes-256-gcm, password=gJYzm3TLbdL495ryQptaJXQk, tag=🇫🇷 法国4 42Mbps 495ms
+shadowsocks = 185.108.106.146:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇫🇷 法国6 18Mbps 658ms
+shadowsocks = 185.108.106.26:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇫🇷 法国7 14Mbps 684ms
+shadowsocks = 185.108.106.105:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇫🇷 法国9 13Mbps 642ms
+shadowsocks = 188.92.78.148:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=拉脱维亚1 67Mbps 525ms
+shadowsocks = 188.92.78.152:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=拉脱维亚2 58Mbps 540ms
+shadowsocks = 91.90.123.150:50232, method=aes-256-gcm, password=CjchzpwdSjRtDjezYMwx9BKM, tag=比利时1 65Mbps 465ms
+shadowsocks = 217.138.211.219:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=比利时2 56Mbps 596ms
+shadowsocks = 91.90.123.115:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=比利时3 33Mbps 594ms
+shadowsocks = 188.95.55.105:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=比利时4 3Mbps 915ms
+shadowsocks = 42.0.30.209:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=🇲🇾 马来西亚1 12Mbps 877ms
+shadowsocks = 217.138.220.131:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=捷克1 63Mbps 535ms
+shadowsocks = 89.37.95.23:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=西班牙1 62Mbps 543ms
+shadowsocks = 89.37.95.15:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=西班牙2 59Mbps 486ms
+shadowsocks = 172.107.233.234:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tag=西班牙5 1Mbps 1126ms
+shadowsocks = se.free-v2ray.tk:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, tag=🇮🇪 爱尔兰1 57Mbps 551ms
+shadowsocks = 5.157.13.133:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇮🇪 爱尔兰4 39Mbps 710ms
+shadowsocks = 2.59.214.204:10443, method=aes-128-gcm, password=suo.yt/ssrsub, obfs=tls, obfs-host=n46hm52773.wns.windows.com, tag=🇷🇺 俄罗斯联邦1 14Mbps 917ms 奈飞自制剧
+vmess = 45.140.169.224:52341, method=chacha20-ietf-poly1305, password=3f1079d6-998a-4d1b-98be-a7e9d5f30d07, tag=🇷🇺 俄罗斯联邦2 13Mbps 575ms
+vmess = 2.56.241.149:22222, method=chacha20-ietf-poly1305, password=19dc3928-8b9e-4080-9332-395afdca2702, tag=🇷🇺 俄罗斯联邦3 11Mbps 940ms 奈飞自制剧
+vmess = ru1.direct.starlink.st:65000, method=chacha20-ietf-poly1305, password=8ee1ee4e-b65a-4238-ac88-d1429c018e58, tag=🇷🇺 俄罗斯联邦4 11Mbps 580ms 奈飞自制剧
+vmess = 46.17.45.139:56967, method=chacha20-ietf-poly1305, password=5458261b-ec18-4673-9251-fa7859a5cacb, tag=🇷🇺 俄罗斯联邦5 10Mbps 909ms 奈飞自制剧
+vmess = ruuss333.liuwei01.tk:443, method=chacha20-ietf-poly1305, password=d7bbbcad-0653-42a1-b101-db44624707aa, obfs=wss, obfs-host=ruuss333.liuwei01.tk, obfs-uri=/liuwei, tag=🇷🇺 俄罗斯联邦7 6Mbps 1554ms 奈飞俄罗斯联邦
+vmess = 172.67.150.130:80, method=chacha20-ietf-poly1305, password=3d31728e-064d-42b8-b945-f79c008f73fc, obfs=ws, obfs-host=free-russian01-cdn.xiaohouzi.club, obfs-uri=/, tag=🇷🇺 俄罗斯联邦8 4Mbps 1471ms
+vmess = ruuss444.liuwei01.tk:443, method=chacha20-ietf-poly1305, password=93143f88-4e0c-438f-9b15-1774b9c4c41c, obfs=wss, obfs-host=ruuss444.liuwei01.tk, obfs-uri=/, tag=🇷🇺 俄罗斯联邦9 4Mbps 1647ms
+shadowsocks = 217.138.219.227:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇮🇹 意大利2 50Mbps 562ms
+shadowsocks = 37.120.207.117:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇮🇹 意大利3 49Mbps 582ms
+shadowsocks = 82.102.26.51:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=🇮🇹 意大利6 48Mbps 511ms
+shadowsocks = 82.102.26.94:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=🇮🇹 意大利10 46Mbps 665ms
+shadowsocks = 178.255.45.187:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=波兰1 50Mbps 468ms
+shadowsocks = 37.120.144.211:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=匈牙利1 52Mbps 708ms
+shadowsocks = 5.253.207.85:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇹 🇦🇹 奥地利1 51Mbps 582ms
+shadowsocks = 185.164.34.250:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=波斯尼亚和黑塞哥维那2 40Mbps 552ms
+shadowsocks = 185.99.3.146:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=波斯尼亚和黑塞哥维那3 35Mbps 638ms
+shadowsocks = 185.212.111.6:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=波斯尼亚和黑塞哥维那4 32Mbps 593ms
+shadowsocks = 31.171.154.101:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=阿尔巴尼亚1 15Mbps 840ms
+shadowsocks = 85.10.50.166:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=克罗地亚1 20Mbps 649ms
+shadowsocks = 194.39.127.163:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=葡萄牙1 46Mbps 632ms
+shadowsocks = 185.188.61.119:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=葡萄牙2 45Mbps 633ms
+shadowsocks = 91.205.230.140:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=葡萄牙4 3Mbps 1097ms
+shadowsocks = 5.154.174.189:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=葡萄牙5 2Mbps 1131ms
+shadowsocks = 5.154.174.67:37473, method=aes-256-gcm, password=enctdKyJfSu76VqznKwTt6Ap, tag=葡萄牙6 2Mbps 851ms
+shadowsocks = 91.205.230.160:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=葡萄牙7 1Mbps 1033ms
+shadowsocks = 103.120.66.214:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇮🇩 印度尼西亚1 45Mbps 623ms
+vmess = 185.247.138.25:15079, method=chacha20-ietf-poly1305, password=a1d846ec-9bef-4ffd-e34a-43bb06323ac3, tag=🇹🇷 土耳其1 40Mbps 702ms 奈飞土耳其
+shadowsocks = 107.150.94.27:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=🇹🇷 土耳其2 19Mbps 626ms
+shadowsocks = 5.189.202.16:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=哈萨克斯坦 29Mbps 740ms
+shadowsocks = 194.41.112.35:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=哥伦比亚4 2Mbps 959ms
+shadowsocks = 45.129.32.13:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=哥伦比亚5 2Mbps 1050ms
+shadowsocks = 91.206.168.15:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=哥伦比亚6 2Mbps 1292ms
+shadowsocks = 91.206.168.3:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=哥伦比亚7 2Mbps 1211ms
+shadowsocks = 91.206.168.9:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=哥伦比亚9 2Mbps 1124ms
+shadowsocks = 91.206.168.39:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=哥伦比亚10 2Mbps 1297ms
+shadowsocks = 196.196.203.141:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=🇫🇮 芬兰 18Mbps 636ms
+shadowsocks = 191.96.13.200:36460, method=aes-256-gcm, password=yUXad7DGF8L5cTShEpnp2N6z, tag=🇧🇷 巴西 17Mbps 804ms
+shadowsocks = 180.149.231.69:36460, method=aes-256-gcm, password=yUXad7DGF8L5cTShEpnp2N6z, tag=新西兰1 14Mbps 852ms
+shadowsocks = 180.149.231.67:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=新西兰2 14Mbps 883ms
+vmess = 165.154.229.136:21888, method=chacha20-ietf-poly1305, password=4a1faf2a-84c8-44a8-b5cc-77b113109d72, obfs=ws, obfs-host=165.154.229.136, obfs-uri=/, tag=🇻🇳 越南 14Mbps 1220ms
+shadowsocks = 45.83.91.133:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=瑞典 11Mbps 600ms
+shadowsocks = 87.239.255.119:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=以色列1 7Mbps 890ms
+shadowsocks = 87.239.255.116:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=以色列2 3Mbps 936ms
+shadowsocks = 195.158.249.40:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=斯洛文尼亚1 4Mbps 749ms
+shadowsocks = 195.158.249.36:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=斯洛文尼亚2 4Mbps 794ms
+shadowsocks = 84.247.50.69:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=挪威1 2Mbps 1121ms
+shadowsocks = 91.219.215.19:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=挪威2 0Mbps 1183ms
+shadowsocks = 154.127.49.230:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇿🇦 南非 2Mbps 861ms
+shadowsocks = 185.174.159.133:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=爱沙尼亚1 2Mbps 987ms
+shadowsocks = 185.174.159.136:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=爱沙尼亚2 1Mbps 1033ms
+shadowsocks = 194.150.167.28:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=希腊 2Mbps 1266ms
+shadowsocks = 185.225.28.93:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=北马其顿 0Mbps 1127ms
