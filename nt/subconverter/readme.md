@@ -3,8 +3,8 @@
     ACL4SSR_Google_mini.ini ，自用精简版配置
     
     
-eg:从acl4ssr获得的clash新链接，供参考：
-https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fch0306%2Fclash%2Fmain%2Fclash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_Google.ini
+    eg:从acl4ssr获得的clash新链接，供参考：
+    https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githubusercontent.com%2Fch0306%2Fclash%2Fmain%2Fclash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_Google.ini
     
     
     如何确保转换订阅的安全？
@@ -24,7 +24,7 @@ https://subcon.dlj.tf/sub?target=clash&new_name=true&url=https%3A%2F%2Fraw.githu
     ACL4SSR_Google_mini.ini。
     
     
-结合上面的例子，我们可以得到安全的订阅链接：
- http://localhost:25500/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fch0306%2Fclash%2Fmain%2Fclash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_Google.ini   利用别人的“远程配置”
- 或者    
- http://localhost:25500/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fch0306%2Fclash%2Fmain%2Fclash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Furnuts%2Fhaproxy%2Fmain%2Fnt%2Fsubconverter%2FACL4SSR_Google_mini.ini     利用自己修改后上传的“远程配置”
+   结合上面的例子，我们可以得到安全的订阅链接：
+   http://localhost:25500/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fch0306%2Fclash%2Fmain%2Fclash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_Google.ini   利用别人的“远程配置”
+   或者    
+   http://localhost:25500/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fch0306%2Fclash%2Fmain%2Fclash&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2Furnuts%2Fhaproxy%2Fmain%2Fnt%2Fsubconverter%2FACL4SSR_Google_mini.ini     利用自己修改后上传的“远程配置”
