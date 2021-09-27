@@ -78,11 +78,11 @@ shadowsocks = 134.195.196.118:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP
 shadowsocks = 208.78.41.195:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, tag=🇨🇦 加拿大6 56Mbps 491ms
 shadowsocks = 66.115.147.92:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, tag=🇨🇦 加拿大7 54Mbps 492ms
 shadowsocks = ssr3.ssrsub.one:28139, method=aes-256-cfb, password=suo.yt/ssrsub, ssr-protocol=origin, obfs=plain, tag=🇨🇦 加拿大11 35Mbps 554ms 奈飞自制剧
-shadowsocks = 45.125.247.91:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇦🇺 🇦🇺 澳大利亚1 46Mbps 493ms
-shadowsocks = 45.125.247.43:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇺 🇦🇺 澳大利亚3 45Mbps 481ms
-shadowsocks = 45.125.247.45:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇦🇺 🇦🇺 澳大利亚5 42Mbps 499ms
-shadowsocks = 45.125.247.93:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇺 🇦🇺 澳大利亚8 40Mbps 488ms
-shadowsocks = 144.48.38.179:45746, method=aes-256-gcm, password=wEsFcHCvbL4eJkL4DZQa7RgR, tag=🇦🇺 🇦🇺 澳大利亚9 40Mbps 579ms
+shadowsocks = 45.125.247.91:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇦🇺 澳大利亚1 46Mbps 493ms
+shadowsocks = 45.125.247.43:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇺 澳大利亚3 45Mbps 481ms
+shadowsocks = 45.125.247.45:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇦🇺 澳大利亚5 42Mbps 499ms
+shadowsocks = 45.125.247.93:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇺 澳大利亚8 40Mbps 488ms
+shadowsocks = 144.48.38.179:45746, method=aes-256-gcm, password=wEsFcHCvbL4eJkL4DZQa7RgR, tag=🇦🇺 澳大利亚9 40Mbps 579ms
 vmess = 104.245.96.123:61173, method=chacha20-ietf-poly1305, password=9d1043a6-e87e-4bb7-8858-c1185e9c0c3b, tag=🇳🇱 荷兰1 75Mbps 626ms 奈飞荷兰
 vmess = 46.182.107.108:443, method=chacha20-ietf-poly1305, password=a6678d34-6aed-44bf-abc0-ad58de119c18, obfs=wss, obfs-host=46.182.107.108, obfs-uri=/footers, tag=🇳🇱 荷兰2 18Mbps 1092ms 奈飞自制剧
 vmess = 46.182.107.94:443, method=chacha20-ietf-poly1305, password=743bdc87-1dea-41bf-aa0b-51dfbbfec8aa, obfs=wss, obfs-host=46.182.107.94, obfs-uri=/footers, tag=🇳🇱 荷兰3 13Mbps 1080ms 奈飞自制剧
@@ -123,17 +123,17 @@ shadowsocks = 217.138.207.253:32558, method=aes-256-gcm, password=gJYzm3TLbdL495
 shadowsocks = 185.108.106.146:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇫🇷 法国6 18Mbps 658ms
 shadowsocks = 185.108.106.26:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇫🇷 法国7 14Mbps 684ms
 shadowsocks = 185.108.106.105:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇫🇷 法国9 13Mbps 642ms
-shadowsocks = 188.92.78.148:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=拉脱维亚1 67Mbps 525ms
-shadowsocks = 188.92.78.152:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=拉脱维亚2 58Mbps 540ms
-shadowsocks = 91.90.123.150:50232, method=aes-256-gcm, password=CjchzpwdSjRtDjezYMwx9BKM, tag=比利时1 65Mbps 465ms
-shadowsocks = 217.138.211.219:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=比利时2 56Mbps 596ms
-shadowsocks = 91.90.123.115:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=比利时3 33Mbps 594ms
-shadowsocks = 188.95.55.105:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=比利时4 3Mbps 915ms
+shadowsocks = 188.92.78.148:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇱🇻 拉脱维亚1 67Mbps 525ms
+shadowsocks = 188.92.78.152:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇱🇻 拉脱维亚2 58Mbps 540ms
+shadowsocks = 91.90.123.150:50232, method=aes-256-gcm, password=CjchzpwdSjRtDjezYMwx9BKM, tag=🇧🇪 比利时1 65Mbps 465ms
+shadowsocks = 217.138.211.219:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇧🇪 比利时2 56Mbps 596ms
+shadowsocks = 91.90.123.115:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=🇧🇪 比利时3 33Mbps 594ms
+shadowsocks = 188.95.55.105:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇧🇪 比利时4 3Mbps 915ms
 shadowsocks = 42.0.30.209:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=🇲🇾 马来西亚1 12Mbps 877ms
-shadowsocks = 217.138.220.131:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=捷克1 63Mbps 535ms
-shadowsocks = 89.37.95.23:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=西班牙1 62Mbps 543ms
-shadowsocks = 89.37.95.15:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=西班牙2 59Mbps 486ms
-shadowsocks = 172.107.233.234:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tag=西班牙5 1Mbps 1126ms
+shadowsocks = 217.138.220.131:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇨🇿 捷克1 63Mbps 535ms
+shadowsocks = 89.37.95.23:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇪🇸 西班牙1 62Mbps 543ms
+shadowsocks = 89.37.95.15:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇪🇸 西班牙2 59Mbps 486ms
+shadowsocks = 172.107.233.234:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, tag=🇪🇸 西班牙5 1Mbps 1126ms
 shadowsocks = se.free-v2ray.tk:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, tag=🇮🇪 爱尔兰1 57Mbps 551ms
 shadowsocks = 5.157.13.133:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇮🇪 爱尔兰4 39Mbps 710ms
 shadowsocks = 2.59.214.204:10443, method=aes-128-gcm, password=suo.yt/ssrsub, obfs=tls, obfs-host=n46hm52773.wns.windows.com, tag=🇷🇺 俄罗斯联邦1 14Mbps 917ms 奈飞自制剧
@@ -148,44 +148,44 @@ shadowsocks = 217.138.219.227:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6
 shadowsocks = 37.120.207.117:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, tag=🇮🇹 意大利3 49Mbps 582ms
 shadowsocks = 82.102.26.51:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=🇮🇹 意大利6 48Mbps 511ms
 shadowsocks = 82.102.26.94:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=🇮🇹 意大利10 46Mbps 665ms
-shadowsocks = 178.255.45.187:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=波兰1 50Mbps 468ms
-shadowsocks = 37.120.144.211:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=匈牙利1 52Mbps 708ms
-shadowsocks = 5.253.207.85:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇹 🇦🇹 奥地利1 51Mbps 582ms
-shadowsocks = 185.164.34.250:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=波斯尼亚和黑塞哥维那2 40Mbps 552ms
-shadowsocks = 185.99.3.146:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=波斯尼亚和黑塞哥维那3 35Mbps 638ms
-shadowsocks = 185.212.111.6:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=波斯尼亚和黑塞哥维那4 32Mbps 593ms
-shadowsocks = 31.171.154.101:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=阿尔巴尼亚1 15Mbps 840ms
-shadowsocks = 85.10.50.166:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=克罗地亚1 20Mbps 649ms
-shadowsocks = 194.39.127.163:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=葡萄牙1 46Mbps 632ms
-shadowsocks = 185.188.61.119:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=葡萄牙2 45Mbps 633ms
-shadowsocks = 91.205.230.140:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=葡萄牙4 3Mbps 1097ms
-shadowsocks = 5.154.174.189:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=葡萄牙5 2Mbps 1131ms
-shadowsocks = 5.154.174.67:37473, method=aes-256-gcm, password=enctdKyJfSu76VqznKwTt6Ap, tag=葡萄牙6 2Mbps 851ms
-shadowsocks = 91.205.230.160:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=葡萄牙7 1Mbps 1033ms
+shadowsocks = 178.255.45.187:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇵🇱 波兰1 50Mbps 468ms
+shadowsocks = 37.120.144.211:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇭🇺 匈牙利1 52Mbps 708ms
+shadowsocks = 5.253.207.85:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇹 奥地利1 51Mbps 582ms
+shadowsocks = 185.164.34.250:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, tag=🇧🇦 波斯尼亚和黑塞哥维那2 40Mbps 552ms
+shadowsocks = 185.99.3.146:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, tag=🇧🇦 波斯尼亚和黑塞哥维那3 35Mbps 638ms
+shadowsocks = 185.212.111.6:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇧🇦 波斯尼亚和黑塞哥维那4 32Mbps 593ms
+shadowsocks = 31.171.154.101:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇦🇱 阿尔巴尼亚1 15Mbps 840ms
+shadowsocks = 85.10.50.166:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇭🇷 克罗地亚1 20Mbps 649ms
+shadowsocks = 194.39.127.163:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=🇵🇹 葡萄牙1 46Mbps 632ms
+shadowsocks = 185.188.61.119:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇵🇹 葡萄牙2 45Mbps 633ms
+shadowsocks = 91.205.230.140:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇵🇹 葡萄牙4 3Mbps 1097ms
+shadowsocks = 5.154.174.189:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, tag=🇵🇹 葡萄牙5 2Mbps 1131ms
+shadowsocks = 5.154.174.67:37473, method=aes-256-gcm, password=enctdKyJfSu76VqznKwTt6Ap, tag=🇵🇹 葡萄牙6 2Mbps 851ms
+shadowsocks = 91.205.230.160:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=🇵🇹 葡萄牙7 1Mbps 1033ms
 shadowsocks = 103.120.66.214:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇮🇩 印度尼西亚1 45Mbps 623ms
 vmess = 185.247.138.25:15079, method=chacha20-ietf-poly1305, password=a1d846ec-9bef-4ffd-e34a-43bb06323ac3, tag=🇹🇷 土耳其1 40Mbps 702ms 奈飞土耳其
 shadowsocks = 107.150.94.27:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, tag=🇹🇷 土耳其2 19Mbps 626ms
-shadowsocks = 5.189.202.16:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=哈萨克斯坦 29Mbps 740ms
-shadowsocks = 194.41.112.35:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=哥伦比亚4 2Mbps 959ms
-shadowsocks = 45.129.32.13:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=哥伦比亚5 2Mbps 1050ms
-shadowsocks = 91.206.168.15:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=哥伦比亚6 2Mbps 1292ms
-shadowsocks = 91.206.168.3:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=哥伦比亚7 2Mbps 1211ms
-shadowsocks = 91.206.168.9:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=哥伦比亚9 2Mbps 1124ms
-shadowsocks = 91.206.168.39:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=哥伦比亚10 2Mbps 1297ms
+shadowsocks = 5.189.202.16:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, tag=🇰🇿 哈萨克斯坦 29Mbps 740ms
+shadowsocks = 194.41.112.35:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, tag=🇨🇴 哥伦比亚4 2Mbps 959ms
+shadowsocks = 45.129.32.13:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇨🇴 哥伦比亚5 2Mbps 1050ms
+shadowsocks = 91.206.168.15:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, tag=🇨🇴 哥伦比亚6 2Mbps 1292ms
+shadowsocks = 91.206.168.3:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇨🇴 哥伦比亚7 2Mbps 1211ms
+shadowsocks = 91.206.168.9:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇨🇴 哥伦比亚9 2Mbps 1124ms
+shadowsocks = 91.206.168.39:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, tag=🇨🇴 哥伦比亚10 2Mbps 1297ms
 shadowsocks = 196.196.203.141:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, tag=🇫🇮 芬兰 18Mbps 636ms
 shadowsocks = 191.96.13.200:36460, method=aes-256-gcm, password=yUXad7DGF8L5cTShEpnp2N6z, tag=🇧🇷 巴西 17Mbps 804ms
-shadowsocks = 180.149.231.69:36460, method=aes-256-gcm, password=yUXad7DGF8L5cTShEpnp2N6z, tag=新西兰1 14Mbps 852ms
-shadowsocks = 180.149.231.67:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=新西兰2 14Mbps 883ms
+shadowsocks = 180.149.231.69:36460, method=aes-256-gcm, password=yUXad7DGF8L5cTShEpnp2N6z, tag=🇳🇿 新西兰1 14Mbps 852ms
+shadowsocks = 180.149.231.67:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, tag=🇳🇿 新西兰2 14Mbps 883ms
 vmess = 165.154.229.136:21888, method=chacha20-ietf-poly1305, password=4a1faf2a-84c8-44a8-b5cc-77b113109d72, obfs=ws, obfs-host=165.154.229.136, obfs-uri=/, tag=🇻🇳 越南 14Mbps 1220ms
-shadowsocks = 45.83.91.133:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=瑞典 11Mbps 600ms
-shadowsocks = 87.239.255.119:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=以色列1 7Mbps 890ms
-shadowsocks = 87.239.255.116:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=以色列2 3Mbps 936ms
-shadowsocks = 195.158.249.40:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=斯洛文尼亚1 4Mbps 749ms
-shadowsocks = 195.158.249.36:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=斯洛文尼亚2 4Mbps 794ms
-shadowsocks = 84.247.50.69:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=挪威1 2Mbps 1121ms
-shadowsocks = 91.219.215.19:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=挪威2 0Mbps 1183ms
+shadowsocks = 45.83.91.133:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, tag=🇸🇪 瑞典 11Mbps 600ms
+shadowsocks = 87.239.255.119:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=🇮🇱 以色列1 7Mbps 890ms
+shadowsocks = 87.239.255.116:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, tag=🇮🇱 以色列2 3Mbps 936ms
+shadowsocks = 195.158.249.40:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇸🇮 斯洛文尼亚1 4Mbps 749ms
+shadowsocks = 195.158.249.36:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇸🇮 斯洛文尼亚2 4Mbps 794ms
+shadowsocks = 84.247.50.69:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, tag=🇳🇴 挪威1 2Mbps 1121ms
+shadowsocks = 91.219.215.19:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=🇳🇴 挪威2 0Mbps 1183ms
 shadowsocks = 154.127.49.230:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇿🇦 南非 2Mbps 861ms
-shadowsocks = 185.174.159.133:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=爱沙尼亚1 2Mbps 987ms
-shadowsocks = 185.174.159.136:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=爱沙尼亚2 1Mbps 1033ms
-shadowsocks = 194.150.167.28:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=希腊 2Mbps 1266ms
-shadowsocks = 185.225.28.93:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=北马其顿 0Mbps 1127ms
+shadowsocks = 185.174.159.133:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, tag=🇪🇪 爱沙尼亚1 2Mbps 987ms
+shadowsocks = 185.174.159.136:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, tag=🇪🇪 爱沙尼亚2 1Mbps 1033ms
+shadowsocks = 194.150.167.28:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, tag=🇬🇷 希腊 2Mbps 1266ms
+shadowsocks = 185.225.28.93:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, tag=🇲🇰 北马其顿 0Mbps 1127ms
