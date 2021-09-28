@@ -1,8 +1,4 @@
 proxies:
-  - {name: 🇭🇰 腾讯香港_01, server: hkg.focusttl.xyz, port: 51378, type: trojan, password: a1df8723-b200-4f07-9bde-0c4c3c95c4c1, sni: hkg.focusttl.xyz, skip-cert-verify: false}
-  - {name: 🇭🇰 腾讯香港_02, server: hkg.focusttl.xyz, port: 61352, type: trojan, password: a1df8723-b200-4f07-9bde-0c4c3c95c4c1, sni: hkg.focusttl.xyz, skip-cert-verify: false}
-  - {name: 🇭🇰 腾讯香港_03, server: hkg.focusttl.xyz, port: 63118, type: trojan, password: a1df8723-b200-4f07-9bde-0c4c3c95c4c1, sni: hkg.focusttl.xyz, skip-cert-verify: false}
-  - {name: 🇭🇰 腾讯香港_04, server: hkg.focusttl.xyz, port: 63118, type: trojan, password: a1df8723-b200-4f07-9bde-0c4c3c95c4c1, sni: hkg.focusttl.xyz, skip-cert-verify: false}
   - {"name":"中转_🇨🇳TW-🇩🇪DE_20461","server":"dgyh.jjyun.ren","type":"vmess","country":"🇨🇳TW","port":80,"uuid":"031d7c73-b2fe-4695-9e8a-3702bba3ea47","alterId":1,"cipher":"auto","network":"ws","ws-path":"/jjyun","http-opts":{},"h2-opts":{},"skip-cert-veri
   - {"name":"中转_🇨🇳TW-🇩🇪DE_20463","server":"dgyh.jjyun.ren","type":"vmess","country":"🇨🇳TW","port":80,"uuid":"46261109-aa54-47e7-8ad1-8e170af43af1","alterId":1,"cipher":"auto","network":"ws","ws-path":"/jjyun","http-opts":{},"h2-opts":{},"skip-cert-veri
   - {"name":"中转_🇨🇳TW-🇩🇪DE_20464","server":"dgyh.jjyun.ren","type":"vmess","country":"🇨🇳TW","port":80,"uuid":"be04b13b-a137-4c33-9ff6-a0289c47aa59","alterId":1,"cipher":"auto","network":"ws","ws-path":"/jjyun","http-opts":{},"h2-opts":{},"skip-cert-veri
