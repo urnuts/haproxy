@@ -1,8 +1,8 @@
 # 4M/s,216条+5条
 # tw.收集
-shadowsocks = p5.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, tag=🇨🇳 中国台湾13 奈飞自制剧
+shadowsocks = p5.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, tag=🇨🇳 中国台湾13 NF自制
 shadowsocks = 210.241.243.8:8320, method=rc4-md5, password=passinfo123, tag=🇨🇳 中国台湾14 奈飞中国台湾
-vmess = 35.201.218.125:28879, method=chacha20-ietf-poly1305, password=8f55c99d-d400-47d5-a949-638204907e0b, tag=🇨🇳 中国台湾16 奈飞自制剧
+vmess = 35.201.218.125:28879, method=chacha20-ietf-poly1305, password=8f55c99d-d400-47d5-a949-638204907e0b, tag=🇨🇳 中国台湾16 NF自制
 shadowsocks = 117.28.243.187:8333, method=rc4-md5, password=passfw2xs4e!, ssr-protocol=origin, ssr-protocol-param=WWW.YOUNEED.WIN, obfs=plain, obfs-host=WWW.YOUNEED.WIN, tag=🇨🇳 泉州中转台湾291
 shadowsocks = 117.28.243.187:8333, method=rc4-md5, password=passfw2xs4e!, ssr-protocol=origin, ssr-protocol-param=t.me/SSRSUB7, obfs=plain, tag=🇨🇳 泉州中转台湾300
 
