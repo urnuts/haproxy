@@ -1,0 +1,431 @@
+  proxies:
+  - {name: CA_, server: 138.197.162.114, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
+  - {name: CA_, server: ca-trojan.bonds.id, port: 443, type: trojan, password: ac5a3ef0-b4ab-11eb-b65e-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: CA_, server: t8.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: 01263fd3-fd5e-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: d89fef63-5bce-4ee4-8YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 45.12.221.163, port: 443, type: trojan, password: YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: 01263fd3-fd5e-4c14-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: 01263fd3-fd5e-4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: 01263fd3-fd5e-4c14-878YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: d89fef63-5bce-4ee4-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: d89fef63-5bce-4ee4-89c8YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: 01263fd3-fd5e-4c14-8789-aYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 37.120.145.21, port: 443, type: trojan, password: d89fef63-5bce-4ee4-89c8-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 45.12.221.163, port: 443, type: trojan, password: 38237ce4-cf78-4b26YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, skip-cert-verify: true, udp: true}
+  - {name: DK_, server: 45.12.221.163, port: 443, type: trojan, password: 38237ce4-cf78-4b2YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, skip-cert-verify: true, udp: true}
+  - {name: GB_, server: 185.44.76.188, port: 443, type: trojan, password: YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, skip-cert-verify: true, udp: true}
+  - {name: GB_, server: 195.181.171.238, port: 443, type: trojan, password: YWVzLTI1Ni1nY206YVlOZUtETXpZUVl3NEtiVWJKQThXc3px, skip-cert-verify: true, udp: true}
+  - {name: GB_, server: 195.181.171.241, port: 443, type: trojan, password: YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: GB_, server: 185.44.76.188, port: 443, type: trojan, password: 8697fe6b-1948-41ce-a80a-7YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, skip-cert-verify: true, udp: true}
+  - {name: GB_, server: 185.44.76.188, port: 443, type: trojan, password: 2e240eYWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, skip-cert-verify: true, udp: true}
+  - {name: GB_, server: 185.44.76.188, port: 443, type: trojan, password: 2e240YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2, skip-cert-verify: true, udp: true}
+  - {name: GB_, server: 138.68.179.78, port: 1443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
+  - {name: GB_, server: 109.74.194.189, port: 1443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
+  - {name: ID_, server: id2-trojan.bonds.id, port: 443, type: trojan, password: 8d4ab0f0-79be-11eb-be0b-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: hk-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: hk-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: hk-server-01.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: hk-server-02.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: sg-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: azure-f4s-hk.transfer-xray.tk, port: 61370, type: trojan, password: 47de76e0-7a40-4410-acbc-a6dd18f9ffcd, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: azure-f4s-hk.transfer-xray.tk, port: 14407, type: trojan, password: 04fe8b98-8a68-4824-9612-7ed0228d9a76, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: azure-f4s-hk.transfer-xray.tk, port: 43032, type: trojan, password: 7374fc72-675e-474d-a0d6-51e8bad14ee2, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: azure-f4s-hk.transfer-xray.tk, port: 20261, type: trojan, password: 5a9b2bb0-d981-c6c0-779e-d8974dc48009, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: jp-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: jp-server-02.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: Relay_, server: ned-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: Relay_-🇨🇦 CA_, server: t8.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t8.ssrsub.com, udp: true}
+  - {name: Relay_-🇨🇦 CA_, server: t8.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t8.ssrsub.com, udp: true}
+  - {name: Relay_🇨🇦 CA-🇨🇦 CA_, server: t8.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: Relay_🇨🇦 CA-🇨🇦 CA_, server: t8.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: Relay_🇮🇩 ID-🇮🇩 ID_, server: id2-trojan.bonds.id, port: 443, type: trojan, password: 8d4ab0f0-79be-11eb-be0b-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 6cd8c567-7e8e-4bbc-a22Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 9be4bfcd-2Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167daeca-a71f-4923-8ea7-b716cbaeY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 91dc08d3-6e5e-4293-a660-b9Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 4a9fdY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 23115_aY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167daeca-a71f-4923-8ea7-b716cbae3cY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 4a9fY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: d89fef63-5bce-4ee4-89c8-b867Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167daeca-a71f-4923-8ea7-b716cbae3Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: d89fef63-5bce-4ee4-89c8-b867ccY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: V0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 4a9fd9c8-3f23-4ca3-a826-a1966a79ec92Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 4a9fd9c8-3f23Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 4Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167daeca-a71f-4923-8ea7-b716cbaY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: d89fef63-5bce-4ee4-89c8-b867ccfY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 4a9fd9c8-3f23-4caY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167daeca-a71f-4923-8ea7-b716cbae3c6Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167daeca-a71f-4923-8ea7-b716cbY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: WV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: d89fef63-5bce-4ee4-89c8-b867ccf73f1Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 4aY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: i1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: dY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167daeca-a71f-4923-8Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 4a9Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: d89fef63-5bce-4ee4-89c8-b867ccf7Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 9be4bY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 167dY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇪 BE_, server: 193.9.114.34, port: 443, type: trojan, password: 6cd8c567-7e8eY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大T16:dlj.tf/ssrsub, server: t8.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t8.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 加拿大T8:dlj.tf/ssrsub, server: t8.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t8.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 CN_, server: silver-jp01.straycloud.xyz, port: 210, type: trojan, password: 0ac65136-5962-49d6-91f0-138957f6dec9, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: silver-hk06.straycloud.xyz, port: 205, type: trojan, password: 0ac65136-5962-49d6-91f0-138957f6dec9, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: silver-hk07.straycloud.xyz, port: 206, type: trojan, password: 0ac65136-5962-49d6-91f0-138957f6dec9, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: 122.192.154.54, port: 3389, type: trojan, password: 1910c83debd71218, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: 122.192.154.54, port: 3389, type: trojan, password: ba4fedf8c217c146, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: 43.240.206.227, port: 3389, type: trojan, password: ba4fedf8c217c146, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: 183.236.57.25, port: 3389, type: trojan, password: 1910c83debd71218, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: 120.236.197.205, port: 3389, type: trojan, password: 1910c83debd71218, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: 43.240.206.227, port: 3389, type: trojan, password: 1910c83debd71218, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: 120.236.197.205, port: 3389, type: trojan, password: ba4fedf8c217c146, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 CN_, server: 183.236.57.25, port: 3389, type: trojan, password: ba4fedf8c217c146, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 TW, server: tw-tpe-hc-tr.cdn.savoy.click, port: 2443, type: trojan, password: UiLPqefVfielqkDjEwBV, sni: tw-tpe-hc-tr.cdn.savoy.click, skip-cert-verify: false}
+  - {name: 🇨🇳 TW_, server: 2.58.242.43, port: 443, type: trojan, password: YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇳 TW_, server: 2.58.242.43, port: 443, type: trojan, password: 7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 DE_, server: 37.120.196.171, port: 443, type: trojan, password: YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 DE_, server: 194.195.124.174, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 DE_, server: 5.183.179.138, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 DE_, server: 139.59.209.152, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 DE_, server: 5.183.179.138, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 德国 2, server: 194.195.124.174, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: false}
+  - {name: 🇫🇷 FR_, server: fr-trojan.bonds.id, port: 443, type: trojan, password: 7c9b7560-b0f7-11eb-a397-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK 10, server: agals04.cloudddns.icu, port: 992, type: trojan, password: f45d308f-d9bc-3954-982f-40883392fb8e, sni: agals04.cloudddns.icu, skip-cert-verify: false}
+  - {name: 🇭🇰 HK_, server: azure-f4s-hk.transfer-xray.tk, port: 20261, type: trojan, password: 5a9b2bb0-d981-c6c0-779e-d8974dc48009, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK_, server: azure-f4s-hk.transfer-xray.tk, port: 61370, type: trojan, password: 47de76e0-7a40-4410-acbc-a6dd18f9ffcd, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK_, server: hk31.ssgnode.ga, port: 443, type: trojan, password: 41742_c8caa, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK_, server: azure-f4s-hk.transfer-xray.tk, port: 14407, type: trojan, password: 04fe8b98-8a68-4824-9612-7ed0228d9a76, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK_, server: kaizen-hk-2.cn0.me, port: 443, type: trojan, password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK_, server: azure-f4s-hk.transfer-xray.tk, port: 43032, type: trojan, password: 7374fc72-675e-474d-a0d6-51e8bad14ee2, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK_, server: hk1.ifl520.xyz, port: 16001, type: trojan, password: ea6e0d6a-2e18-3afb-82d8-2408de425832, sni: hk1.ifl520.xyz}
+  - {name: 🇭🇰 HK_, server: hk2.ifl520.xyz, port: 16005, type: trojan, password: ea6e0d6a-2e18-3afb-82d8-2408de425832, sni: hk2.ifl520.xyz}
+  - {name: 🇭🇰 HK_, server: kaizen-hk-4.cn0.me, port: 443, type: trojan, password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 HK_, server: azure-f4s-hk.transfer-xray.tk, port: 52382, type: trojan, password: a54f2aba-20a5-4f0d-bd6e-43767b473c63, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 Relay_🇭🇰 HK-🇭🇰HK_, server: kaizen-hk-2.cn0.me, port: 443, type: trojan, password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 Relay_🇭🇰HK-🇭🇰HK_, server: kaizen-hk-2.cn0.me, port: 443, type: trojan, password: 18e513fe-f7f4-353d-84ca-bc9646fb2528mielink, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 Relay_🇭🇰HK-🇭🇰HK_, server: hk31.ssgnode.ga, port: 443, type: trojan, password: 41742_c8caa, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 Relay_🇭🇰HK-🇺🇸US_, server: azure-f4s-hk.transfer-xray.tk, port: 52382, type: trojan, password: a54f2aba-20a5-4f0d-bd6e-43767b473c63, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 Relay_🇭🇰HK-🇺🇸US_, server: azure-f4s-hk.transfer-xray.tk, port: 43032, type: trojan, password: 7374fc72-675e-474d-a0d6-51e8bad14ee2, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 Relay_🇭🇰HK-🇺🇸US_, server: azure-f4s-hk.transfer-xray.tk, port: 61370, type: trojan, password: 47de76e0-7a40-4410-acbc-a6dd18f9ffcd, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 Relay_🇭🇰HK-🇺🇸US_, server: azure-f4s-hk.transfer-xray.tk, port: 14407, type: trojan, password: 04fe8b98-8a68-4824-9612-7ed0228d9a76, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 Relay_🇭🇰HK-🇺🇸US_, server: azure-f4s-hk.transfer-xray.tk, port: 20261, type: trojan, password: 5a9b2bb0-d981-c6c0-779e-d8974dc48009, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: tky3.ssgnode.ga, port: 443, type: trojan, password: 23115_a451f03, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: jp2.ifl520.xyz, port: 15003, type: trojan, password: ea6e0d6a-2e18-3afb-82d8-2408de425832, sni: jp2.ifl520.xyz}
+  - {name: 🇯🇵 JP_, server: jp1.ifl520.xyz, port: 15001, type: trojan, password: ea6e0d6a-2e18-3afb-82d8-2408de425832, sni: jp1.ifl520.xyz}
+  - {name: 🇯🇵 JP_, server: 5.183.177.111, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 45.66.134.219, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 5.183.177.111, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 45.66.134.219, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 45.66.134.219, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 5.183.177.111, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 5.183.177.111, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 45.66.134.219, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 45.66.134.219, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 JP_, server: 45.66.134.219, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_, server: jp-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: jp-server-02.selfupay.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_, server: jp-server-02.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 Relay_🇯🇵JP-🇯🇵JP_, server: jp-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: nl-trojan.bonds.id, port: 443, type: trojan, password: 94af0550-902b-11eb-b135-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: nl-trojan.bonds.id, port: 443, type: trojan, password: 7e6256a0-b4ab-11eb-bc8f-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: nl-trojan.bonds.id, port: 443, type: trojan, password: 96884680-77e6-11eb-8d67-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 185.171.120.144, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 89.31.127.151, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 185.171.120.144, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 178.62.201.120, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 89.31.127.151, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 89.31.127.151, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 185.171.120.144, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 185.171.120.144, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 89.31.127.151, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 185.171.120.144, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 89.31.127.151, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 89.31.127.151, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰_, server: 185.171.120.144, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 Relay_🇳🇱NL-🇳🇱NL_, server: ned-server-01.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 Relay_🇳🇱NL-🇳🇱NL_, server: ned-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: ned-server-01.selfupay.com, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 Relay_🇳🇱NL-🇳🇱NL_, server: nl-trojan.bonds.id, port: 443, type: trojan, password: 94af0550-902b-11eb-b135-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 Relay_🇳🇱NL-🇳🇱NL_, server: nl-trojan.bonds.id, port: 443, type: trojan, password: 96884680-77e6-11eb-8d67-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 Relay_🇳🇱NL-🇳🇱NL_, server: ned-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 Relay_🇷🇴RO-🇷🇴RO_, server: hk-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 Relay_🇷🇴RO-🇷🇴RO_, server: hk-server-01.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 Relay_🇷🇴RO-🇷🇴RO_, server: hk-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 Relay_🇷🇴RO-🇷🇴RO_, server: hk-server-02.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 Relay_🇷🇴RO-🇷🇴RO_, server: hk-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: hk-server-01.selfupay.com, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 Relay_🇷🇴RO-🇷🇴RO_, server: hk-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: hk-server-02.selfupay.com, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 62.216.92.179, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 62.216.92.179, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 62.216.92.180, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 62.216.92.180, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 62.216.92.179, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 194.37.98.211, port: 443, type: trojan, password: YWVzLTI1Ni1nY206REtYZld3YzRlYnNjcFhUS3BidDg1clNI, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 62.216.92.180, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 185.126.116.235, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 185.126.116.235, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 185.126.116.235, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 185.105.191.92, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 185.126.116.235, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 62.216.92.180, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 185.126.116.235, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇴 RO_, server: 185.105.191.92, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 俄罗斯T11:dlj.tf/ssrsub, server: t3.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t3.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T12:dlj.tf/ssrsub, server: t4.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t4.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T13:dlj.tf/ssrsub, server: t5.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t5.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T14:dlj.tf/ssrsub, server: t6.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t6.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T15:dlj.tf/ssrsub, server: t7.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t7.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T3:dlj.tf/ssrsub, server: t3.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t3.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T4:dlj.tf/ssrsub, server: t4.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t4.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T5:dlj.tf/ssrsub, server: t5.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t5.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T6:dlj.tf/ssrsub, server: t6.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t6.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 俄罗斯T7:dlj.tf/ssrsub, server: t7.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t7.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇷🇺 Relay_-🇷🇺RU_, server: t5.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t5.ssrsub.com, udp: true}
+  - {name: 🇷🇺 Relay_-🇷🇺RU_, server: t6.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t6.ssrsub.com, udp: true}
+  - {name: 🇷🇺 Relay_-🇷🇺RU_, server: t5.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t5.ssrsub.com, udp: true}
+  - {name: 🇷🇺 Relay_-🇷🇺RU_, server: t6.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t6.ssrsub.com, udp: true}
+  - {name: 🇷🇺 Relay_-🇷🇺RU_, server: t7.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t7.ssrsub.com, udp: true}
+  - {name: 🇷🇺 Relay_-🇷🇺RU_, server: t7.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t7.ssrsub.com, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t5.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t6.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t7.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t3.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t7.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t6.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t5.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t3.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t4.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_, server: t4.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 RU_, server: t4.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇷🇺 RU_, server: t7.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 Relay_🇸🇬SG-🇸🇬SG_, server: sg1-trojan.bonds.id, port: 443, type: trojan, password: 5c5ceb40-902b-11eb-945a-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG_, server: www.ligonwen.cf, port: 443, type: trojan, password: 7836137d-2db0-4809-9b57-ed14cf2ed4ce, sni: www.ligonwen.cf}
+  - {name: 🇸🇬 SG_, server: sg3-trojan.bonds.id, port: 443, type: trojan, password: 4c7985e0-79e8-11eb-b8d3-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG_, server: sg1-trojan.bonds.id, port: 443, type: trojan, password: 5c5ceb40-902b-11eb-945a-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG_, server: 81.90.189.85, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG_, server: sg5-trojan.bonds.id, port: 443, type: trojan, password: d13d4be0-fbf2-11eb-bcea-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG_, server: sg3-trojan.bonds.id, port: 443, type: trojan, password: 97fdf760-7bbf-11eb-8e14-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG_, server: 188.166.242.117, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 SG_, server: sg1.ifl520.xyz, port: 17001, type: trojan, password: ea6e0d6a-2e18-3afb-82d8-2408de425832, sni: sg1.ifl520.xyz}
+  - {name: 🇸🇬 SG_, server: sg3.ifl520.xyz, port: 17005, type: trojan, password: ea6e0d6a-2e18-3afb-82d8-2408de425832, sni: sg3.ifl520.xyz}
+  - {name: 🇸🇬 SG_, server: jp2.ifl520.xyz, port: 15003, type: trojan, password: ea6e0d6a-2e18-3afb-82d8-2408de425832, sni: jp2.ifl520.xyz}
+  - {name: 🇸🇬 SG_, server: 81.90.189.85, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 美国T10:dlj.tf/ssrsub, server: t2.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t2.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇲 美国T1:dlj.tf/ssrsub, server: t1.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t1.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇲 美国T2:dlj.tf/ssrsub, server: t2.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t2.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇲 美国T9:dlj.tf/ssrsub, server: t1.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t1.ssrsub.com, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇲 Relay_🇺🇸US-🇺🇸US_, server: t2.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 Relay_🇺🇸US-🇺🇸US_, server: t1.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 Relay_🇺🇸US-🇺🇸US_, server: t2.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 Relay_🇺🇸US-🇺🇸US_, server: t1.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: t1.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: 530e1YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70b-5e2aYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98333846e2cYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-679d-47d2-bfdc-4YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-679d-47d2-bfdc-48a56YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: bd9a998e-56f1-4db3-9952-868bYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91b-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98333846e2cbYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 154.16.169.7, port: 443, type: trojan, password: YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-bYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: 530e1804-672YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-bYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a1YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2dbYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-1YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 143.244.42.76, port: 443, type: trojan, password: YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: o5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 104.200.131.229, port: 443, type: trojan, password: YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4dYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 104.200.131.229, port: 443, type: trojan, password: 52147717-3969YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-679d-47d2-bfYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: bd9a998e-56f1-4dbYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: LajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: TZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: 530e1804-6724-480b-b525-fb4c4YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-679d-47d2-bfdYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: ZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bcYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: e5220638-a228-YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: b5467f6eYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: us01.straycloud.icu, port: 442, type: trojan, password: 0ac65136-5962-49d6-91f0-138957f6dec9, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-1773YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98333846e2YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017aYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a12YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91bYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-1773aYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-1773a4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-177YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: bd9a998e-56f1-4db3-9952-86YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d2YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b9YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-17YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98333846eYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: MR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70b-5e2YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 06eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 104.200.131.229, port: 443, type: trojan, password: 52147717-3969-4dc9YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: GtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91b-f6399eYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-6YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: us-trojan.bonds.id, port: 443, type: trojan, password: 38239dd0-902b-11eb-afc1-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91b-f6399e68YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 84.17.35.86, port: 443, type: trojan, password: YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b82YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: hPqZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: jhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: Y206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-060YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70b-5YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 91.220.202.248, port: 443, type: trojan, password: 3zOdub, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: e5220638-YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: us-trojan.bonds.id, port: 443, type: trojan, password: ccf1ee40-b4ab-11eb-b421-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70b-5eYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: bd9a998e-56f1YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_-🇺🇸US_, server: t2.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t2.ssrsub.com, udp: true}
+  - {name: 🇺🇸 Relay_-🇺🇸US_, server: t2.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t2.ssrsub.com, udp: true}
+  - {name: 🇺🇸 Relay_-🇺🇸US_, server: t1.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, sni: t1.ssrsub.com, udp: true}
+  - {name: 🇺🇸 Relay_-🇺🇸US_, server: t1.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, sni: t1.ssrsub.com, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: usa-server-02.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: sg-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: sg-server-01.selfupay.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: sg-server-01.selfupay.com, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: usa-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: usa-server-02.selfupay.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: us-trojan.bonds.id, port: 443, type: trojan, password: 38239dd0-902b-11eb-afc1-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: usa-server-02.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: t1.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: t2.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: t1.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: sg-server-01.selfupay.com, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 Relay_🇺🇸US-🇺🇸US_, server: t2.ssrsub.com, port: 8443, type: trojan, password: 2faeb94c-1be6-4e31-a30c-c0cbf5f4a1d5, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 184.168.127.50, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, sni: t.me/vpnhat, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 72.167.33.106, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 72.167.45.6, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: us-trojan.bonds.id, port: 443, type: trojan, password: 38239dd0-902b-11eb-afc1-1239d0255272, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 72.167.45.6, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 72.167.33.106, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 72.167.33.106, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 72.167.45.6, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 184.168.127.50, port: 443, type: trojan, password: a3fa58b581353bb375d2ddad0f327938, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 139.177.197.51, port: 1443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 184.168.127.50, port: 443, type: trojan, password: 28d98f761aca9d636f44db62544628eb, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 184.168.127.50, port: 443, type: trojan, password: 36ebef7d1b1d6205fd0c55f28800e674, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: e5220638-a228-YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 91.220.202.248, port: 443, type: trojan, password: 3zOdub, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-679d-47d2-bfYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 06eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: GtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b9YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 45.89.173.205, port: 443, type: trojan, password: YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: o5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: jhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 143.244.42.76, port: 443, type: trojan, password: YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 104.200.131.229, port: 443, type: trojan, password: 52147717-3969YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-1773a4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-6YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-1773aYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 104.200.131.229, port: 443, type: trojan, password: 52147717-3969-4dc9YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2dbYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 104.200.131.229, port: 443, type: trojan, password: YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-177YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017aYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70b-5eYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: bd9a998e-56f1-4db3-9952-868bYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: 530e1YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91b-f6399e68YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91bYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98333846e2cbYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70b-5e2aYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70b-5e2YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-679d-47d2-bfdc-48a56YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: hPqZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: ZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bcYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-1YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: LajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70b-5YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91b-f6399eYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-17YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d2YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: bd9a998e-56f1-4db3-9952-86YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-b91b-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: b5467f6eYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: Y206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: TZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: bd9a998e-56f1YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: bd9a998e-56f1-4dbYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-679d-47d2-bfdc-4YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: fc2db962-679d-47d2-bfdYWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a12YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.66, port: 443, type: trojan, password: e5220638-YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98333846e2YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b82YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b4YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 154.16.169.7, port: 443, type: trojan, password: YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.98, port: 443, type: trojan, password: YWVzLTI1Ni1nY206YVlOZUtETXpZUVl3NEtiVWJKQThXc3px, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98333846eYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 212.102.44.83, port: 443, type: trojan, password: nJ0R1B6MkhU, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a1YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98333846e2cYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-bYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: 530e1804-6724-480b-b525-fb4c4YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: af920201-1b42-47f1-9397-1773YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: MR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4d21-bYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 7017a129-b828-4dYWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: bc7593fe-060YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 198.147.22.87, port: 443, type: trojan, password: 530e1804-672YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: 156.146.33.73, port: 443, type: trojan, password: 03f78fb8-2473-4636-89b3-98YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFw, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: silver-jp01.straycloud.xyz, port: 210, type: trojan, password: 0ac65136-5962-49d6-91f0-138957f6dec9, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 US_, server: silver-hk06.straycloud.xyz, port: 205, type: trojan, password: 0ac65136-5962-49d6-91f0-138957f6dec9, skip-cert-verify: true, udp: true}
