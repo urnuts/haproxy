@@ -1,3 +1,8 @@
+     #自定义规则
+    
+  #- DOMAIN-SUFFIX,m-team.cc,🇭🇰 腾讯HK
+    
+    
     # 直连模式
   
   - DOMAIN-SUFFIX,amazon.com
