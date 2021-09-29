@@ -1,3 +1,4 @@
+  proxies:
   - {name: CA_, server: 138.197.162.114, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true, udp: true}
   - {name: CA_, server: ca-trojan.bonds.id, port: 443, type: trojan, password: ac5a3ef0-b4ab-11eb-b65e-1239d0255272, skip-cert-verify: true, udp: true}
   - {name: CA_, server: t8.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42, skip-cert-verify: true, udp: true}
