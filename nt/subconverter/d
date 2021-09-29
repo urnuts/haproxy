@@ -1,3 +1,5 @@
+    # 直连模式
+  
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,log.mmstat.com
