@@ -1,3 +1,4 @@
+proxies:
   - {name: 🇺🇸 美国16 65Mbps 1109ms 奈飞自制剧, server: 142.0.135.67, port: 443, type: vmess, uuid: 7884536d-42ca-43bb-909c-3b222f21a6bb, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: 142.0.135.67}}
   - {name: 🇺🇸 美国17 62Mbps 998ms 奈飞自制剧, server: 142.4.127.67, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: 142.4.127.67}}
   - {name: 🇺🇸 美国18 61Mbps 978ms 奈飞自制剧, server: 142.0.136.26, port: 443, type: vmess, uuid: 99a32d2a-05a6-48e3-aaaf-76ee979f82b2, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /path/310910211916, ws-headers: {Host: 142.0.136.26}}
