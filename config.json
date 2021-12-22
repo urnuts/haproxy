@@ -1,0 +1,206 @@
+{
+        "log": {
+            #"access": "/var/xray_log/access.log",
+            #"error": "/var/xray_log/error.log",
+            "loglevel": "warning"
+        }, 
+    "dns": {
+        "servers": [
+            "1.0.0.1",
+            "1.1.1.1",
+            "8.8.4.4",
+            "9.9.9.9",
+            "localhost"
+        ]
+    },
+    "routing": {
+        "domainStrategy": "AsIs",
+        "rules": [
+            {
+                "type": "field",
+                "ip": [
+                    "geoip:private"
+                ],
+                "outboundTag": "block"
+            },
+            {
+                "type": "field",
+                "domain": [
+                    "geosite:category-ads-all"
+                ],
+                "outboundTag": "block"
+            },
+            {
+                "type": "field",
+                "domain": [
+		        "geosite:google",
+		        "hostloc.com",
+		        "hostevaluate.com"
+                ],
+                 "outboundTag": "IPv4-out"
+             }
+        ]
+    },
+    "inbounds": [
+        {
+            "port": 8443,
+            "protocol": "vless",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "a2e87aa5-77ac-4fda-b072-a33e9ed1b46c",// 填写你的 UUID
+                        "flow": "xtls-rprx-direct",
+                        "level": 0,
+                        "email": "love@example.com"
+                    }
+                ],
+                "decryption": "none",
+                "fallbacks": [
+                    {
+                        "dest": 1310,// 默认回落到 Xray 的 Trojan 协议
+                        "xver": 1
+                    },
+                    {
+                        "path": "/ika",// 必须换成自定义的vless+ws的 PATH
+                        "dest": 1234,
+                        "xver": 1
+                    },
+                    {
+                        "path": "/ikav",// 必须换成自定义的vmess+ws的 PATH
+                        "dest": 3456,
+                        "xver": 1
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "security": "xtls",
+                "xtlsSettings": {
+                "allowInsecure": false,
+                "minVersion": "1.2",
+                    "alpn": [
+                        "http/1.1"
+                    ],
+                    "certificates": [
+                        {
+                            "certificateFile": "/root/.acme.sh/ika.focusttl.xyz/fullchain.cer",// 换成你的证书，绝对路径
+                            "keyFile": "/root/.acme.sh/ika.focusttl.xyz/ika.focusttl.xyz.key" // 换成你的私钥，绝对路径
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "port": 1310,
+            "listen": "127.0.0.1",
+            "protocol": "trojan",
+            "settings": {
+                "clients": [
+                    {
+                        "password": "a2e87aa5-77ac-4fda-b072-a33e9ed1b46c",// 填写你的密码/UUID
+                        "level": 0,
+                        "email": "love@example.com"
+                    }
+                ],
+                "fallbacks": [
+                    {
+                        "dest": 80  // 或者回落到其它也防探测的代理
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "tcp",
+                "security": "none",
+                "tcpSettings": {
+                    "acceptProxyProtocol": true
+                }
+            }
+        },
+        {
+            "port": 1234,
+            "listen": "127.0.0.1",
+            "protocol": "vless",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "a2e87aa5-77ac-4fda-b072-a33e9ed1b46c",// 填写你的 UUID
+                        "level": 0,
+                        "email": "love@example.com"
+                    }
+                ],
+                "decryption": "none"
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "none",
+                "wsSettings": {
+                    "acceptProxyProtocol": true,// 提醒：若你用 Nginx/Caddy 等反代 WS，需要删掉这行
+                    "path": "/ika" // 必须换成自定义的 PATH，需要和分流的一致
+                }
+            }
+        },
+        {
+            "port": 3456,
+            "listen": "127.0.0.1",
+            "protocol": "vmess",
+            "settings": {
+                "clients": [
+                    {
+                        "id": "a2e87aa5-77ac-4fda-b072-a33e9ed1b46c",// 填写你的 UUID
+                        "level": 0,
+                        "email": "love@example.com"
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "none",
+                "wsSettings": {
+                    "acceptProxyProtocol": true,// 提醒：若你用 Nginx/Caddy 等反代 WS，需要删掉这行
+                    "path": "/ikav" // 必须换成自定义的 PATH，需要和分流的一致
+                }
+            }
+        },
+        {
+            "port": 28196,
+            "protocol": "shadowsocks",
+            "settings": {
+                "clients": [
+                    {
+                        "password": "9hNR24Je0oiD7Oam",// 填写你的密码1
+                        "method": "aes-128-gcm"
+                    },
+                    {
+                        "password": "9hNR24Je0oiD7Oam",// 填写你的密码2
+                        "method": "aes-256-gcm"
+                    }
+                ],
+                "network": "tcp,udp"
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "tag": "direct",
+            "protocol": "freedom"
+        },
+        {
+            "tag": "block",
+            "protocol": "blackhole"
+        },
+       {
+             "protocol": "freedom",
+             "settings": {
+             "domainStrategy": "UseIPv4"
+            },
+             "tag": "IPv4-out"
+        },
+       {
+             "protocol": "freedom",
+             "settings": {
+             "domainStrategy": "UseIPv6"
+        },
+             "tag": "IPv6-out"
+       }
+    ]  
+}
