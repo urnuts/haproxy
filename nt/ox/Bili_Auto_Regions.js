@@ -1,6 +1,6 @@
 /**************************
 哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
-如需禁用豆瓣评分或策略通知, 可前往BoxJs设置.
+如需禁用豆瓣评分或策略通知, 可前往BoxJs设置
 BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
 Author: @NobyDa
 ****************************
