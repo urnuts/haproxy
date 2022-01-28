@@ -1,6 +1,7 @@
     原作者项目，欢迎star
     https://github.com/I-am-R-E/QuantumultX
     https://github.com/yqc007/QuantumultX
+    https://github.com/nameking77/Qx/tree/main/rewrite
     
     .conf仅包含[mitm] 和[rewrite_local]
     .js包含[mitm] 和[rewrite_local]和js脚本
@@ -49,6 +50,8 @@
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/NanFangZhouMo.conf
     支持版本：商店最新 7.3.12
     更新时间：2022.1.21
+    支持商店最新版,
+    登陆后，白嫖年费会员到2030年，白嫖年费会员所有课程 ，白嫖所有付费课程。感谢群友提供的VIP信息
     
     解锁keep会员视频
     ⚠️⚠️⚠️需登录
@@ -63,12 +66,21 @@
     软件版本：1.1.13
     更新时间：2021.11.23
     
-    ---------------------------------- 
-    菜谱大全#烘焙小屋.VIP【说明：菜谱大全和烘焙小屋完全一样，解锁脚本一样；，二选一下载即可,】
+    ----------------------------------  
+    三者同一家公司【说明：菜谱大全和烘焙小屋完全一样，解锁脚本一样；二选一下载即可,】
+      #菜谱大全.VIP
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/CaiPuDaQuan.conf
     支持版本：商店最新 5.0.8
     更新时间：2022.1.19
     使用说明：☝️支持商店最新版，解锁所有限制
+     # 烘焙小屋.VIP
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/HongBeiXiaoWu.conf
+    支持版本：商店最新 3.9.3
+    更新时间：2022.1.19
+    
+    
+    
+
 
 
     香哈菜谱.VIP，除课程外解锁所有限制
@@ -142,7 +154,7 @@
     
 
     
-        ///// 以下未测试 ////
+        ///// 以下未测试已标注 ////
         
     知乎网页版优化： app不可用，未测试
     https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihu.conf
@@ -159,19 +171,13 @@
     使用说明：点击“恢复订阅”即可,一次性解锁永久订阅！
     ‼恢复订阅的过程中需要耐心等待,一次不行 就多试几次 直到最后出现,“成功”字样提示 说明破解生效‼
     
-    
-    
-    
-
-    
-  
-    微信读书.免费会员
+    微信读书.免费会员. 未测试
     使用方法：⚠️不支持商店最新版，仅支持5.5.1前后的一两个版本，需要抓包旧版。
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/WeRead.conf
     会员时长延长到33392年（你没看错）🎉，会员页面无法打开请关闭去广告脚本
     不成功终极解决办法：打开HTTP数据抓取，MitM额外主机名输入*，开启App数据抓取！⚠️用完记得关闭
     
-    流利说阅读.VIp会员
+    流利说阅读.VIP会员. 未测试
     支持版本：商店最新 2.20.3
     更新时间：2022.1.16
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
@@ -189,12 +195,27 @@
     支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
     更新时间：2022-01-20
     
+    NOMO CAM 解锁订阅
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/NoMoCamProCrack.js
+    软件版本：1.5.131
+    更新时间：2022-01-06
+    使用说明：一次性解锁‼
+    均支持商店最新版;接收到验证码后，再开脚本去登陆�;同步解锁nomo-raw，需手动操作
+
+    七猫小说.解锁终身会员
+    无任何下载、阅读、听书限制，去除所有广告（还有广告卸载重装）
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/QiMaoXiaoShuo.conf
+    使用说明：☝️支持商店最新版
     
     TextEditor. 无效？？
     https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.js
     支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
     更新时间：2022-01-21
-    
+        
+    SaveFile.解锁下载限制. 未测试
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.js
+    支持版本：商店最新 2.2.4
+    更新时间：2022.1.17
     
     
     
