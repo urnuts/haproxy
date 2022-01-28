@@ -1,19 +1,12 @@
-
-
-
 /**
-* EMBY解锁订阅
-* @author: KleinerSource, tg@Plus_Movie_Best
+* @author: KleinerSource
+* 
 * @fileoverview Example to compose response for rewrite of script-echo-response.
+*
 * $request.url, $notify(title, subtitle, message), console.log(message), $done(response)
+*
 * @supported Quantumult X (v1.0.3-build141)
-
-*[mitm] 
-*hostname = mb3admin.com
-
-*[rewrite_local]
-*^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Emby.js
-* * */
+*/
 var url = $request.url;
 
 const myStatus = "HTTP/1.1 200 OK";
