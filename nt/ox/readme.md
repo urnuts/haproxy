@@ -83,10 +83,16 @@
     https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihu.conf
     
     
-    
+    绅士摄影解锁会员，未测试
+    软件版本：3.0
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/LingDuPortraitProCrack.js
+    更新时间：2021.12.31
+
     
     
     ///// 以下未引用 ////
+    
+    
     
     微信读书免费会员
     使用方法：⚠️不支持商店最新版，仅支持5.5.1前后的一两个版本，需要抓包旧版。
