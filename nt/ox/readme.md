@@ -79,6 +79,8 @@
     更新时间：2022.1.24
     
     
+    知乎网页版优化： app不可用，未测试
+    https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihu.conf
     
     
     
