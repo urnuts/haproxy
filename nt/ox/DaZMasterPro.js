@@ -16,8 +16,6 @@
 [rewrite_local]
 # 答岸Master解锁会员
 ^https?:\/\/123\.57\.195\.48\/api\/(Usercent|teach)er\/get(User|TeacherDetail)Info\?token=.+$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/DaZMasterPro.js
-
-[mitm] 
 hostname = 123.57.195.48
 *
 *
