@@ -22,5 +22,28 @@
     随手记  解锁随手记VIP, 去除部分广告, 可下载付费主题
     支持版本：商店最新 13.0.0
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/SuiShouJi.conf
-    使用说明：☝️支持商店最新版
     🎉解锁付费皮肤，账本里有个“我是大富翁”主题皮肤，原价¥648，现在点击购买即可零元购，秒赚¥648！！！
+    
+    
+        脚本功能：解锁Picsart
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Picsart.conf
+    支持版本：商店最新 18.3
+    
+    
+    脚本功能：解锁香哈菜谱VIP(除名厨菜里标有课程的视频看不了,其他可以看)
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
+    支持版本：商店最新 9.0.1
+    更新时间：2022.1.19
+
+
+
+
+
+
+
+
+
+
+
+
+
