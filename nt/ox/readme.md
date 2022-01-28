@@ -50,6 +50,38 @@
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/NanFangZhouMo.conf
     支持版本：商店最新 7.3.12
     更新时间：2022.1.21
+    需要登录
+    
+    
+    
+    美图秀秀高级VIP
+    解锁高级会员（包括但不限于：付费海报模板、高级滤镜、高级素材等），无须登陆
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MeiTuXiuXiu.conf
+    支持版本：商店最新 9.3.80
+    更新时间：2022.1.17
+    
+    
+    微信读书免费会员
+    使用方法：⚠️不支持商店最新版，仅支持5.5.1前后的一两个版本，需要抓包旧版。
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/WeRead.conf
+    会员时长延长到33392年（你没看错）🎉，会员页面无法打开请关闭去广告脚本
+    不成功终极解决办法：打开HTTP数据抓取，MitM额外主机名输入*，开启App数据抓取！⚠️用完记得关闭
+    
+    
+    流利说阅读VIp会员
+    支持版本：商店最新 2.20.3
+    更新时间：2022.1.16
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
+    使用说明：会员时长到2030年，破解的标志是打开阅读🈚️限制，不会提示会员才能看🎉
+    如果没有显示会员，剩余天数999。必须卸载重装！
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
