@@ -6,46 +6,64 @@
     .js包含[mitm] 和[rewrite_local]和js脚本
     
     
-    # 哔哩哔哩自动换区脚本：
+⚠️⚠️⚠️⚠️⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️⚠️⚠️⚠️⚠️
+    
+     ----------------------------------
+     Bilibili自动换区脚本：
      ⚠️⚠️⚠️需登录需要修改节点名称
      可选, 由于qx纯tun特性, 不添加规则可能会导致bilibili换区脚本失效：ip-cidr, 203.107.1.1/24, reject
      
-     哔哩哔哩解锁大会员
+     Bilibili解锁会员
      ⚠️⚠️⚠️需登录
      https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPCrack.js
      软件版本：6.58.0
      更新时间：2022-01-18
-
-
-
-
+     
+     ----------------------------------
+     酷我2496解锁会员
+     ⚠️⚠️⚠️需登录，失效
+     https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.js
+     软件版本：1.2.2
+     更新时间：2021.11.16
+     
+     解锁酷我音乐会员歌曲➕听书➕下载
+     https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
+     更新时间：20212.1.15
+     
+     ----------------------------------
+    EMBY.解锁订阅
+    https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
+    #普拉斯影业 #EMBY破解 
+    QuanX 重写
+    Rewrite: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.conf
+    Loon 插件
+    Plugin: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.plugin
 
     AudioMack.解锁永久订阅
     ⚠️⚠️⚠️需登录
     https://raw.githubusercontent.com/yqc007/QuantumultX/master/AudioMackProCrack.js
     软件版本：6.4.4，支持美区商店最新版,目前测试为一次性解锁
         
-
-    Notability解锁订阅
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
-    软件版本：11.0.1/5/6
-    更新时间：2021.11.26
-
-    随手记.解锁VIP, 去除部分广告, 可下载付费主题
-    ⚠️⚠️⚠️需登录
-    支持版本：商店最新 13.0.0
-    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/SuiShouJi.conf
-    🎉解锁付费皮肤，账本里有个“我是大富翁”主题皮肤，原价¥648，现在点击购买即可零元购，秒赚¥648！！！
-    
     南方周末.高级年费会员 + 年费会员课程 + 所有付费课程
     ⚠️⚠️⚠️需登录
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/NanFangZhouMo.conf
     支持版本：商店最新 7.3.12
     更新时间：2022.1.21
     
+    解锁keep会员视频
+    ⚠️⚠️⚠️需登录
+    https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/keep
+    软件版本：7.17.0
+    更新时间：2021.12.26
+    //使用方法：不要点击课程预览，往下滑直接点击课程阶
     
-
-    ========================================================
+    答岸Master解锁会员
+    ⚠️⚠️⚠️需登录
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
+    软件版本：1.1.13
+    更新时间：2021.11.23
+    
+    ----------------------------------
     菜谱大全.VIP 【同香哈菜谱】
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/CaiPuDaQuan.conf
     支持版本：商店最新 5.0.8
@@ -58,10 +76,23 @@
     支持版本：商店最新 9.0.1
     更新时间：2022.1.19
 
-    ========================================================
+    ----------------------------------
+        
+        
+        
+        
+⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
     
+    Notability解锁订阅
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
+    软件版本：11.0.1/5/6
+    更新时间：2021.11.26
 
-
+    随手记.解锁VIP, 去除部分广告, 可下载付费主题
+    ⚠️⚠️⚠️需登录
+    支持版本：商店最新 13.0.0
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/SuiShouJi.conf
+    🎉解锁付费皮肤，账本里有个“我是大富翁”主题皮肤，原价¥648，现在点击购买即可零元购，秒赚¥648！！！
     
     Picsew解锁专业版
     截图拼接/长图拼接
@@ -74,35 +105,40 @@
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Picsart.conf
     支持版本：商店最新 18.3
     
-    
-   
     美图秀秀.高级VIP
     解锁高级会员（包括但不限于：付费海报模板、高级滤镜、高级素材等），无须登陆
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MeiTuXiuXiu.conf
     支持版本：商店最新 9.3.80
     更新时间：2022.1.17
     
-    
     美颜相机.紫钻VIP
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MeiYanXiangJi.conf
     支持版本：商店最新 10.3.00
     更新时间：2022.1.15
     
+    傲软抠图.解锁会员
+    ⚠️⚠️⚠️需登录
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/BackgroundEraserProCrack.js
+    软件版本：1.5.1
+    更新时间：2021.11.20
+      
+    录屏大师.解锁会员
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/RecordScreenProCrack.js
+    软件版本：2.0.8
+    更新时间：2021.11.3
+    
+    Polaris Office解锁订阅
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/PolarisOfficeProCrack.js
+    软件版本：9.6.1
+    更新时间：2021.11.12
+    
+    计算器HD.解锁会员
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/CalculatorHDProCrack.js
+    软件版本：1.9.4
+    更新时间：2021.11.16
     
     
-    EMBY.解锁订阅
-    https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
-    #普拉斯影业 #EMBY破解 
-    QuanX 重写
-    Rewrite: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.conf
-    Loon 插件
-    Plugin: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.plugin
 
-    
-    马卡龙玩图.订阅
-    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MaKaLongWanTu.conf
-    支持版本：商店最新 5.3.4
-    更新时间：2022.1.24
     
     
     知乎网页版优化： app不可用，未测试
@@ -115,37 +151,12 @@
     更新时间：2021.12.31
 
     
-    计算器HD.解锁会员
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/CalculatorHDProCrack.js
-    软件版本：1.9.4
-    更新时间：2021.11.16
+
     
-    Polaris Office解锁订阅
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/PolarisOfficeProCrack.js
-    软件版本：9.6.1
-    更新时间：2021.11.12
-    
-    录屏大师.解锁会员
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/RecordScreenProCrack.js
-    软件版本：2.0.8
-    更新时间：2021.11.3
-    
-    傲软抠图.解锁会员
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/BackgroundEraserProCrack.js
-    软件版本：1.5.1
-    更新时间：2021.11.20
+
     
     
-    解锁keep会员视频
-    https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/keep
-    软件版本：7.17.0
-    更新时间：2021.12.26
-    //使用方法：不要点击课程预览，往下滑直接点击课程阶
-    
-    答岸Master解锁会员
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
-    软件版本：1.1.13
-    更新时间：2021.11.23
+
     
     
     
@@ -163,16 +174,15 @@
     
     
     
+    
     ///// 以下未引用 ////
     
-    
-    
+  
     微信读书.免费会员
     使用方法：⚠️不支持商店最新版，仅支持5.5.1前后的一两个版本，需要抓包旧版。
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/WeRead.conf
     会员时长延长到33392年（你没看错）🎉，会员页面无法打开请关闭去广告脚本
     不成功终极解决办法：打开HTTP数据抓取，MitM额外主机名输入*，开启App数据抓取！⚠️用完记得关闭
-    
     
     流利说阅读.VIp会员
     支持版本：商店最新 2.20.3
@@ -180,6 +190,11 @@
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
     使用说明：会员时长到2030年，破解的标志是打开阅读🈚️限制，不会提示会员才能看🎉
     如果没有显示会员，剩余天数999。必须卸载重装！
+        
+    马卡龙玩图.订阅. 未测试
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MaKaLongWanTu.conf
+    支持版本：商店最新 5.3.4
+    更新时间：2022.1.24
     
     
     
