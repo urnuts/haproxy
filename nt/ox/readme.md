@@ -2,6 +2,9 @@
     https://github.com/I-am-R-E/QuantumultX
     https://github.com/yqc007/QuantumultX
     
+    .conf仅包含[mitm] 和[rewrite_local]
+    .js包含[mitm] 和[rewrite_local]和js脚本
+    
     
     # 哔哩哔哩自动换区脚本：
      js需要修改节点名称
