@@ -16,7 +16,7 @@
 [rewrite_local]
 
 # Notability解锁订阅
-^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Notability.js
+^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NotabilityPro.js
 
 [mitm] 
 
