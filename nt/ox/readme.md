@@ -63,14 +63,15 @@
     软件版本：1.1.13
     更新时间：2021.11.23
     
-    ----------------------------------
-    菜谱大全.VIP 【同香哈菜谱】
+    ---------------------------------- 
+    菜谱大全#烘焙小屋.VIP【说明：菜谱大全和烘焙小屋完全一样，解锁脚本一样；，二选一下载即可,】
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/CaiPuDaQuan.conf
     支持版本：商店最新 5.0.8
     更新时间：2022.1.19
     使用说明：☝️支持商店最新版，解锁所有限制
 
-    香哈菜谱.VIP(除名厨菜里标有课程的视频看不了,其他可以看)
+
+    香哈菜谱.VIP，除课程外解锁所有限制
     ⚠️⚠️⚠️需登录
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
     支持版本：商店最新 9.0.1
@@ -103,7 +104,8 @@
     Picsart
     图片/视频编辑
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Picsart.conf
-    支持版本：商店最新 18.3
+    支持版本：商店最新 18.3，群友反馈：下载美区更好使
+    
     
     美图秀秀.高级VIP
     解锁高级会员（包括但不限于：付费海报模板、高级滤镜、高级素材等），无须登陆
@@ -140,27 +142,17 @@
     
 
     
-    
+        ///// 以下未测试 ////
+        
     知乎网页版优化： app不可用，未测试
     https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihu.conf
-    
     
     绅士摄影.解锁会员，未测试
     软件版本：3.0
     https://raw.githubusercontent.com/yqc007/QuantumultX/master/LingDuPortraitProCrack.js
     更新时间：2021.12.31
-
     
-
-    
-
-    
-    
-
-    
-    
-    
-    PlaneVPN解锁订阅
+    PlaneVPN解锁订阅，未测试
     https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
     软件版本：2.4.1【美区商店】
     更新时间：2021.11.19
@@ -170,12 +162,7 @@
     
     
     
-    
-    
-    
-    
-    
-    ///// 以下未引用 ////
+
     
   
     微信读书.免费会员
@@ -195,6 +182,21 @@
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MaKaLongWanTu.conf
     支持版本：商店最新 5.3.4
     更新时间：2022.1.24
+    
+    FIMO.解锁全部胶卷
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.js
+    软件版本：2.18.0
+    支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
+    更新时间：2022-01-20
+    
+    
+    TextEditor. 无效？？
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.js
+    支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
+    更新时间：2022-01-21
+    
+    
+    
     
     
     
