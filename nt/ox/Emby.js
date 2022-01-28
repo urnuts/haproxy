@@ -8,11 +8,11 @@
 * $request.url, $notify(title, subtitle, message), console.log(message), $done(response)
 * @supported Quantumult X (v1.0.3-build141)
 
-[mitm] 
-hostname = mb3admin.com
+*[mitm] 
+*hostname = mb3admin.com
 
-[rewrite_local]
-^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Emby.js
+*[rewrite_local]
+*^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Emby.js
 * * */
 var url = $request.url;
 
