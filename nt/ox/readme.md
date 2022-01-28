@@ -10,9 +10,9 @@
 
     脚本功能：AudioMack解锁永久订阅
     软件版本：6.4.4
-    开启 QX 脚本
-    2⃣️：登陆 Audiomack 账号
-    3⃣️：退出 Audiomack 后台
-    4⃣️：重新进入 Audiomack
-    5⃣️：关闭 QX 脚本 永久订阅Get🎉
+    /开启 QX 脚本
+    /登陆 Audiomack 账号
+    /退出 Audiomack 后台
+    /重新进入 Audiomack
+    /关闭 QX 脚本 永久订阅Get🎉
 
