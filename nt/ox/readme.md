@@ -73,7 +73,10 @@
     Plugin: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.plugin
 
     
-    
+    马卡龙玩图订阅
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MaKaLongWanTu.conf
+    支持版本：商店最新 5.3.4
+    更新时间：2022.1.24
     
     
     
