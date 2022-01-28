@@ -56,7 +56,7 @@
     需要登录
     
     
-    
+   
     美图秀秀高级VIP
     解锁高级会员（包括但不限于：付费海报模板、高级滤镜、高级素材等），无须登陆
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MeiTuXiuXiu.conf
@@ -64,9 +64,14 @@
     更新时间：2022.1.17
     
     
-    
-    
-    
+    EMBY解锁
+    https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
+    #普拉斯影业 #EMBY破解 
+    QuanX 重写
+    Rewrite: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.conf
+    Loon 插件
+    Plugin: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.plugin
+
     
     
     
