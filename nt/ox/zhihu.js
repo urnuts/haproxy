@@ -6,14 +6,14 @@
  **********
 [rewrite]
 // 以下规则仅对手机网页版有效，如使用APP 请勿添加
-// 一键订阅: https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihu.conf
+// 一键订阅: https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/zhihu.js
 
 // 手动添加: 
 // 先重写到桌面版
 ^https:\/\/www\.zhihu\.com\/ url request-header (\r\n)User-Agent:.+(\r\n) request-header $1User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36$2
 // 再注入 CSS 进行优化
-^https:\/\/www\.zhihu\.com\/question url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihux.user.js
-^https:\/\/www\.zhihu\.com\/topic url script-response-body https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihux.user.js
+^https:\/\/www\.zhihu\.com\/question url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/zhihu.js
+^https:\/\/www\.zhihu\.com\/topic url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/zhihu.js
 
 // 去掉知乎跳转第三方网站的中间页面。可选，记得加 mitmhost: link.zhihu.com
 ^https?://link\.zhihu\.com/\?target=(https?)%3A//(.*) url 307 $1://$2
