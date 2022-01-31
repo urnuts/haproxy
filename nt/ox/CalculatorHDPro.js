@@ -11,16 +11,23 @@
 使用声明：⚠️此脚本仅供学习与交流，
         请勿转载与贩卖！⚠️⚠️⚠️
 
-*******************************
-
-[rewrite_local]
-
 # 计算器HD解锁会员
+*******************************
+QuantumultX:
+[rewrite_local]
 ^https?:\/\/www\.40sishi\.com\/(list|currency|calculator)\/user\/profile$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/CalculatorHDPro.js
 
 [mitm] 
-
 hostname = www.40sishi.com
+
+*******************************
+Surge4 or Loon:
+[rewrite_local]
+http-response ^https?:\/\/www\.40sishi\.com\/(list|currency|calculator)\/user\/profile$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/CalculatorHDPro.js
+
+[mitm] 
+hostname = www.40sishi.com
+***************************
 *
 *
 */
