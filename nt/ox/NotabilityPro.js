@@ -12,15 +12,23 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 
 ******************************
-
+QuantumultX:
 [rewrite_local]
-
-# Notability解锁订阅
 ^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NotabilityPro.js
 
 [mitm] 
-
 hostname = notability.com
+
+***************************
+Surge4 or Loon:
+[Script]
+http-response ^https?:\/\/notability\.com\/subscriptions requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NotabilityPro.js
+
+[mitm] 
+hostname = notability.com
+
+***************************
+
 *
 *
 */
