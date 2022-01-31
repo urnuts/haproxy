@@ -10,17 +10,23 @@
 问题反馈：https://t.me/yqc_007
 使用声明：⚠️此脚本仅供学习与交流，
         请勿转载与贩卖！⚠️⚠️⚠️
-
-*******************************
-
-[rewrite_local]
-
 # > AudioMack解锁永久订阅
+***************************
+QuantumultX:
+[rewrite_local]
 ^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/AudioMack.js
 
 [mitm] 
-
 hostname = api.revenuecat.com
+
+***************************
+Surge4 or Loon:
+[Script]
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/AudioMack.js
+
+[mitm] 
+hostname = api.revenuecat.com
+***************************
 *
 *
 */
