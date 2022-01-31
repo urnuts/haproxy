@@ -6,6 +6,7 @@ Author: @NobyDa
 ****************************
 脚本取自@NobyDa的库，仅为了方便小白配置默认使用而更改了策略组名称
 作者库：https://raw.githubusercontent.com/NobyDa
+QuantumultX:
 [mitm] 
 hostname = ap?.bilibili.com
 
@@ -15,7 +16,15 @@ hostname = ap?.bilibili.com
 #可选, 适用于搜索指定地区的番剧
 ^https:\/\/app\.bilibili\.com\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)& url script-request-header https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
 
+***************************
+Surge4 or Loon:
+hostname = ap?.bilibili.com
 
+[Script]
+#哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
+http-response ^https:\/\/ap(p|i)\.bilibili\.com\/(pgc\/view\/(v\d\/)?app|x(\/v\d)?\/view\/video)\/(season|online)\?access_key requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
+#可选, 适用于搜索指定地区的番剧
+^https:\/\/app\.bilibili\.com\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)& requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
 
 ***************************/
 
