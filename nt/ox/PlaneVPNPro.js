@@ -13,15 +13,23 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 
 ********************************
-
+QuantumultX:
 [rewrite_local]
-
-# PlaneVPN解锁订阅
 ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/PlaneVPNPro.js
 
 [mitm] 
-
 hostname = buy.itunes.apple.com
+
+
+********************************
+Surge4 or Loon:
+[Script]
+http-response ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/PlaneVPNPro.js
+
+[mitm] 
+hostname = buy.itunes.apple.com
+
+********************************
 *
 *
 */
