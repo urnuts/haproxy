@@ -22,7 +22,7 @@ hostname = www.40sishi.com
 
 *******************************
 Surge4 or Loon:
-[rewrite_local]
+[Script]
 http-response ^https?:\/\/www\.40sishi\.com\/(list|currency|calculator)\/user\/profile$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/CalculatorHDPro.js
 
 [mitm] 
