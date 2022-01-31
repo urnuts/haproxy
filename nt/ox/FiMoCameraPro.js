@@ -12,14 +12,21 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 
 *******************************
-
+QuantumultX:
 [rewrite_local]
-
 # > FIMO解锁全部胶卷
 ^https?:\/\/server\.yoyiapp\.com\/fimo-user\/apple\/certificate$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/FiMoCameraPro.js
 
 [mitm] 
+hostname = server.yoyiapp.com
 
+*******************************
+Surge4 or Loon:
+[Script]
+# > FIMO解锁全部胶卷
+http-response ^https?:\/\/server\.yoyiapp\.com\/fimo-user\/apple\/certificate$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/FiMoCameraPro.js
+
+[mitm] 
 hostname = server.yoyiapp.com
 *
 *
