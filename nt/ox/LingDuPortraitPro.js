@@ -12,11 +12,22 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 
 *******************************
-
+QuantumultX:
 [rewrite_local]
 
 # > 绅士摄影解锁会员
 ^https?:\/\/appa\.lingdu2019\.cn\/api\/(my_home\/\w{9}|portrait\/\w{15,23}|iport/luffy/api/\w{7}/\w{9}|send\/\w{18})$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/LingDuPortraitPro.js
+
+[mitm] 
+
+hostname = appa.lingdu2019.cn
+*******************************
+
+Surge4 or Loon:
+[Script]
+
+# > 绅士摄影解锁会员
+http-response ^https?:\/\/appa\.lingdu2019\.cn\/api\/(my_home\/\w{9}|portrait\/\w{15,23}|iport/luffy/api/\w{7}/\w{9}|send\/\w{18})$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/LingDuPortraitPro.js
 
 [mitm] 
 
