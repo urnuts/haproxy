@@ -6,13 +6,22 @@
 更新时间：2022.1.21
 问题反馈：https://t.me/yqc_777
 使用声明：⚠️⚠️⚠️此脚本仅供学习与交流，请勿转载与贩卖！⚠️⚠️⚠️
+
+***************************
+QuantumultX:
 [mitm] 
 hostname = api.infzm.com
 
 [rewrite_local]
-# > 南方周末(2022.01.21)
 ^https?:\/\/api\.infzm\.com\/mobile\/(user|contents\?|contents\/\d+\?|contents\/\d+\/isview\?|course_borrow|courses\/\d+\?|mall|course_items) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NanFangZhouMo.js
+***************************
+Surge4 or Loon:
+[mitm] 
+hostname = api.infzm.com
 
+[Script]
+http-response ^https?:\/\/api\.infzm\.com\/mobile\/(user|contents\?|contents\/\d+\?|contents\/\d+\/isview\?|course_borrow|courses\/\d+\?|mall|course_items) requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NanFangZhouMo.js
+***************************
 
 */
 
