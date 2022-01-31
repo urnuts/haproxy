@@ -6,6 +6,7 @@
     
     .conf仅包含[mitm] 和[rewrite_local]
     .js包含[mitm] 和[rewrite_local]和js脚本
+    脚本同时支持loon和surge4,仅测试loon
     
     
 ⚠️⚠️⚠️⚠️⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️⚠️⚠️⚠️⚠️
@@ -154,7 +155,7 @@
     
     
 
-    
+
         ///// 以下未测试已标注 ////
         
     知乎网页版优化： app不可用，未测试
@@ -217,22 +218,5 @@
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.js
     支持版本：商店最新 2.2.4
     更新时间：2022.1.17
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
-
-
+   
 
