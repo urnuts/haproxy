@@ -12,16 +12,23 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 
 *******************************
+QuantumultX:
 
 [rewrite_local]
-
-# > 哔哩哔哩解锁大会员
 ^https?:\/\/ap(i|p)\.bilibili\.com\/bilibili\.\w{3,4}\..+\/(View|PlayView|PlayConf|PlayerOnline|MainList|ViewProgress)$ url script-request-header https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/BiLiBiLiBVIP.js
 
 [mitm] 
-
 hostname = *.bili*.*, 124.239.240.*, 101.89.57.66, 218.94.210.66, 240e:b1:9801:206:11:0:0:*
-*
+
+***************************
+Surge4 or Loon:
+
+[Script]
+http-response https?:\/\/ap(i|p)\.bilibili\.com\/bilibili\.\w{3,4}\..+\/(View|PlayView|PlayConf|PlayerOnline|MainList|ViewProgress)$ urequires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/BiLiBiLiBVIP.js
+
+[mitm] 
+hostname = *.bili*.*, 124.239.240.*, 101.89.57.66, 218.94.210.66, 240e:b1:9801:206:11:0:0:*
+***************************
 *
 */
 
