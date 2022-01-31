@@ -11,17 +11,24 @@
 问题反馈：https://t.me/yqc_007
 使用声明：⚠️此脚本仅供学习与交流，
         请勿转载与贩卖！⚠️⚠️⚠️
-
+        
 ********************************
-
+QuantumultX:
 [rewrite_local]
-
-# Picsew解锁专业版
 ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/PicsewPro.js
 
 [mitm] 
-
 hostname = buy.itunes.apple.com
+
+********************************
+Surge4 or Loon:
+[Script]
+http-response ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/PicsewPro.js
+
+[mitm] 
+hostname = buy.itunes.apple.com
+
+***************************
 *
 *
 */
