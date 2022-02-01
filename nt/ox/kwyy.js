@@ -7,9 +7,21 @@
 问题反馈：https://t.me/yqc_777
 使用声明：⚠️⚠️⚠️此脚本仅供学习与交流，
         请勿转载与贩卖！⚠️⚠️⚠️
+        
+***************************
+QuantumultX:
 [rewrite_local]
-# 解锁酷我音乐会员➕听书
 ^http://(.+).kuwo.cn(/v2/api/user/info|/a.p|/vip/v2/user/vip) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/kwyy.js
+
+[mitm] 
+hostname = *.kuwo.cn
+
+
+********************************
+Surge4 or Loon:
+[Script]
+http-response ^http://(.+).kuwo.cn(/v2/api/user/info|/a.p|/vip/v2/user/vip) requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/kwyy.js
+
 [mitm] 
 hostname = *.kuwo.cn
 ********************************
