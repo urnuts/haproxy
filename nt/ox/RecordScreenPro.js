@@ -12,15 +12,22 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 
 ******************************
-
+QuantumultX:
 [rewrite_local]
-
-# 录屏大师解锁会员
 ^http?:\/\/luping\.cushuikeji\.cn\/api\/v1\.user\/info url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/RecordScreenPro.js
 
 [mitm] 
-
 hostname = luping.cushuikeji.cn
+
+
+***************************
+Surge4 or Loon:
+[Script]
+http-response ^http?:\/\/luping\.cushuikeji\.cn\/api\/v1\.user\/info requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/RecordScreenPro.js
+
+[mitm] 
+hostname = luping.cushuikeji.cn
+***************************
 *
 *
 */
