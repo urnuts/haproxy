@@ -8,16 +8,24 @@
 问题反馈：https://t.me/yqc_777
 使用声明：⚠️⚠️⚠️此脚本仅供学习与交流，
         请勿转载与贩卖！⚠️⚠️⚠️
+        
 //使用方法：不要点击课程预览，往下滑直接点击课程阶段
+***************************
+QuantumultX:
 [rewrite_local]
-
-# keep解锁会员
 ^https://(.+).gotokeep.com(/athena/v5/people/my|/nuocha/plans) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/keep.js
 
 [mitm] 
-
 hostname = *.gotokeep.com
 
+
+********************************
+Surge4 or Loon:
+[Script]
+http-response ^https://(.+).gotokeep.com(/athena/v5/people/my|/nuocha/plans) requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/keep.js
+
+[mitm] 
+hostname = *.gotokeep.com
 
 ********************************
 */
