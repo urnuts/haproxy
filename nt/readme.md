@@ -1,3 +1,4 @@
+```
 <sup>01. 如何处理:</sup>
 raw.fastgit.org
 
@@ -11,4 +12,4 @@ QX订阅：直接提取
  zero长期使用；   QX直接使用
 
 鲨鱼订阅/不羁浪人/仓库：https://gitee.com/bujilangren/warehouse
-
+```
