@@ -15,7 +15,7 @@ echo -e "nameserver 1.1.1.1
 
 
 
-[链接](https://github.com/urnuts/haproxy/edit/main/readme.md)
+[链接](https://github.com/urnuts/haproxy/blob/main/readme.md)
 
 通过将链接文本包含在方括号 [ ] 内，然后将 URL 包含在括号 ( ) 内，可创建内联链接
 nameserver 1.0.0.1
