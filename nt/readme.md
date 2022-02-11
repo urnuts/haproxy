@@ -1,5 +1,5 @@
 <code>
-<strong>01. 如何处理:</strong>
+01. 如何处理:
 
 raw.fastgit.org
 BASE64: 订阅链接---转为QX可用，提取节点；
@@ -8,7 +8,7 @@ QX订阅：直接提取
 
  
  
-<strong>02. 从哪获取</strong>
+02. 从哪获取
  
 
 【8°科技】：   https://github.com/chfchf0306/jeidian4.18
