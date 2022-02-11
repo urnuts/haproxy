@@ -1,13 +1,13 @@
 <code>
-<sup>01. 如何处理:</sup>
- ```
+<strong>01. 如何处理:</strong>
+  ```
 raw.fastgit.org
 
 BASE64: 订阅链接---转为QX可用，提取节点；
 Clash.yaml:订阅链接---转为QX可用，提取节点；
 QX订阅：直接提取
-
-<sup>02. 从哪获取</sup>
+ ```
+<strong>02. 从哪获取</strong>
  ```
 【8°科技】：   https://github.com/chfchf0306/jeidian4.18
 【TestNodes】：https://github.com/zjsxply/TestNodes
