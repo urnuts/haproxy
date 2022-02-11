@@ -7,8 +7,8 @@ BASE64: 订阅链接---转为QX可用，提取节点；
 Clash.yaml:订阅链接---转为QX可用，提取节点；
 QX订阅：直接提取
  ```
-<strong>02. 从哪获取</strong>
- ```
+<code><strong>02. 从哪获取</strong>
+```
 【8°科技】：   https://github.com/chfchf0306/jeidian4.18
 【TestNodes】：https://github.com/zjsxply/TestNodes
  zero长期使用；   QX直接使用
