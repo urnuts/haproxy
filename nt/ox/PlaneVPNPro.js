@@ -1,5 +1,5 @@
 /* 
-脚本功能：plane vpn恢复订阅 v2.4.5
+脚本功能：plane vpn恢复订阅
 脚本作者：king
 下载地址：https://apple.co/3Hc4ZH5
 更新时间：2022.2.17
@@ -9,7 +9,7 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 [rewrite_local]
 # plane vpn恢复订阅@king
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/PlaneVPNPro.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/plane%20vpn.js
 hostname = buy.itunes.apple.com
 ********************************
 */
