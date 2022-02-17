@@ -7,7 +7,7 @@
     https://github.com/yqc007/QuantumultX
     https://github.com/nameking77/Qx/tree/main/rewrite
     https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf 及其他
-    https://github.com/I-am-R-E/QuantumultX
+    https://github.com/nzw9314/QuantumultX/tree/master/Script
     
     .conf仅包含[mitm] 和[rewrite_local]
     .js包含[mitm] 和[rewrite_local]和js脚本
