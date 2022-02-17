@@ -1,0 +1,7 @@
+http = music.lolico.me:39000, username=none, password=none, fast-open=false, tag=NeteaseMusic Unlock 1
+shadowsocks = MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 2
+shadowsocks = MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 3
+http = 101.132.79.113:23333, username=none, password=none, fast-open=false, tag=NeteaseMusic Unlock 4
+http = MUSIC.GRIOUGES.CN:39000, username=none, password=none, fast-open=false, tag=NeteaseMusic Unlock 5
+http = 1.116.214.16:19980, username=none, password=none, fast-open=false, tag=NeteaseMusic Unlock 6
+http = SALVAN.ICU:19980, username=none, password=none, fast-open=false, tag=NeteaseMusic Unlock 7
