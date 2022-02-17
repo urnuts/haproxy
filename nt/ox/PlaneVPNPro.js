@@ -9,7 +9,7 @@
         请勿转载与贩卖！⚠️⚠️⚠️
 [rewrite_local]
 # plane vpn恢复订阅@king
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/plane%20vpn.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/PlaneVPNPro.js
 hostname = buy.itunes.apple.com
 ********************************
 */
