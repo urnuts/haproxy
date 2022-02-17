@@ -1,4 +1,6 @@
     原作者项目，欢迎star
+    # 部分重写规则排序需要靠前，否则可能失效
+    
     https://github.com/I-am-R-E/QuantumultX
     https://github.com/yqc007/QuantumultX
     https://github.com/nameking77/Qx/tree/main/rewrite
@@ -29,7 +31,7 @@
      软件版本：1.2.2
      更新时间：2021.11.16
      
-     解锁酷我音乐会员歌曲➕听书➕下载
+     解锁酷我音乐会员歌曲➕听书➕下载   重写规则排序需要靠前，否则可能失效
      https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
      更新时间：20212.1.15
      
