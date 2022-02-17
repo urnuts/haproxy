@@ -1,5 +1,7 @@
     原作者项目，欢迎star
+    ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
     # 部分重写规则排序需要靠前，否则可能失效
+    ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
     
     https://github.com/I-am-R-E/QuantumultX
     https://github.com/yqc007/QuantumultX
@@ -82,21 +84,16 @@
     支持版本：商店最新 3.9.3
     更新时间：2022.1.19
     
-    
-    
-
-
-
     香哈菜谱.VIP，除课程外解锁所有限制
     ⚠️⚠️⚠️需登录
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
     支持版本：商店最新 9.0.1
     更新时间：2022.1.19
 
+
+
+
     ----------------------------------
-        
-        
-        
         
 ⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
     
@@ -155,8 +152,20 @@
     软件版本：1.9.4
     更新时间：2021.11.16
     
-    
+    PlaneVPN 解锁订阅
+    https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
+    软件版本：2.4.1【美区商店】
+    更新时间：2021.11.19
+    使用说明：点击“恢复订阅”即可,一次性解锁永久订阅！
+    ‼恢复订阅的过程中需要耐心等待,一次不行 就多试几次 直到最后出现,“成功”字样提示 说明破解生效‼
+    排序靠前,2.4.5测试成功
 
+    流利说阅读.VIP会员.需登录 
+    支持版本：商店最新 2.20.3 / 实测2.19.6可解锁
+    更新时间：2022.1.16
+    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
+    使用说明：会员时长到2030年，破解的标志是打开阅读🈚️限制，不会提示会员才能看🎉
+    如果没有显示会员，剩余天数999。必须卸载重装！
 
         ///// 以下未测试已标注 ////
         
@@ -167,28 +176,14 @@
     软件版本：3.0
     https://raw.githubusercontent.com/yqc007/QuantumultX/master/LingDuPortraitProCrack.js
     更新时间：2021.12.31
-    
-    PlaneVPN解锁订阅，未测试
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
-    软件版本：2.4.1【美区商店】
-    更新时间：2021.11.19
-    使用说明：点击“恢复订阅”即可,一次性解锁永久订阅！
-    ‼恢复订阅的过程中需要耐心等待,一次不行 就多试几次 直到最后出现,“成功”字样提示 说明破解生效‼
-    https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/plane%20vpn.js  2.4.5测试成功
-    
+   
     微信读书.免费会员. 未测试
     使用方法：⚠️不支持商店最新版，仅支持5.5.1前后的一两个版本，需要抓包旧版。
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/WeRead.conf
     会员时长延长到33392年（你没看错）🎉，会员页面无法打开请关闭去广告脚本
     不成功终极解决办法：打开HTTP数据抓取，MitM额外主机名输入*，开启App数据抓取！⚠️用完记得关闭
     
-    流利说阅读.VIP会员. 实测2.19.x可解锁
-    支持版本：商店最新 2.20.3
-    更新时间：2022.1.16
-    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
-    使用说明：会员时长到2030年，破解的标志是打开阅读🈚️限制，不会提示会员才能看🎉
-    如果没有显示会员，剩余天数999。必须卸载重装！
-        
+
     马卡龙玩图.订阅. 未测试
     https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MaKaLongWanTu.conf
     支持版本：商店最新 5.3.4
