@@ -1,101 +1,102 @@
-    原作者项目，欢迎star
-    ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-    # 部分重写规则排序需要靠前，否则可能失效
-    ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+```
+原作者项目，欢迎star
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+# 部分重写规则排序需要靠前，否则可能失效
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+https://github.com/I-am-R-E/QuantumultX
+https://github.com/yqc007/QuantumultX
+https://github.com/nameking77/Qx/tree/main/rewrite
+https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf 及其他
+https://github.com/nzw9314/QuantumultX/tree/master/Script
+
+.conf仅包含[mitm] 和[rewrite_local]
+.js包含[mitm] 和[rewrite_local]和js脚本
+脚本同时支持loon和surge4,仅测试loon
+```
     
-    https://github.com/I-am-R-E/QuantumultX
-    https://github.com/yqc007/QuantumultX
-    https://github.com/nameking77/Qx/tree/main/rewrite
-    https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf 及其他
-    https://github.com/nzw9314/QuantumultX/tree/master/Script
-    
-    .conf仅包含[mitm] 和[rewrite_local]
-    .js包含[mitm] 和[rewrite_local]和js脚本
-    脚本同时支持loon和surge4,仅测试loon
-    
-    
+
+----------------------------------
 ⚠️⚠️⚠️⚠️⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️⚠️⚠️⚠️⚠️
-    
-     ----------------------------------
-     Bilibili自动换区脚本：
-     ⚠️⚠️⚠️需登录需要修改节点名称
-     可选, 由于qx纯tun特性, 不添加规则可能会导致bilibili换区脚本失效：ip-cidr, 203.107.1.1/24, reject
-     
-     Bilibili解锁会员
-     ⚠️⚠️⚠️需登录
-     https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPCrack.js
-     软件版本：6.58.0
-     更新时间：2022-01-18
-     
-     ----------------------------------
-     酷我2496解锁会员
-     ⚠️⚠️⚠️需登录，失效
-     https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.js
-     软件版本：1.2.2
-     更新时间：2021.11.16
-     
-     解锁酷我音乐会员歌曲➕听书➕下载   重写规则排序需要靠前，否则可能失效
-     https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
-     更新时间：20212.1.15
-     
-     ----------------------------------
-    EMBY.解锁订阅
-    https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
-    #普拉斯影业 #EMBY破解 
-    QuanX 重写
-    Rewrite: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.conf
-    Loon 插件
-    Plugin: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.plugin
+```
+----------------------------------
+Bilibili自动换区脚本：
+⚠️⚠️⚠️需登录需要修改节点名称
+可选, 由于qx纯tun特性, 不添加规则可能会导致bilibili换区脚本失效：ip-cidr, 203.107.1.1/24, reject
+ 
+Bilibili解锁会员
+⚠️⚠️⚠️需登录
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPCrack.js
+软件版本：6.58.0
+更新时间：2022-01-18
+ 
+----------------------------------
+酷我2496解锁会员
+⚠️⚠️⚠️需登录，失效
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.js
+软件版本：1.2.2
+更新时间：2021.11.16
+ 
+解锁酷我音乐会员歌曲➕听书➕下载   重写规则排序需要靠前，否则可能失效
+https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
+更新时间：20212.1.15
+ 
+ ----------------------------------
+EMBY.解锁订阅
+https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
+#普拉斯影业 #EMBY破解 
+QuanX 重写
+Rewrite: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.conf
+Loon 插件
+Plugin: https://subweb.s3.fr-par.scw.cloud/Module/embyUnlocked.plugin
 
-    AudioMack.解锁永久订阅
-    ⚠️⚠️⚠️需登录
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/AudioMackProCrack.js
-    软件版本：6.4.4，支持美区商店最新版,目前测试为一次性解锁
-        
-    南方周末.高级年费会员 + 年费会员课程 + 所有付费课程
-    ⚠️⚠️⚠️需登录
-    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/NanFangZhouMo.conf
-    支持版本：商店最新 7.3.12
-    更新时间：2022.1.21
-    支持商店最新版,
-    登陆后，白嫖年费会员到2030年，白嫖年费会员所有课程 ，白嫖所有付费课程。感谢群友提供的VIP信息
-    
-    解锁keep会员视频
-    ⚠️⚠️⚠️需登录
-    https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/keep
-    软件版本：7.17.0
-    更新时间：2021.12.26
-    //使用方法：不要点击课程预览，往下滑直接点击课程阶
-    
-    答岸Master解锁会员
-    ⚠️⚠️⚠️需登录
-    https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
-    软件版本：1.1.13
-    更新时间：2021.11.23
-    
-    ----------------------------------  
-    三者同一家公司【说明：菜谱大全和烘焙小屋完全一样，解锁脚本一样；二选一下载即可,】
-      #菜谱大全.VIP
-    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/CaiPuDaQuan.conf
-    支持版本：商店最新 5.0.8
-    更新时间：2022.1.19
-    使用说明：☝️支持商店最新版，解锁所有限制
-     # 烘焙小屋.VIP
-    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/HongBeiXiaoWu.conf
-    支持版本：商店最新 3.9.3
-    更新时间：2022.1.19
-    
-    香哈菜谱.VIP，除课程外解锁所有限制
-    ⚠️⚠️⚠️需登录
-    https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
-    支持版本：商店最新 9.0.1
-    更新时间：2022.1.19
+AudioMack.解锁永久订阅
+⚠️⚠️⚠️需登录
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/AudioMackProCrack.js
+软件版本：6.4.4，支持美区商店最新版,目前测试为一次性解锁
 
+南方周末.高级年费会员 + 年费会员课程 + 所有付费课程
+⚠️⚠️⚠️需登录
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/NanFangZhouMo.conf
+支持版本：商店最新 7.3.12
+更新时间：2022.1.21
+支持商店最新版,
+登陆后，白嫖年费会员到2030年，白嫖年费会员所有课程 ，白嫖所有付费课程。感谢群友提供的VIP信息
 
+解锁keep会员视频
+⚠️⚠️⚠️需登录
+https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/keep
+软件版本：7.17.0
+更新时间：2021.12.26
+//使用方法：不要点击课程预览，往下滑直接点击课程阶
+
+答岸Master解锁会员
+⚠️⚠️⚠️需登录
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
+软件版本：1.1.13
+更新时间：2021.11.23
+
+----------------------------------  
+三者同一家公司【说明：菜谱大全和烘焙小屋完全一样，解锁脚本一样；二选一下载即可,】
+  #菜谱大全.VIP
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/CaiPuDaQuan.conf
+支持版本：商店最新 5.0.8
+更新时间：2022.1.19
+使用说明：☝️支持商店最新版，解锁所有限制
+ # 烘焙小屋.VIP
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/HongBeiXiaoWu.conf
+支持版本：商店最新 3.9.3
+更新时间：2022.1.19
+
+香哈菜谱.VIP，除课程外解锁所有限制
+⚠️⚠️⚠️需登录
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
+支持版本：商店最新 9.0.1
+更新时间：2022.1.19
 
 
-    ----------------------------------
-        
+
+
 ⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
     
     Notability解锁订阅
