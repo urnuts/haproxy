@@ -234,4 +234,9 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
 脚本说明：注册时填写邀请码：dwpmMe
         可无限延长脚本的使用期限
         邮箱注册登录,关闭后台后需要登录
+        
+新增：
+可可英语，VIP,ok
+识图百科，VIP,ok
+        
 ```
