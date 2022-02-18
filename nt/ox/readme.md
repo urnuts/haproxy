@@ -16,7 +16,7 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 .js包含[mitm] 和[rewrite_local]和js脚本
 脚本同时支持loon和surge4,仅测试loon
 
-# Scan Air 可扫描，OCR【⚠️⚠️⚠️OCR识别照片文本时,google分流节点不能送中⚠️⚠️⚠️】
+# Scan Air 可扫描，OCR【⚠️⚠️⚠️OCR识别照片文本时,google分流节点不能送中⚠️⚠️⚠️】，与QrScanner同一家公司
 # 扫描全能王 部分解锁,可扫描，可翻译(有次数限制)
 
 ```
