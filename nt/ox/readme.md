@@ -14,9 +14,6 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 .js包含[mitm] 和[rewrite_local]和js脚本
 脚本同时支持loon和surge4,仅测试loon
 ```
-    
-
-----------------------------------
 ⚠️⚠️⚠️⚠️⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️⚠️⚠️⚠️⚠️
 ----------------------------------
 ```
@@ -41,7 +38,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.j
 https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
 更新时间：20212.1.15
  
- ----------------------------------
+----------------------------------
 EMBY.解锁订阅
 https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
 #普拉斯影业 #EMBY破解 
@@ -94,9 +91,6 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 支持版本：商店最新 9.0.1
 更新时间：2022.1.19
 ```
-
-
-
 ⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
 ```
 Notability解锁订阅
@@ -154,16 +148,16 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/CalculatorHDProCrack
 软件版本：1.9.4
 更新时间：2021.11.16
 
-PlaneVPN 解锁订阅
+PlaneVPN 解锁订阅，排序靠前,2.4.5测试成功
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
 软件版本：2.4.1【美区商店】
 更新时间：2021.11.19
 使用说明：点击“恢复订阅”即可,一次性解锁永久订阅！
 ‼恢复订阅的过程中需要耐心等待,一次不行 就多试几次 直到最后出现,“成功”字样提示 说明破解生效‼
-排序靠前,2.4.5测试成功
+
 
 流利说阅读.VIP会员.需登录 
-支持版本：商店最新 2.20.3 / 实测2.19.6可解锁
+支持版本：实测2.19.6可解锁
 更新时间：2022.1.16
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
 使用说明：会员时长到2030年，破解的标志是打开阅读🈚️限制，不会提示会员才能看🎉
@@ -184,7 +178,6 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/LingDuPortraitProCra
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/WeRead.conf
 会员时长延长到33392年（你没看错）🎉，会员页面无法打开请关闭去广告脚本
 不成功终极解决办法：打开HTTP数据抓取，MitM额外主机名输入*，开启App数据抓取！⚠️用完记得关闭
-
 
 马卡龙玩图.订阅. 未测试
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MaKaLongWanTu.conf
@@ -218,8 +211,6 @@ SaveFile.解锁下载限制. 未测试
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.js
 支持版本：商店最新 2.2.4
 更新时间：2022.1.17
-
-   
 
 脚本功能：QrScanner 解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js
