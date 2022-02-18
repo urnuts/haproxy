@@ -5,7 +5,7 @@ by:chamberlen
 ***************************
 QuantumultX:
 [rewrite_local]
-^https:\/\/dict\.eudic\.net\/jingting\/GetThisChapterTaskStatus? url script-response-body mryy.js
+^https:\/\/dict\.eudic\.net\/jingting\/GetThisChapterTaskStatus? url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/mryy.js
 
 [mitm] 
 mitm = dict.eudic.net
