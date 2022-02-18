@@ -91,8 +91,8 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 支持版本：商店最新 9.0.1
 更新时间：2022.1.19
 ```
-
-** ⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️** 
+⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
+----------------------------------
 ```
 Notability解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
@@ -164,7 +164,8 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
 使用说明：会员时长到2030年，破解的标志是打开阅读🈚️限制，不会提示会员才能看🎉
 如果没有显示会员，剩余天数999。必须卸载重装！
 ```
-///// 以下未测试已标注 ////
+⚠️⚠️⚠️⚠️⚠️⚠️以下未测试已标注⚠️⚠️⚠️⚠️⚠️⚠️
+----------------------------------
 ```
 知乎网页版优化： app不可用，未测试
 https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/betterweb/zhihu.conf
@@ -213,10 +214,20 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.
 支持版本：商店最新 2.2.4
 更新时间：2022.1.17
 
-脚本功能：QrScanner 解锁订阅
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js
+QrScanner 解锁订阅
+<https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js>
 软件版本：5.4.0
 下载地址：http://t.cn/A6JLAr5p
 脚本作者：Hausd0rff
 更新时间：2021-11-21
+
+脚本功能：嘿锋影视解锁会员
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js
+软件版本：2.7.0
+官网地址：https://hfys8.vip/app
+下载地址：http://t.cn/A6i8ruQR
+脚本作者：Hausd0rff
+更新时间：2022-02-12
+脚本说明：注册时填写邀请码：dwpmMe
+        可无限延长脚本的使用期限
 ```
