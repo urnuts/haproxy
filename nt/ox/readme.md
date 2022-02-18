@@ -235,8 +235,18 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
         可无限延长脚本的使用期限
         邮箱注册登录,关闭后台后需要登录
         
-新增：
 可可英语，VIP,ok
-识图百科，VIP,ok
+脚本功能：可可英语VIP
+NobyDa脚本
+支持版本：商店最新
+测试时间：2022.2.18
+
+识图百科.解锁订阅  //点击设置-升级高级VIP,会提示已购买高级服务
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiKe.js
+脚本作者：R·E
+下载地址：https://apps.apple.com/us/app/id1517758647
+支持版本：商店最新 3.7
+更新时间：2022.1.05
+
         
 ```
