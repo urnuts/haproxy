@@ -24,22 +24,18 @@ https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
 更新时间：20212.1.15
 
 Bilibili自动换区脚本：
-⚠️⚠️⚠️需登录需要修改节点名称
+⚠️⚠️⚠️需登录，需要修改节点名称
 可选, 由于qx纯tun特性, 不添加规则可能会导致bilibili换区脚本失效：ip-cidr, 203.107.1.1/24, reject
-```
 
-<code>Bilibili解锁会员，失效，需登录~~
+//Bilibili解锁会员，失效，需登录~~
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPCrack.js
 软件版本：6.58.0
 更新时间：2022-01-18
   
-酷我2496解锁会员
-⚠️⚠️⚠️需登录，失效
+//酷我2496解锁会员，需登录，失效
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.js
 软件版本：1.2.2
-更新时间：2021.11.16</em>
-
-
+更新时间：2021.11.16
 ```
 ----------------------------------
 EMBY.解锁订阅
@@ -88,7 +84,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/HongBeiXiaoWu.conf
 支持版本：商店最新 3.9.3
 更新时间：2022.1.19
 
-香哈菜谱.VIP，除课程外解锁所有限制
+# 香哈菜谱.VIP，除课程外解锁所有限制
 ⚠️⚠️⚠️需登录
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 支持版本：商店最新 9.0.1
@@ -97,7 +93,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 ⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
 ----------------------------------
 ```
-Notability解锁订阅
+# Notability解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
 软件版本：11.0.1/5/6
 更新时间：2021.11.26
