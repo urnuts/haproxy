@@ -10,9 +10,8 @@
 *******************************
 QuantumultX:
 [rewrite_local]
-
 # > 识图百科解锁订阅(2022.01.05)
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiKe.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/ShiTuBaiKe.js
 
 [mitm]
 hostname = buy.itunes.apple.com
