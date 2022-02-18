@@ -230,3 +230,4 @@ QrScanner 解锁订阅
 脚本说明：注册时填写邀请码：dwpmMe
         可无限延长脚本的使用期限
 ```
+嘿锋影视.[解锁会员](https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js)
