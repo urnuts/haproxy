@@ -19,29 +19,26 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 ⚠️⚠️⚠️⚠️⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️⚠️⚠️⚠️⚠️
 ----------------------------------
 ```
+酷我音乐.解锁会员歌曲➕听书➕下载   ⚠️重写规则排序需要靠前，否则可能失效
+https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
+更新时间：20212.1.15
+
 Bilibili自动换区脚本：
 ⚠️⚠️⚠️需登录需要修改节点名称
 可选, 由于qx纯tun特性, 不添加规则可能会导致bilibili换区脚本失效：ip-cidr, 203.107.1.1/24, reject
 ```
-~~ 
-Bilibili解锁会员，失效
+~~Bilibili解锁会员，失效
 ⚠️⚠️⚠️需登录
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPCrack.js
 软件版本：6.58.0
 更新时间：2022-01-18
-
 ----------------------------------
 酷我2496解锁会员
 ⚠️⚠️⚠️需登录，失效
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.js
 软件版本：1.2.2
 更新时间：2021.11.16
- 
-解锁酷我音乐会员歌曲➕听书➕下载   重写规则排序需要靠前，否则可能失效
-https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
-更新时间：20212.1.15
- ~~
- ```
+
 ----------------------------------
 EMBY.解锁订阅
 https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
