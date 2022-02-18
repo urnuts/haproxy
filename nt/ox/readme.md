@@ -221,8 +221,7 @@ QrScanner 解锁订阅
 脚本作者：Hausd0rff
 更新时间：2021-11-21
 
-脚本功能：嘿锋影视解锁会员
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js
+嘿锋影视.[解锁会员](https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js)
 软件版本：2.7.0
 官网地址：https://hfys8.vip/app
 下载地址：http://t.cn/A6i8ruQR
