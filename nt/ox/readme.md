@@ -2,6 +2,8 @@
 原作者项目，欢迎star
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 # 部分重写规则排序需要靠前，否则可能失效
+# 解锁订阅操作：点击恢复购买或还原购买
+# 部分app需要登录
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 https://github.com/I-am-R-E/QuantumultX
@@ -20,13 +22,13 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 Bilibili自动换区脚本：
 ⚠️⚠️⚠️需登录需要修改节点名称
 可选, 由于qx纯tun特性, 不添加规则可能会导致bilibili换区脚本失效：ip-cidr, 203.107.1.1/24, reject
- 
-Bilibili解锁会员
+~~ 
+Bilibili解锁会员，失效
 ⚠️⚠️⚠️需登录
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPCrack.js
 软件版本：6.58.0
 更新时间：2022-01-18
- 
+
 ----------------------------------
 酷我2496解锁会员
 ⚠️⚠️⚠️需登录，失效
@@ -37,7 +39,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.j
 解锁酷我音乐会员歌曲➕听书➕下载   重写规则排序需要靠前，否则可能失效
 https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
 更新时间：20212.1.15
- 
+ ~~
 ----------------------------------
 EMBY.解锁订阅
 https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
@@ -230,4 +232,5 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
 更新时间：2022-02-12
 脚本说明：注册时填写邀请码：dwpmMe
         可无限延长脚本的使用期限
+        邮箱注册登录,关闭后台后需要登录
 ```
