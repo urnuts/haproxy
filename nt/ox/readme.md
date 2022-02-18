@@ -214,14 +214,15 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.
 支持版本：商店最新 2.2.4
 更新时间：2022.1.17
 
-QrScanner 解锁订阅
+QrScanner.解锁订阅
 (https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js)
 软件版本：5.4.0
 下载地址：http://t.cn/A6JLAr5p
 脚本作者：Hausd0rff
 更新时间：2021-11-21
 
-嘿锋影视.[解锁会员](https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js)
+嘿锋影视.解锁VIP
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js
 软件版本：2.7.0
 官网地址：https://hfys8.vip/app
 下载地址：http://t.cn/A6i8ruQR
@@ -230,4 +231,3 @@ QrScanner 解锁订阅
 脚本说明：注册时填写邀请码：dwpmMe
         可无限延长脚本的使用期限
 ```
-嘿锋影视.[解锁会员](https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js)
