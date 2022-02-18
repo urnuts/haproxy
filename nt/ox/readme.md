@@ -28,15 +28,16 @@ Bilibili自动换区脚本：
 可选, 由于qx纯tun特性, 不添加规则可能会导致bilibili换区脚本失效：ip-cidr, 203.107.1.1/24, reject
 ```
 
-~~Bilibili解锁会员，失效，需登录~~
-~~https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPCrack.js~~
-~~软件版本：6.58.0
+<code>Bilibili解锁会员，失效，需登录~~
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPCrack.js
+软件版本：6.58.0
 更新时间：2022-01-18
+  
 酷我2496解锁会员
 ⚠️⚠️⚠️需登录，失效
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.js
 软件版本：1.2.2
-更新时间：2021.11.16~~
+更新时间：2021.11.16</em>
 
 
 ```
