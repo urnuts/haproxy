@@ -22,6 +22,7 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 Bilibili自动换区脚本：
 ⚠️⚠️⚠️需登录需要修改节点名称
 可选, 由于qx纯tun特性, 不添加规则可能会导致bilibili换区脚本失效：ip-cidr, 203.107.1.1/24, reject
+```
 ~~ 
 Bilibili解锁会员，失效
 ⚠️⚠️⚠️需登录
@@ -40,6 +41,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.j
 https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
 更新时间：20212.1.15
  ~~
+ ```
 ----------------------------------
 EMBY.解锁订阅
 https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
