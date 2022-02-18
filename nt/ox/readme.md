@@ -218,4 +218,11 @@
     支持版本：商店最新 2.2.4
     更新时间：2022.1.17
    
-
+   ```
+脚本功能：QrScanner 解锁订阅
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js
+软件版本：5.4.0
+下载地址：http://t.cn/A6JLAr5p
+脚本作者：Hausd0rff
+更新时间：2021-11-21
+```
