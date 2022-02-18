@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 支持版本：商店最新 9.0.1
 更新时间：2022.1.19
 ```
-<code>⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
 ```
 Notability解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
