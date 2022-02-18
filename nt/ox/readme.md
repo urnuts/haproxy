@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/Script/BiLiBiLiBVIPC
 ⚠️⚠️⚠️需登录，失效
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/KWLongPlayProCrack.js
 软件版本：1.2.2
-更新时间：2021.11.16
+更新时间：2021.11.16~~
 
 ----------------------------------
 EMBY.解锁订阅
