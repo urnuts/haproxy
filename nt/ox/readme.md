@@ -14,7 +14,7 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 .js包含[mitm] 和[rewrite_local]和js脚本
 脚本同时支持loon和surge4,仅测试loon
 ```
-⚠️⚠️⚠️⚠️⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️⚠️⚠️⚠️⚠️
+<code>⚠️⚠️⚠️⚠️⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️⚠️⚠️⚠️⚠️
 ----------------------------------
 ```
 Bilibili自动换区脚本：
@@ -91,7 +91,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 支持版本：商店最新 9.0.1
 更新时间：2022.1.19
 ```
-⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
+<code>⚠️⚠️⚠️⚠️⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️⚠️⚠️⚠️⚠️
 ```
 Notability解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
