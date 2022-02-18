@@ -15,6 +15,10 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 .conf仅包含[mitm] 和[rewrite_local]
 .js包含[mitm] 和[rewrite_local]和js脚本
 脚本同时支持loon和surge4,仅测试loon
+
+# Scan air 可扫描，翻译失效,旧包无法抓取
+# 扫描全能王 可扫描，可翻译(有次数限制)
+
 ```
 ⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️
 ----------------------------------
