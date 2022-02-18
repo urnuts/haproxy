@@ -1,8 +1,9 @@
 /*
  *
  *
-脚本功能：ScannerAir解锁订阅
+脚本功能：ScannerAir解锁订阅 
 软件版本：2.4.0
+⚠️⚠️⚠️OCR识别照片文本时,google所走节点不能送中⚠️⚠️⚠️
 下载地址：http://t.cn/A6i2Odbx
 脚本作者：Hausd0rff
 更新时间：2021-11-22
