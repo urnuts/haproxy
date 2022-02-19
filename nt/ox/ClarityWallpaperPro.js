@@ -17,7 +17,7 @@
 [rewrite_local]
 
 # > 克拉壁纸解锁订阅
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityWallpaperPro.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/ClarityWallpaperPro.js
 
 [mitm] 
 
