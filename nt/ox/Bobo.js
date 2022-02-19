@@ -4,15 +4,16 @@ Tg群：https://t.me/yqc_777
 波波视频（lsp）2021/3/6
 下载地址:
 https://bit.ly/3kQb6qo
-[Qx]
-[rewrite_local]
-#本地脚本
 
-#波波视频
-http://api.wscdn.vip(.+) url script-response-body bobo.js
+***************************
+QuantumultX:
+[rewrite_local]
+http://api.wscdn.vip(.+) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bobo.js
 
 [MITM]
-hostname = api.wscdn.vip,
+hostname = api.wscdn.vip
+********************************
+
 
 */
 
