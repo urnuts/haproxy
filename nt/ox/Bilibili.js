@@ -16,7 +16,7 @@
 [rewrite_local]
 
 # > 哔哩哔哩解锁大会员
-^https?:\/\/ap(i|p)\.bilibili\.com\/bilibili\.\w{3,4}\..+\/(View|PlayView|PlayConf|PlayerOnline|MainList|ViewProgress)$ url script-request-header https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/BiLiBiLiVIP.js
+^https?:\/\/ap(i|p)\.bilibili\.com\/bilibili\.\w{3,4}\..+\/(View|PlayView|PlayConf|PlayerOnline|MainList|ViewProgress)$ url script-request-header https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bilibili.js
 
 [mitm] 
 
