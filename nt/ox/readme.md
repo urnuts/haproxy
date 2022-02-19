@@ -197,7 +197,6 @@ kekeyy.js,NobyDa脚本
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
 支持版本：实测2.19.6可解锁
 更新时间：2022.1.16
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
 使用说明：会员时长到2030年，破解的标志是打开阅读🈚️限制，不会提示会员才能看🎉
 如果没有显示会员，剩余天数999。必须卸载重装！
 
@@ -207,7 +206,6 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Drops.conf
 脚本作者：langkhach270389, R·E修复重写链接
 支持版本：商店最新 36.9
 更新时间：2022.02.09
-问题反馈：https://t.me/yqc_777
 
 
 ```
@@ -262,14 +260,11 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.
 脚本作者：R·E
 支持版本：商店最新 2.2.4
 更新时间：2022.1.17
-问题反馈：https://t.me/yqc_777
 
 嘿锋影视.解锁VIP
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js
 软件版本：2.7.0
 官网地址：https://hfys8.vip/app
-下载地址：http://t.cn/A6i8ruQR
-脚本作者：Hausd0rff
 更新时间：2022-02-12
 脚本说明：注册时填写邀请码：dwpmMe
          可无限延长脚本的使用期限
@@ -278,57 +273,43 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
 PV私密相册管家.解锁会员
 ⚠️⚠️⚠️可邮箱登录 
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/PVPhotoManager.conf
-脚本来源：@yqc_777群内热于分享的大帅哥
-下载地址：https://apps.apple.com/cn/app/PV私密相册管家-加密码照片保险箱/id867586326
 支持版本：商店最新 6.7.2
 更新时间：2022.1.30
-问题反馈：https://t.me/yqc_777
 
 Knotes.解锁会员,书摘OCR
 ⚠️⚠️⚠️可邮箱登陆
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Knotes.conf
-脚本作者：R·E
-下载地址：https://apps.apple.com/cn/app/knotes-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/id1536439172
 支持版本：商店最新 1.0.2
 更新时间：2022.02.18
-问题反馈：https://t.me/yqc_777
 
 InShot解锁订阅,⚠️外区下载
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/InShot.conf
-脚本作者：R·E
-下载地址：https://apps.apple.com/us/app/inshot-vlog%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91/id997362197
 支持版本：商店最新 1.56.0
 更新时间：2022.2.3
-问题反馈：https://t.me/yqc_777
 
 解锁一木记账会员，未测试
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/YiMuJiZhang.conf
-脚本作者：R·E
-下载地址：https://apps.apple.com/cn/app/%E4%B8%80%E6%9C%A8%E8%AE%B0%E8%B4%A6-%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3%E8%AE%B0%E8%B4%A6/id1572969723
 支持版本：商店最新 1.1.9
 更新时间：2022.02.11
-问题反馈：https://t.me/yqc_777
 
 视频剪辑提取vip会员，
 ⚠️⚠️⚠️游客登陆即可解锁vip
 https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
 软件版本：1.0.5
-下载地址：https://apps.apple.com/cn/app/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91%E6%8F%90%E5%8F%96-%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91%E7%BC%96%E8%BE%91%E8%A7%86%E9%A2%91%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91%E5%B7%A5%E5%85%B7/id1546430222
-脚本作者：凉意
 更新时间：2022.02.16
 电报频道：https://t.me/liangyiA
-问题反馈：https://t.me/LiangYi66
 
 克拉壁纸解锁订阅  
 ⚠️先点击购买，付款界面取消即可
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityWallpaperProCrack.js
 软件版本：7.2.4
-下载地址：http://t.cn/AimD5JPZ
 脚本作者：Hausd0rff
 更新时间：2022-01-21
-电报频道：https://t.me/yqc_123
-问题反馈：https://t.me/yqc_007
 
 Cutisan壁纸 解锁订阅，需登录？？
 Grammarly  未登录测试   
+
+视图播放器
+神话live
+图图记账解锁永久高级版
 ```
