@@ -1,24 +1,23 @@
-/*
-*
-*
+/**************************
 哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
-如需禁用豆瓣评分或策略通知, 可前往BoxJs设置
+如需禁用豆瓣评分或策略通知, 可前往BoxJs设置.
 BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
 Author: @NobyDa
 ****************************
+脚本取自@NobyDa的库，仅为了方便小白配置默认使用而更改了策略组名称
+作者库：https://raw.githubusercontent.com/NobyDa
+*******************************
 QuantumultX:
-[mitm] 
-hostname = ap?.bilibili.com
 
 [rewrite_local]
 #哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
-^https:\/\/ap(p|i)\.bilibili\.com\/(pgc\/view\/(v\d\/)?app|x(\/v\d)?\/view\/video)\/(season|online)\?access_key url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
+^https:\/\/ap(p|i)\.bilibili\.com\/(pgc\/view\/(v\d\/)?app|x(\/v\d)?\/view\/video)\/(season|online)\?access_key url script-response-body https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Bili_Auto_Regions.js
 #可选, 适用于搜索指定地区的番剧
-^https:\/\/app\.bilibili\.com\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)& url script-request-header https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
-****************************
-*
-*
-*/
+^https:\/\/app\.bilibili\.com\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)& url script-request-header https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Bili_Auto_Regions.js
+
+[mitm]
+hostname = ap?.bilibili.com
+***************************/
 
 let $ = nobyda();
 let run = EnvInfo();
@@ -27,7 +26,7 @@ async function SwitchRegion(play) {
 	const Group = $.read('BiliArea_Policy') || '港台番剧'; //Your blibli policy group name.
 	const CN = $.read('BiliArea_CN') || 'DIRECT'; //Your China sub-policy name.
 	const TW = $.read('BiliArea_TW') || '台湾节点'; //Your Taiwan sub-policy name.
-	const HK = $.read('BiliArea_HK') || '🇭🇰深港丨HKn'; //Your HongKong sub-policy name.
+	const HK = $.read('BiliArea_HK') || '香港节点'; //Your HongKong sub-policy name.
 	const current = await $.getPolicy(Group);
 	const area = (() => {
 		if (/\u50c5[\u4e00-\u9fa5]+\u6e2f|%20%E6%B8%AF&/.test(play)) {
