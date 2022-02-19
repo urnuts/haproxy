@@ -1,8 +1,8 @@
 ```
 原作者项目，欢迎star
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-# 部分重写规则排序需要靠前，否则可能失效
-# 解锁订阅操作：点击恢复购买或还原购买
+# 排序影响是否解锁/破解成功，比如 Scanner Air 和识图百科冲突,不能同时启用
+# 解锁订阅操作：开启QX后，后台关闭几次app重新打开 / 点击恢复购买 / 还原购买
 # 部分app需要登录
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
@@ -16,8 +16,10 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 .js包含[mitm] 和[rewrite_local]和js脚本
 脚本同时支持loon和surge4,仅测试loon
 
-# Scan Air 可扫描，OCR【⚠️⚠️⚠️OCR识别照片文本时,google分流节点不能送中⚠️⚠️⚠️】，与QrScanner同一家公司
+
+# Scanner Air 可扫描，OCR【⚠️⚠️⚠️OCR识别照片文本时,google分流节点不能送中⚠️⚠️⚠️】，与同一家公司
 # 扫描全能王 部分解锁,可扫描，可翻译(有次数限制)
+# 
 
 ```
 ⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️
@@ -25,6 +27,8 @@ https://github.com/nzw9314/QuantumultX/tree/master/Script
 ```
 酷我音乐.解锁会员歌曲➕听书➕下载   ⚠️重写规则排序需要靠前，否则可能失效
 https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
+或者
+https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyyxz.js
 更新时间：20212.1.15
 
 Bilibili自动换区脚本：
@@ -97,6 +101,22 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 ⚠️⚠️解锁VIP会员：工具类 ⚠️⚠️
 ----------------------------------
 ```
+ScannerAir 解锁订阅 
+软件版本：2.4.0
+⚠️⚠️⚠️OCR识别照片文本时,google所走节点不能送中⚠️⚠️⚠️
+下载地址：http://t.cn/A6i2Odbx
+脚本作者：Hausd0rff
+更新时间：2021-11-22
+电报频道：https://t.me/yqc_123
+
+识图百科.解锁订阅  
+//点击设置-升级高级VIP,会提示已购买高级服务
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiKe.js
+脚本作者：R·E
+下载地址：https://apps.apple.com/us/app/id1517758647
+支持版本：商店最新 3.7
+更新时间：2022.1.05
+
 Notability解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
 软件版本：11.0.1/5/6
@@ -159,6 +179,10 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
 使用说明：点击“恢复订阅”即可,一次性解锁永久订阅！
 ‼恢复订阅的过程中需要耐心等待,一次不行 就多试几次 直到最后出现,“成功”字样提示 说明破解生效‼
 
+可可英语，VIP,ok
+kekeyy.js,NobyDa脚本
+支持版本：商店最新
+测试时间：2022.2.18
 
 流利说阅读.VIP会员.需登录 
 支持版本：实测2.19.6可解锁
@@ -234,19 +258,11 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
 脚本说明：注册时填写邀请码：dwpmMe
         可无限延长脚本的使用期限
         邮箱注册登录,关闭后台后需要登录
-        
-可可英语，VIP,ok
-脚本功能：可可英语VIP
-NobyDa脚本
-支持版本：商店最新
-测试时间：2022.2.18
 
-识图百科.解锁订阅  //点击设置-升级高级VIP,会提示已购买高级服务
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiKe.js
-脚本作者：R·E
-下载地址：https://apps.apple.com/us/app/id1517758647
-支持版本：商店最新 3.7
-更新时间：2022.1.05
+
+
+
+
 
         
 ```
