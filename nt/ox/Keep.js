@@ -13,7 +13,7 @@
 ***************************
 QuantumultX:
 [rewrite_local]
-^https://(.+).gotokeep.com(/athena/v5/people/my|/nuocha/plans) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/keep.js
+^https://(.+).gotokeep.com(/athena/v5/people/my|/nuocha/plans) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Keep.js
 
 [mitm] 
 hostname = *.gotokeep.com
@@ -22,7 +22,7 @@ hostname = *.gotokeep.com
 ********************************
 Surge4 or Loon:
 [Script]
-http-response ^https://(.+).gotokeep.com(/athena/v5/people/my|/nuocha/plans) requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/keep.js
+http-response ^https://(.+).gotokeep.com(/athena/v5/people/my|/nuocha/plans) requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Keep.js
 
 [mitm] 
 hostname = *.gotokeep.com
