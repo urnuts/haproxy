@@ -110,6 +110,13 @@ ScannerAir 解锁订阅
 更新时间：2021-11-22
 电报频道：https://t.me/yqc_123
 
+QrScanner.解锁订阅  //与Scanner Air同一家公司
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js
+软件版本：5.4.0
+下载地址：http://t.cn/A6JLAr5p
+脚本作者：Hausd0rff
+更新时间：2021-11-21
+
 识图百科 解锁订阅  
 //点击设置-升级高级VIP,会提示已购买高级服务
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiKe.js
@@ -256,13 +263,6 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.
 更新时间：2022.1.17
 问题反馈：https://t.me/yqc_777
 
-QrScanner.解锁订阅 【与Scanner Air同一家公司】
-(https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js)
-软件版本：5.4.0
-下载地址：http://t.cn/A6JLAr5p
-脚本作者：Hausd0rff
-更新时间：2021-11-21
-
 嘿锋影视.解锁VIP
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js
 软件版本：2.7.0
@@ -285,6 +285,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/PVPhotoManager.conf
 
 Knotes.解锁会员,书摘OCR
 ⚠️⚠️⚠️可邮箱登陆
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Knotes.conf
 脚本作者：R·E
 下载地址：https://apps.apple.com/cn/app/knotes-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/id1536439172
 支持版本：商店最新 1.0.2
@@ -307,7 +308,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/YiMuJiZhang.conf
 更新时间：2022.02.11
 问题反馈：https://t.me/yqc_777
 
-频剪辑提取vip会员，
+视频剪辑提取vip会员，
 ⚠️⚠️⚠️游客登陆即可解锁vip
 https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
 软件版本：1.0.5
@@ -328,5 +329,5 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityWallpaperProC
 问题反馈：https://t.me/yqc_007
 
 Cutisan壁纸 解锁订阅，需登录？？
-Grammarly 未登录测试   
+Grammarly  未登录测试   
 ```
