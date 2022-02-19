@@ -2,15 +2,16 @@
 原作者项目，欢迎star
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 # 排序影响是否解锁/破解成功，比如 Scanner Air 和识图百科冲突,不能同时启用
-# 解锁订阅操作：开启QX后，后台关闭几次app重新打开 / 点击恢复购买 / 还原购买
-# 部分app需要登录
+# 解锁订阅操作：开启QX后，后台关闭几次app重新打开 / 恢复购买 / 还原购买  / 先点击购买，付款时取消
+# 部分app需要登录，部分可以游客登录 或者邮箱登录
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 https://github.com/I-am-R-E/QuantumultX
 https://github.com/yqc007/QuantumultX
 https://github.com/nameking77/Qx/tree/main/rewrite
-https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf 及其他
+https://github.com/LiangYi520/QuantumultX-Script
 https://github.com/nzw9314/QuantumultX/tree/master/Script
+https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf 及其他
 
 .conf仅包含[mitm] 和[rewrite_local]
 .js包含[mitm] 和[rewrite_local]和js脚本
@@ -81,8 +82,8 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
 更新时间：2021.11.23
 
 ----------------------------------  
-三者同一家公司【说明：菜谱大全和烘焙小屋完全一样，解锁脚本一样；二选一下载即可,】
-  #菜谱大全.VIP
+三者同一家公司【说明：菜谱大全和烘焙小屋完全一样，解锁脚本一样；三选一下载即可,】
+  #菜谱大全.VIP (推荐)
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/CaiPuDaQuan.conf
 支持版本：商店最新 5.0.8
 更新时间：2022.1.19
@@ -103,13 +104,13 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 ```
 ScannerAir 解锁订阅 
 软件版本：2.4.0
-⚠️⚠️⚠️OCR识别照片文本时,google所走节点不能送中⚠️⚠️⚠️
+⚠️⚠️⚠️OCR识别照片文本时,google所走节点不能送中，无效时，调整排序靠前⚠️⚠️⚠️ 
 下载地址：http://t.cn/A6i2Odbx
 脚本作者：Hausd0rff
 更新时间：2021-11-22
 电报频道：https://t.me/yqc_123
 
-识图百科.解锁订阅  
+识图百科 解锁订阅  
 //点击设置-升级高级VIP,会提示已购买高级服务
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiKe.js
 脚本作者：R·E
@@ -117,7 +118,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiK
 支持版本：商店最新 3.7
 更新时间：2022.1.05
 
-Notability解锁订阅
+Notability 解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
 软件版本：11.0.1/5/6
 更新时间：2021.11.26
@@ -138,7 +139,6 @@ Picsart
 图片/视频编辑
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Picsart.conf
 支持版本：商店最新 18.3，群友反馈：下载美区更好使
-
 
 美图秀秀.高级VIP
 解锁高级会员（包括但不限于：付费海报模板、高级滤镜、高级素材等），无须登陆
@@ -162,7 +162,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/RecordScreenProCrack
 软件版本：2.0.8
 更新时间：2021.11.3
 
-Polaris Office解锁订阅
+Polaris Office.解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/PolarisOfficeProCrack.js
 软件版本：9.6.1
 更新时间：2021.11.12
@@ -172,7 +172,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/CalculatorHDProCrack
 软件版本：1.9.4
 更新时间：2021.11.16
 
-PlaneVPN 解锁订阅，排序靠前,2.4.5测试成功
+PlaneVPN.解锁订阅，排序靠前,2.4.5测试成功
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
 软件版本：2.4.1【美区商店】
 更新时间：2021.11.19
@@ -184,12 +184,24 @@ kekeyy.js,NobyDa脚本
 支持版本：商店最新
 测试时间：2022.2.18
 
-流利说阅读.VIP会员.需登录 
+流利说阅读.VIP会员
+⚠️⚠️⚠️可邮箱登录 
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
 支持版本：实测2.19.6可解锁
 更新时间：2022.1.16
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
 使用说明：会员时长到2030年，破解的标志是打开阅读🈚️限制，不会提示会员才能看🎉
 如果没有显示会员，剩余天数999。必须卸载重装！
+
+Drops点滴学语言.解锁永久订阅
+⚠️⚠️⚠️可邮箱登录 
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Drops.conf
+脚本作者：langkhach270389, R·E修复重写链接
+支持版本：商店最新 36.9
+更新时间：2022.02.09
+问题反馈：https://t.me/yqc_777
+
+
 ```
 ⚠️⚠️以下未测试已标注⚠️⚠️
 ----------------------------------
@@ -241,7 +253,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.
 支持版本：商店最新 2.2.4
 更新时间：2022.1.17
 
-QrScanner.解锁订阅
+QrScanner.解锁订阅 【与Scanner Air同一家公司】
 (https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js)
 软件版本：5.4.0
 下载地址：http://t.cn/A6JLAr5p
@@ -256,17 +268,56 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
 脚本作者：Hausd0rff
 更新时间：2022-02-12
 脚本说明：注册时填写邀请码：dwpmMe
-        可无限延长脚本的使用期限
-        邮箱注册登录,关闭后台后需要登录
+         可无限延长脚本的使用期限
+         邮箱注册登录,关闭后台后需要登录
+
+PV私密相册管家.解锁会员
+⚠️⚠️⚠️可邮箱登录 
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/PVPhotoManager.conf
+脚本来源：@yqc_777群内热于分享的大帅哥
+下载地址：https://apps.apple.com/cn/app/PV私密相册管家-加密码照片保险箱/id867586326
+支持版本：商店最新 6.7.2
+更新时间：2022.1.30
+问题反馈：https://t.me/yqc_777
+
+Knotes.解锁会员,书摘OCR
+⚠️⚠️⚠️可邮箱登陆
+脚本作者：R·E
+下载地址：https://apps.apple.com/cn/app/knotes-%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/id1536439172
+支持版本：商店最新 1.0.2
+更新时间：2022.02.18
+问题反馈：https://t.me/yqc_777
+
+InShot解锁订阅,外区下载
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/InShot.conf
+脚本作者：R·E
+下载地址：https://apps.apple.com/us/app/inshot-vlog%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91/id997362197
+支持版本：商店最新 1.56.0
+更新时间：2022.2.3
+问题反馈：https://t.me/yqc_777
+
+解锁一木记账会员，未测试
+https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/YiMuJiZhang.conf
+脚本作者：R·E
+下载地址：https://apps.apple.com/cn/app/%E4%B8%80%E6%9C%A8%E8%AE%B0%E8%B4%A6-%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3%E8%AE%B0%E8%B4%A6/id1572969723
+支持版本：商店最新 1.1.9
+更新时间：2022.02.11
+问题反馈：https://t.me/yqc_777
+
+克拉壁纸.解锁订阅 【点击订阅 然后取消付款】
+Cutisan壁纸 解锁订阅
+
+频剪辑提取vip会员，
+⚠️⚠️⚠️游客登陆即可解锁vip
+https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
+软件版本：1.0.5
+下载地址：https://apps.apple.com/cn/app/%E9%9F%B3%E9%A2%91%E5%89%AA%E8%BE%91%E6%8F%90%E5%8F%96-%E9%9F%B3%E4%B9%90%E5%89%AA%E8%BE%91%E7%BC%96%E8%BE%91%E8%A7%86%E9%A2%91%E6%8F%90%E5%8F%96%E9%9F%B3%E9%A2%91%E5%B7%A5%E5%85%B7/id1546430222
+脚本作者：凉意
+更新时间：2022.02.16
+电报频道：https://t.me/liangyiA
+问题反馈：https://t.me/LiangYi66
 
 
-InShot
-克拉壁纸：点击订阅 然后取消付款
-Cutisan壁纸
-Knotes 书摘OCR
-
-一木记账 未测试
-PV私密相册管家 未测试
 savefile 未测试
 Grammarly 未登录测试   
 ```
