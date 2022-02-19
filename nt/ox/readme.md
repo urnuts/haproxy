@@ -231,7 +231,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/NoMoCamProCrack.js
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/QiMaoXiaoShuo.conf
 使用说明：☝️支持商店最新版
 
-TextEditor. 无效？？
+TextEditor.解锁
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.js
 支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
 更新时间：2022-01-21
@@ -260,6 +260,8 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
         邮箱注册登录,关闭后台后需要登录
 
 
+InShot
+克拉壁纸：购买并取消
 
 
 
