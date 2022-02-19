@@ -248,10 +248,13 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.j
 支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
 更新时间：2022-01-21
 
-SaveFile.解锁下载限制. 未测试
+SaveFile.解锁下载限制.未测试
+⚠️美区下载,解锁终身会员
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/SaveFile.js
+脚本作者：R·E
 支持版本：商店最新 2.2.4
 更新时间：2022.1.17
+问题反馈：https://t.me/yqc_777
 
 QrScanner.解锁订阅 【与Scanner Air同一家公司】
 (https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js)
@@ -288,7 +291,7 @@ Knotes.解锁会员,书摘OCR
 更新时间：2022.02.18
 问题反馈：https://t.me/yqc_777
 
-InShot解锁订阅,外区下载
+InShot解锁订阅,⚠️外区下载
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/InShot.conf
 脚本作者：R·E
 下载地址：https://apps.apple.com/us/app/inshot-vlog%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91/id997362197
@@ -304,9 +307,6 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/YiMuJiZhang.conf
 更新时间：2022.02.11
 问题反馈：https://t.me/yqc_777
 
-克拉壁纸.解锁订阅 【点击订阅 然后取消付款】
-Cutisan壁纸 解锁订阅
-
 频剪辑提取vip会员，
 ⚠️⚠️⚠️游客登陆即可解锁vip
 https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
@@ -317,7 +317,16 @@ https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
 电报频道：https://t.me/liangyiA
 问题反馈：https://t.me/LiangYi66
 
+克拉壁纸解锁订阅  
+⚠️先点击购买，付款界面取消即可
+https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityWallpaperProCrack.js
+软件版本：7.2.4
+下载地址：http://t.cn/AimD5JPZ
+脚本作者：Hausd0rff
+更新时间：2022-01-21
+电报频道：https://t.me/yqc_123
+问题反馈：https://t.me/yqc_007
 
-savefile 未测试
+Cutisan壁纸 解锁订阅，需登录？？
 Grammarly 未登录测试   
 ```
