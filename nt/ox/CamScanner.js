@@ -1,7 +1,7 @@
 /*
-扫描全能王CamScanner.
+扫描全能王Cam Scanner
+NobyDa脚本
 解锁部分高级特权至2099,OCR不可用无需登录
-野比大佬
 ***************************
 Quantumult X:
 
