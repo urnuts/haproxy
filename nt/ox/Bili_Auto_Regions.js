@@ -1,4 +1,8 @@
 /**************************
+务必修改 '🇭🇰腾讯HK' 为自己的hk节点
+        '台湾节点'为自己的tw节点
+
+
 哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
 如需禁用豆瓣评分或策略通知, 可前往BoxJs设置
 BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
@@ -36,7 +40,9 @@ async function SwitchRegion(play) {
 	const Group = $.read('BiliArea_Policy') || '港台番剧'; //Your blibli policy group name.
 	const CN = $.read('BiliArea_CN') || 'DIRECT'; //Your China sub-policy name.
 	const TW = $.read('BiliArea_TW') || '台湾节点'; //Your Taiwan sub-policy name.
-	const HK = $.read('BiliArea_HK') || '🇭🇰 腾讯'; //Your HongKong sub-policy name.
+	const HK = $.read('BiliArea_HK') || '🇭🇰腾讯HK
+	
+	'; //Your HongKong sub-policy name.
 	const current = await $.getPolicy(Group);
 	const area = (() => {
 		if (/\u50c5[\u4e00-\u9fa5]+\u6e2f|%20%E6%B8%AF&/.test(play)) {
