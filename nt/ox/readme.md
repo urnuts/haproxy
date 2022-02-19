@@ -261,10 +261,10 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
 
 
 InShot
-克拉壁纸：购买并取消
+克拉壁纸：点击订阅 然后取消付款
 
-
-
+一木记账 未测试
+PV私密相册管家
 
         
 ```
