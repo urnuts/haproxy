@@ -1,15 +1,11 @@
-/**************************
-务必修改 '🇭🇰腾讯HK' 为自己的hk节点
-        '台湾节点'为自己的tw节点
+/*
 
-
+*************************
 哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
 如需禁用豆瓣评分或策略通知, 可前往BoxJs设置
 BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
 Author: @NobyDa
 ****************************
-脚本取自@NobyDa的库，仅为了方便小白配置默认使用而更改了策略组名称
-作者库：https://raw.githubusercontent.com/NobyDa
 QuantumultX:
 [mitm] 
 hostname = ap?.bilibili.com
@@ -19,19 +15,9 @@ hostname = ap?.bilibili.com
 ^https:\/\/ap(p|i)\.bilibili\.com\/(pgc\/view\/(v\d\/)?app|x(\/v\d)?\/view\/video)\/(season|online)\?access_key url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
 #可选, 适用于搜索指定地区的番剧
 ^https:\/\/app\.bilibili\.com\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)& url script-request-header https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
-
 ***************************
-Surge4 or Loon:
-[mitm] 
-hostname = ap?.bilibili.com
 
-[Script]
-#哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
-http-response ^https:\/\/ap(p|i)\.bilibili\.com\/(pgc\/view\/(v\d\/)?app|x(\/v\d)?\/view\/video)\/(season|online)\?access_key requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
-#可选, 适用于搜索指定地区的番剧
-http-response ^https:\/\/app\.bilibili\.com\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)& requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Bili_Auto_Regions.js
-
-***************************/
+*/
 
 let $ = nobyda();
 let run = EnvInfo();
@@ -40,9 +26,7 @@ async function SwitchRegion(play) {
 	const Group = $.read('BiliArea_Policy') || '港台番剧'; //Your blibli policy group name.
 	const CN = $.read('BiliArea_CN') || 'DIRECT'; //Your China sub-policy name.
 	const TW = $.read('BiliArea_TW') || '台湾节点'; //Your Taiwan sub-policy name.
-	const HK = $.read('BiliArea_HK') || '🇭🇰腾讯HK
-	
-	'; //Your HongKong sub-policy name.
+	const HK = $.read('BiliArea_HK') || '🇭🇰腾讯HK'; //Your HongKong sub-policy name.
 	const current = await $.getPolicy(Group);
 	const area = (() => {
 		if (/\u50c5[\u4e00-\u9fa5]+\u6e2f|%20%E6%B8%AF&/.test(play)) {
