@@ -7,7 +7,7 @@
 *******************************
 QuantumultX:
 [rewrite_local]
-^https\:\/\/api-prod\.languagedrops\.com\/syncPurchasesV\d url script-response-body https://raw.githubusercontent.com/langkhach270389/Quantumult-X-LK/master/Scripts/langkhach/drops.js
+^https\:\/\/api-prod\.languagedrops\.com\/syncPurchasesV\d url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Drops.js
 
 [mitm]
 hostname = api-prod.languagedrops.com
