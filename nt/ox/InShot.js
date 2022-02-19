@@ -10,7 +10,7 @@
 ********************************
 QuantumultX:
 [rewrite_local]
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/InShot.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/InShot.js
 
 [mitm] 
 hostname = buy.itunes.apple.com
