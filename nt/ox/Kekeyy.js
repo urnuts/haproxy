@@ -10,7 +10,7 @@ QuantumultX:
 hostname = mob2015.kekenet.com
 
 [rewrite_local]
-^https:\/\/mob2015\.kekenet\.com\/keke\/mobile\/index\.php url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/kekeyy.js
+^https:\/\/mob2015\.kekenet\.com\/keke\/mobile\/index\.php url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Kekeyy.js
 
 ***************************/
 re('"is_vip":\\d@"end_time":\\d+','"is_vip":1@"end_time":1741575902')
