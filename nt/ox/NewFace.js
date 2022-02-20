@@ -17,7 +17,7 @@ NewFace - AI智能变脸换脸变老时光机
 [rewrite_local]
 
 # > NewFace解锁永久会员
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NewFace.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/NewFace.js
 
 [mitm] 
 

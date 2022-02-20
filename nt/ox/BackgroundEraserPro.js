@@ -14,7 +14,7 @@
 *******************************
 QuantumultX:
 [rewrite_local]
-^https?:\/\/gw\.aoscdn\.com\/base\/vip\/client\/authorizations$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/BackgroundEraserPro.js
+^https?:\/\/gw\.aoscdn\.com\/base\/vip\/client\/authorizations$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/BackgroundEraserPro.js
 
 [mitm] 
 hostname = gw.aoscdn.com
@@ -22,7 +22,7 @@ hostname = gw.aoscdn.com
 ***************************
 Surge4 or Loon:
 [Script]
-http-response^https?:\/\/gw\.aoscdn\.com\/base\/vip\/client\/authorizations$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/BackgroundEraserPro.js
+http-response^https?:\/\/gw\.aoscdn\.com\/base\/vip\/client\/authorizations$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/BackgroundEraserPro.js
 
 [mitm] 
 hostname = gw.aoscdn.com

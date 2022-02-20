@@ -16,7 +16,7 @@ QuantumultX:
 
 [rewrite_local]
 # 答岸Master解锁会员
-^https?:\/\/123\.57\.195\.48\/api\/(Usercent|teach)er\/get(User|TeacherDetail)Info\?token=.+$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/DaZMasterPro.js
+^https?:\/\/123\.57\.195\.48\/api\/(Usercent|teach)er\/get(User|TeacherDetail)Info\?token=.+$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/DaZMasterPro.js
 [mitm]
 hostname = 123.57.195.48
 
@@ -25,7 +25,7 @@ Surge4 or Loon:
 
 [Script]
 # 答岸Master解锁会员
-http-response ^https?:\/\/123\.57\.195\.48\/api\/(Usercent|teach)er\/get(User|TeacherDetail)Info\?token=.+$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/DaZMasterPro.js
+http-response ^https?:\/\/123\.57\.195\.48\/api\/(Usercent|teach)er\/get(User|TeacherDetail)Info\?token=.+$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/DaZMasterPro.js
 [mitm]
 hostname = 123.57.195.48
 ***************************

@@ -14,7 +14,7 @@
 *******************************
 QuantumultX:
 [rewrite_local]
-^https?:\/\/nomo\.dafork\.com\/api\/v3\/register\/phone_signin$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NoMoCamPro.js
+^https?:\/\/nomo\.dafork\.com\/api\/v3\/register\/phone_signin$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/NoMoCamPro.js
 
 [mitm] 
 hostname = nomo.dafork.com
@@ -24,7 +24,7 @@ hostname = nomo.dafork.com
 Surge4 or Loon:
 [Script]
 http-response ^https?:\/\/nomo\.dafork\.com\/api\/v3\/register\/phone_signin$ 
-requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NoMoCamPro.js
+requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/NoMoCamPro.js
 
 [mitm] 
 hostname = nomo.dafork.com

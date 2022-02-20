@@ -14,7 +14,7 @@
 ***************************
 QuantumultX:
 [rewrite_local]
-^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/AudioMack.js
+^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/AudioMack.js
 
 [mitm] 
 hostname = api.revenuecat.com
@@ -22,7 +22,7 @@ hostname = api.revenuecat.com
 ***************************
 Surge4 or Loon:
 [Script]
-http-response ^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/AudioMack.js
+http-response ^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/AudioMack.js
 
 [mitm] 
 hostname = api.revenuecat.com

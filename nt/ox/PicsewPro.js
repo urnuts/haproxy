@@ -15,7 +15,7 @@
 ********************************
 QuantumultX:
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/PicsewPro.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/PicsewPro.js
 
 [mitm] 
 hostname = buy.itunes.apple.com
@@ -23,7 +23,7 @@ hostname = buy.itunes.apple.com
 ********************************
 Surge4 or Loon:
 [Script]
-http-response ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/PicsewPro.js
+http-response ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/PicsewPro.js
 
 [mitm] 
 hostname = buy.itunes.apple.com

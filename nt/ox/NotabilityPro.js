@@ -14,7 +14,7 @@
 ******************************
 QuantumultX:
 [rewrite_local]
-^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NotabilityPro.js
+^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/NotabilityPro.js
 
 [mitm] 
 hostname = notability.com
@@ -22,7 +22,7 @@ hostname = notability.com
 ***************************
 Surge4 or Loon:
 [Script]
-http-response ^https?:\/\/notability\.com\/subscriptions requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/NotabilityPro.js
+http-response ^https?:\/\/notability\.com\/subscriptions requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Hausd0rff/NotabilityPro.js
 
 [mitm] 
 hostname = notability.com
