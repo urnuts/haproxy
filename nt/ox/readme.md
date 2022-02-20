@@ -7,12 +7,24 @@
 # Scanner Air:OCR识别照片文本时,google分流节点不能送中
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
-https://github.com/I-am-R-E/QuantumultX
-https://github.com/yqc007/QuantumultX
-https://github.com/nameking77/Qx/tree/main/rewrite
-https://github.com/LiangYi520/QuantumultX-Script                 https://t.me/liangyiA
-https://github.com/nzw9314/QuantumultX/tree/master/Script
+[](https://t.me/liangyiA)
+
+传送带：urnuts/haproxy/main/nt/ox
+
+[I-am-R-E](https://github.com/I-am-R-E/QuantumultX) 
+
+[**Hausd0rff** yqc007 ](https://github.com/yqc007/QuantumultX)
+
+[nameking77](https://github.com/nameking77/Qx/tree/main/rewrite)
+
+[凉意](https://github.com/LiangYi520/QuantumultX-Script  )
+
+[奇心](https://github.com/nzw9314/QuantumultX/tree/master/Script)
+
 https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf 及其他
+
+
+
 
 ```
 
@@ -288,6 +300,8 @@ NewFace - AI智能变脸换脸变老时光机
 ```
 
 传送带：
+urnuts/haproxy/main/nt/ox
+
 [I-am-R-E](https://github.com/I-am-R-E/QuantumultX) 
 
 [**Hausd0rff** yqc007 ](https://github.com/yqc007/QuantumultX)
@@ -299,10 +313,5 @@ NewFace - AI智能变脸换脸变老时光机
 [奇心](https://github.com/nzw9314/QuantumultX/tree/master/Script)
 
 
-https://github.com/I-am-R-E/QuantumultX
-https://github.com/yqc007/QuantumultX
-https://github.com/nameking77/Qx/tree/main/rewrite
-https://github.com/LiangYi520/QuantumultX-Script
-https://github.com/nzw9314/QuantumultX/tree/master/Script
 
-urnuts/haproxy/main/nt/ox
+
