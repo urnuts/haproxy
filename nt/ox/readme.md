@@ -16,7 +16,8 @@ https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf �
 
 ```
 
-⚠️⚠️解锁会员VIP：影音,资讯，厨艺，健身 ⚠️⚠️
+
+⚠️⚠️影音娱乐：影音,资讯，厨艺，健身 ⚠️⚠️
 ----------------------------------
 ```
 Bilibili自动换区脚本：
@@ -128,6 +129,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/YiMuJiZhang.conf
 ```
 ⚠️⚠️工具类02.：相机，录屏，截长图,照片/视频/音频编辑，壁纸，相册加密⚠️⚠️
 ----------------------------------
+```
 录屏大师.解锁会员
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/RecordScreenProCrack.js
 软件版本：2.0.8
@@ -206,9 +208,9 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityWallpaperProC
 
 
 ```
-```
 ⚠️⚠️工具类03：大师课，外语学习，小说/读书app，计算器，office/文本编辑⚠️⚠️
 ----------------------------------
+```
 答岸Master.解锁会员
 ⚠️⚠️⚠️需登录
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
@@ -274,7 +276,6 @@ WPS  ------
 
 
 ```
-```
 ⚠️⚠️以下未测试⚠️⚠️
 ----------------------------------
 ```
@@ -285,7 +286,13 @@ Grammarly  未登录测试
 NewFace - AI智能变脸换脸变老时光机
 
 ```
+
+传送带：
 [I-am-R-E](https://github.com/I-am-R-E/QuantumultX)
+[**Hausd0rff** yqc007 ](https://github.com/yqc007/QuantumultX)
+[]()
+[]()
+[]()
 
 
 https://github.com/I-am-R-E/QuantumultX
