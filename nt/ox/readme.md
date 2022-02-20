@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/NanFangZhouMo.conf
 支持版本：商店最新 7.3.12
 更新时间：2022.1.21
 
-Keep 会员.可观看阶段课程
+Keep.VIP.可观看阶段课程
 ⚠️⚠️⚠️需登录  //使用方法：不要点击课程预览，往下滑直接点击课程阶段
 https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/keep
 软件版本：7.17.0
@@ -76,7 +76,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
 ⚠️⚠️工具类01：扫描，OCR，书摘，笔记，记账⚠️⚠️
 ----------------------------------
 ```
-扫描全能王,部分解锁：可扫描,不能OCR
+扫描全能王.部分解锁：可扫描,不能OCR
 
 ScannerAir.解锁订阅
 ⚠️OCR识别照片文本时,google所走节点不能送中，无效时，调整排序靠前⚠️
@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.j
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/SuiShouJi.conf
 支持版本：商店最新 13.0.0
 
-解锁一木记账会员，未测试
+一木记账.会员，未测试
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/YiMuJiZhang.conf
 支持版本：商店最新 1.1.9
 更新时间：2022.02.11
@@ -146,19 +146,18 @@ Picsart
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Picsart.conf
 支持版本：商店最新 18.3，群友反馈：下载美区更好使
 
-
 傲软抠图.解锁会员
 ⚠️⚠️⚠️需登录
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/BackgroundEraserProCrack.js
 软件版本：1.5.1
 更新时间：2021.11.20
 
-马卡龙玩图.订阅. 未测试
+马卡龙玩图.解锁订阅. 未测试
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MaKaLongWanTu.conf
 支持版本：商店最新 5.3.4
 更新时间：2022.1.24
 
-InShot解锁订阅,⚠️外区下载
+InShot.解锁订阅,⚠️外区下载
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/InShot.conf
 支持版本：商店最新 1.56.0
 更新时间：2022.2.3
@@ -174,20 +173,26 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MeiYanXiangJi.conf
 支持版本：商店最新 10.3.00
 更新时间：2022.1.15
 
+一甜相机.VIP
+https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/ytxj.js
+软件版本：2.8.2
+脚本作者：凉意
+更新时间：2022.02.20
+  
 FIMO.解锁全部胶卷
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.js
 软件版本：2.18.0
 支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
 更新时间：2022-01-20
 
-NOMO CAM 解锁订阅
+NOMOCAM.解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/NoMoCamProCrack.js
 软件版本：1.5.131
 更新时间：2022-01-06
 使用说明：一次性解锁‼
 均支持商店最新版;接收到验证码后，再开脚本去登陆�;同步解锁nomo-raw，需手动操作
   
-音频剪辑提取vip会员，
+音频剪辑提取.VIP
 ⚠️⚠️⚠️游客登陆即可解锁vip
 https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
 软件版本：1.0.5
@@ -199,7 +204,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/PVPhotoManager.conf
 支持版本：商店最新 6.7.2
 更新时间：2022.1.30
 
-克拉壁纸解锁订阅  
+克拉壁纸.解锁订阅  
 ⚠️先点击购买，付款界面取消即可
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityWallpaperProCrack.js
 软件版本：7.2.4
