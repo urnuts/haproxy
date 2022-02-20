@@ -118,7 +118,10 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/YiMuJiZhang.conf
 支持版本：商店最新 1.1.9
 更新时间：2022.02.11
 
-图图记账解锁永久高级版  未测试
+图图记账.解锁永久高级版
+软件版本：2.3.0
+脚本作者：Hausd0rff
+更新时间：2022-01-23
 
 
 
