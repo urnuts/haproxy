@@ -13,11 +13,7 @@
 
 传送带：urnuts/haproxy/main/nt/ox
 
-[I-am-R-E](https://github.com/I-am-R-E/QuantumultX) 
-
-[**Hausd0rff** yqc007 ](https://github.com/yqc007/QuantumultX)
-
-[nameking77](https://github.com/nameking77/Qx/tree/main/rewrite)
+[I-am-R-E](https://github.com/I-am-R-E/QuantumultX)         [**Hausd0rff** yqc007 ](https://github.com/yqc007/QuantumultX)           [nameking77](https://github.com/nameking77/Qx/tree/main/rewrite)
 
 [凉意](https://github.com/LiangYi520/QuantumultX-Script  )
 
