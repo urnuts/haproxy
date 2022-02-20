@@ -1,15 +1,13 @@
-<code>
 ```
 页尾有原作者项目传送门，欢迎star
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-# 排序影响是否解锁/破解成功，比如 Scanner Air 和识图百科,save file冲突,不能同时启用
+# 排序影响是否解锁/破解成功，比如 Scanner Air 和识图百科不能同时启用，kuwo需要靠前
 # 解锁订阅操作：开启QX后，后台关闭几次app重新打开 /恢复购买/还原购买  /先点击购买，付款时取消
 # 部分app需要登录，部分可以游客登录 或者邮箱登录
 # Scanner Air:OCR识别照片文本时,google分流节点不能送中
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 ```
-
 
 <code>⚠️⚠️影音娱乐：影音,资讯，厨艺，健身 ⚠️⚠️
 ----------------------------------
@@ -284,11 +282,16 @@ Grammarly  未登录测试
 神话live
 NewFace - AI智能变脸换脸变老时光机
 
-```
 
+  删除：
+  酷我2496
+  
+  
+  
+  
 ```
 传送带：urnuts/haproxy/main/nt/ox
-```
+
 [I-am-R-E](https://github.com/I-am-R-E/QuantumultX) 
 
 [Hausd0rff](https://github.com/yqc007/QuantumultX)
@@ -298,4 +301,3 @@ NewFace - AI智能变脸换脸变老时光机
 [凉意](https://github.com/LiangYi520/QuantumultX-Script  )
 
 [奇心](https://github.com/nzw9314/QuantumultX/tree/master/Script)
-
