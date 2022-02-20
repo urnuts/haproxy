@@ -1,5 +1,5 @@
 ```
-原作者项目，欢迎star
+<code>页尾有原作者项目传送门，欢迎star
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 # 排序影响是否解锁/破解成功，比如 Scanner Air 和识图百科,save file冲突,不能同时启用
 # 解锁订阅操作：开启QX后，后台关闭几次app重新打开 /恢复购买/还原购买  /先点击购买，付款时取消
@@ -8,23 +8,6 @@
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 ```
-
-[凉意频道](https://t.me/liangyiA)
-
-传送带：urnuts/haproxy/main/nt/ox
-
-[I-am-R-E](https://github.com/I-am-R-E/QuantumultX)         
-
-[**Hausd0rff** yqc007 ](https://github.com/yqc007/QuantumultX)    
-
-[nameking77](https://github.com/nameking77/Qx/tree/main/rewrite)
-
-[凉意](https://github.com/LiangYi520/QuantumultX-Script  )
-
-[奇心](https://github.com/nzw9314/QuantumultX/tree/master/Script)
-
-https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf 及其他
-
 
 
 <code>⚠️⚠️影音娱乐：影音,资讯，厨艺，健身 ⚠️⚠️
