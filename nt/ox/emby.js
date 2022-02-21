@@ -11,7 +11,6 @@ hostname = mb3admin.com
 ^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/emby.js
 ***************************
 */
-var url = $request.url;
 
 const myStatus = "HTTP/1.1 200 OK";
 const myHeaders = {
