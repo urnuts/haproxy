@@ -1,7 +1,7 @@
 /*
  *
  *
-脚本功能：多多视频vip会员
+脚本功能：多多视频vip会员. 接码
 软件版本：1.6
 下载地址：https://mobile.rr.tv/h5/share/goapp
 脚本作者：凉意
