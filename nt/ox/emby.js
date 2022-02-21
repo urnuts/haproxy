@@ -9,14 +9,6 @@ hostname = mb3admin.com
 
 [rewrite_local]
 ^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) url script-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/emby.js
-
-***************************
-Surge4 or Loon:
-[mitm]
-hostname = mb3admin.com
-
-[Script]
-http-response ^https:\/\/mb3admin\.com\/admin\/service(\/registration\/validateDevice|\/appstore\/register|\/registration\/validate|\/registration\/getStatus|\/supporter\/retrievekey) requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/emby.js
 ***************************
 */
 var url = $request.url;
