@@ -6,7 +6,7 @@
 QuantumultX:
 [rewrite_local]
 
-^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) url script-response-body https://raw.githubusercontent.com/yichahucha/surge/master/jd_price.js
+^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/jd_price.js
 [mitm]
 hostname = api.m.jd.com
 ***************************
