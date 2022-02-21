@@ -11,7 +11,6 @@ QuantumultX:
 hostname = api.m.jd.com
 ***************************
  */
-
 const path1 = "serverConfig";
 const path2 = "wareBusiness";
 const path3 = "basicConfig";
