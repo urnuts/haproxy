@@ -1,28 +1,21 @@
-# apt update -y && apt upgrade -y
+<code>在code中使用及对应的5种使用效果：
+<sub>下移</sub>
+<sup>上移</sup>
+<em>斜体</em>
+</code>
 
-## apt -y install curl net-tools lsb-release vim tar mtr curl dnsutils sudo lsb-release haproxy openresolv
-
-###### sed -i 's/#Port 22/Port 27499/g' /etc/ssh/sshd_config && sed -i 's/Port 22/Port 27499/g' /etc/ssh/sshd_config && systemctl restart ssh
-
-**设置IPv4优先**
-
-*echo "precedence*
-
-~~ffff:0:0/96  100" >> /etc/gai.conf~~
-
-**cat /etc/_resolv.conf_**
-
-***Ubuntu修改dns:***
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 ```
-echo -e "nameserver 1.1.1.1 
-```
-
-
-
-[链接](https://github.com/urnuts/haproxy/blob/main/readme.md)
-
-
-nameserver 1.0.0.1
-nameserver 8.8.8.8
-nameserver 8.8.4.4" > /etc/resolv.conf
+粗体：** 或 __
+全部粗体：***
+斜体：*  或 _
+粗+斜：** _ _ **  
+划线：~~
+链接：[文本](链接)
+图片：![文本](链接)
+列表：- 或 * 或 1. 
+网状：
+1. First list item
+   - First nested list item
+     - Second nested list item
