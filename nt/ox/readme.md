@@ -14,19 +14,10 @@
 ```
 Bili自动换区：
 ⚠️请确保改节点名称含有：香港节点
-  关闭温和策略机制
-  添加规则：ip-cidr, 203.107.1.1/24, reject
+  关闭温和策略机制；添加规则：ip-cidr, 203.107.1.1/24, reject
 
 EMBY.解锁订阅
 https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
-
-嘿锋影视.解锁VIP
-⚠️⚠️⚠️邮箱注册登录,关闭后台后需重新登录.4K资源较多
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js
-软件版本：2.7.0
-官网地址：https://hfys8.vip/app
-更新时间：2022-02-12
-脚本说明：注册时填写邀请码：dwpmMe，可无限延长脚本的使用期限
 
 酷我音乐.解锁会员
 歌曲➕听书➕下载
@@ -50,23 +41,12 @@ https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/keep
 三者同一家公司,推荐菜谱大全【菜谱大全和烘焙小屋完全一样；三选一下载即可】
   
 菜谱大全.VIP (推荐)
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/CaiPuDaQuan.conf
-支持版本：商店最新 5.0.8
-更新时间：2022.1.19
+烘焙小屋.VIP ，支持iPad
+香哈菜谱.VIP，除课程外解锁所有限制⚠️⚠️⚠️需登录
+
+
   
-烘焙小屋.VIP
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/HongBeiXiaoWu.conf
-支持版本：商店最新 3.9.3
-更新时间：2022.1.19
   
-香哈菜谱.VIP，除课程外解锁所有限制
-⚠️⚠️⚠️需登录
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/XiangHaCaiPu.conf
-支持版本：商店最新 9.0.1
-更新时间：2022.1.19
-
-
-
 ```
 ⚠️⚠️工具类01：扫描，OCR，书摘，笔记，记账⚠️⚠️
 ----------------------------------
@@ -91,16 +71,8 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiK
 支持版本：商店最新 3.7
 更新时间：2022.1.05
 
-Notability.解锁订阅
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/NotabilityProCrack.js
-软件版本：11.0.1/5/6
-更新时间：2021.11.26
-
+Notability.解锁订阅，软件版本：11.0.1/5/6
 随手记.解锁VIP, 去除部分广告, 可下载付费主题
-⚠️⚠️⚠️需登录
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/SuiShouJi.conf
-支持版本：商店最新 13.0.0
-
 一木记账.会员，未测试
 图图记账.解锁永久高级版
 
@@ -122,55 +94,11 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/PicsewProCrack.js
 软件版本：3.8.1
 更新时间：2021.12.20
 
-Picsart
-图片/视频编辑
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Picsart.conf
-支持版本：商店最新 18.3，群友反馈：下载美区更好使
-
-傲软抠图.解锁会员
-⚠️⚠️⚠️需登录
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/BackgroundEraserProCrack.js
-软件版本：1.5.1
-更新时间：2021.11.20
-
-马卡龙玩图.解锁订阅. 未测试
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MaKaLongWanTu.conf
-支持版本：商店最新 5.3.4
-更新时间：2022.1.24
-
-InShot.解锁订阅,⚠️外区下载
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/InShot.conf
-支持版本：商店最新 1.56.0
-更新时间：2022.2.3
-
-美图秀秀.高级VIP
-解锁包括但不限于：付费海报模板、高级滤镜、高级素材等
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MeiTuXiuXiu.conf
-支持版本：商店最新 9.3.80
-更新时间：2022.1.17
-
-美颜相机.紫钻VIP
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/MeiYanXiangJi.conf
-支持版本：商店最新 10.3.00
-更新时间：2022.1.15
-
-一甜相机.VIP
-https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/ytxj.js
-软件版本：2.8.2
-脚本作者：凉意
-更新时间：2022.02.20
-  
 音频剪辑提取.VIP
 ⚠️⚠️⚠️游客登陆即可解锁vip
 https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
 软件版本：1.0.5
 更新时间：2022.02.16
-
-PV私密相册管家.解锁会员
-⚠️⚠️⚠️可邮箱登录 
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/PVPhotoManager.conf
-支持版本：商店最新 6.7.2
-更新时间：2022.1.30
 
 克拉壁纸.解锁订阅  
 ⚠️先点击购买，付款界面取消即可
@@ -179,12 +107,22 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityWallpaperProC
 脚本作者：Hausd0rff
 更新时间：2022-01-21
 
-
+Picsart 美区更好使
+傲软抠图.解锁会员，⚠️⚠️⚠️需登录
+马卡龙玩图.解锁订阅. 未测试
+InShot.解锁订阅,⚠️外区下载
+美图秀秀.高级VIP
+美颜相机.紫钻VIP
+一甜相机.VIP
+  
+  
+  
+  
 ```
 ⚠️⚠️工具类03：大师课，外语学习，小说/读书app，计算器，office/文本编辑⚠️⚠️
 ----------------------------------
 ```
-答岸Master.解锁会员
+答岸.解锁会员
 ⚠️⚠️⚠️需登录
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
 软件版本：1.1.13
@@ -198,12 +136,8 @@ kekeyy.js,NobyDa脚本
 流利说阅读.VIP会员
 ⚠️⚠️⚠️手机登录 
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
-支持版本：实测2.19.6可解锁
+老版本：2.19.6可解锁
 更新时间：2022.1.16
-
-有书解锁会员精读。ok
-
-微信读书.免费会员. 未测试
 
 Polaris Office.解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/PolarisOfficeProCrack.js
@@ -223,6 +157,11 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
 ‼恢复订阅的过程中需要耐心等待,一次不行 就多试几次 直到最后出现,“成功”字样提示 说明破解生效‼
 
 
+有书
+七猫
+微信读书
+  
+  
 
   
 ```
