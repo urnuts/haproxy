@@ -1,3 +1,6 @@
+
+```
+
 <code>在code中使用及对应的5种使用效果：
 <sub>下移</sub>
 <sup>上移</sup>
@@ -6,7 +9,6 @@
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-```
 粗体：** 或 __
 全部粗体：***
 斜体：*  或 _
@@ -19,3 +21,5 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 1. First list item
    - First nested list item
      - Second nested list item
+
+```
