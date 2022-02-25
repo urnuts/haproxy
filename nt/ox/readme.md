@@ -5,6 +5,7 @@
 # 解锁订阅操作：开启QX后，后台关闭几次app重新打开 /恢复购买/还原购买  /先点击购买，付款时取消
 # 部分app需要登录，部分可以游客登录 或者邮箱登录
 # Scanner Air:OCR识别照片文本时,google分流节点不能送中
+# 未测试已标出
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
 ```
@@ -100,13 +101,7 @@ https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
 软件版本：1.0.5
 更新时间：2022.02.16
 
-克拉壁纸.解锁订阅  
-⚠️先点击购买，付款界面取消即可
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/ClarityWallpaperProCrack.js
-软件版本：7.2.4
-脚本作者：Hausd0rff
-更新时间：2022-01-21
-
+克拉壁纸.解锁订阅 ⚠️先点击购买，付款界面取消即可
 Picsart 美区更好使
 傲软抠图.解锁会员，⚠️⚠️⚠️需登录
 马卡龙玩图.解锁订阅. 未测试
@@ -149,14 +144,9 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.j
 支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
 更新时间：2022-01-21
 
-PlaneVPN.解锁订阅，排序靠前,2.4.5测试成功
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
-软件版本：2.4.1【美区商店】
-更新时间：2021.11.19
+PlaneVPN.解锁订阅，⚠️排序靠前,与识图百科冲突，2.4.5测试成功
 使用说明：点击“恢复订阅”即可,一次性解锁永久订阅！
 ‼恢复订阅的过程中需要耐心等待,一次不行 就多试几次 直到最后出现,“成功”字样提示 说明破解生效‼
-
-
 有书
 七猫
 微信读书
