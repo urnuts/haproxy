@@ -12,8 +12,8 @@
 <code>⚠️⚠️影音娱乐：影音,资讯，厨艺，健身 ⚠️⚠️
 ----------------------------------
 ```
-Bilibili自动换区：
-⚠️需要手动修改节点名称
+Bili自动换区：
+⚠️请确保改节点名称含有：香港节点
   关闭温和策略机制
   添加规则：ip-cidr, 203.107.1.1/24, reject
 
@@ -21,7 +21,7 @@ EMBY.解锁订阅
 https://raw.githubusercontent.com/toulanboy/scripts/master/emby/emby_quan.conf
 
 嘿锋影视.解锁VIP
-⚠️⚠️⚠️邮箱注册登录,关闭后台后需重新登录
+⚠️⚠️⚠️邮箱注册登录,关闭后台后需重新登录.4K资源较多
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack.js
 软件版本：2.7.0
 官网地址：https://hfys8.vip/app
@@ -32,12 +32,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/HeiFengMovieVipCrack
 歌曲➕听书➕下载
 ⚠️重写规则排序需要靠前，否则可能失效
 https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/kwyy.js
-更新时间：20212.1.15 【有最新版--】
-
-AudioMack.解锁永久订阅,第三方音乐平台
-⚠️⚠️⚠️需登录
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/AudioMackProCrack.js
-软件版本：6.4.4，支持美区商店最新版,目前测试为一次性解锁
+更新时间：20212.1.15 【有最新版,需登录】
 
 南方周末.高级年费会员 + 年费会员课程 + 所有付费课程
 ⚠️⚠️⚠️需登录
@@ -84,18 +79,11 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/ScannerAirProCrack.j
 软件版本：最新2.5.0
 更新时间：2021-11-22
 
-QrScanner.解锁订阅  //与Scanner Air同一家公司
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/QRCodeScanProCrack.js
-软件版本：5.4.0
-脚本作者：Hausd0rff
-更新时间：2021-11-21
-
 Knotes.解锁会员,书摘/OCR
 ⚠️⚠️⚠️可邮箱登陆
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Knotes.conf
 支持版本：商店最新 1.0.2
 更新时间：2022.02.18
-
 
 识图百科.解锁订阅  与scanner air冲突，不能同时启用
 //点击设置-升级高级VIP,会提示已购买高级服务
@@ -114,14 +102,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/SuiShouJi.conf
 支持版本：商店最新 13.0.0
 
 一木记账.会员，未测试
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/YiMuJiZhang.conf
-支持版本：商店最新 1.1.9
-更新时间：2022.02.11
-
 图图记账.解锁永久高级版
-软件版本：2.3.0
-脚本作者：Hausd0rff
-更新时间：2022-01-23
 
 
 
@@ -179,19 +160,6 @@ https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/ytxj.js
 脚本作者：凉意
 更新时间：2022.02.20
   
-FIMO.解锁全部胶卷
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.js
-软件版本：2.18.0
-支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
-更新时间：2022-01-20
-
-NOMOCAM.解锁订阅
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/NoMoCamProCrack.js
-软件版本：1.5.131
-更新时间：2022-01-06
-使用说明：一次性解锁‼
-均支持商店最新版;接收到验证码后，再开脚本去登陆�;同步解锁nomo-raw，需手动操作
-  
 音频剪辑提取.VIP
 ⚠️⚠️⚠️游客登陆即可解锁vip
 https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
@@ -222,13 +190,13 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
 软件版本：1.1.13
 更新时间：2021.11.23
 
-可可英语，VIP,ok
+可可英语.VIP,ok
 kekeyy.js,NobyDa脚本
 支持版本：商店最新
 测试时间：2022.2.18
 
 流利说阅读.VIP会员
-⚠️⚠️⚠️可邮箱登录 
+⚠️⚠️⚠️手机登录 
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
 支持版本：实测2.19.6可解锁
 更新时间：2022.1.16
@@ -236,22 +204,6 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
 有书解锁会员精读。ok
 
 微信读书.免费会员. 未测试
-使用方法：⚠️不支持商店最新版，仅支持5.5.1前后的一两个版本，需要抓包旧版。
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/WeRead.conf
-会员时长延长到33392年（你没看错）🎉，会员页面无法打开请关闭去广告脚本
-不成功终极解决办法：打开HTTP数据抓取，MitM额外主机名输入*，开启App数据抓取！⚠️用完记得关闭
-
-七猫小说.解锁终身会员
-无任何下载、阅读、听书限制，去除所有广告（还有广告卸载重装）
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/QiMaoXiaoShuo.conf
-使用说明：☝️支持商店最新版
-
-Drops点滴学语言.解锁永久订阅
-⚠️⚠️⚠️可邮箱登录 
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/Drops.conf
-脚本作者：langkhach270389, R·E修复重写链接
-支持版本：商店最新 36.9
-更新时间：2022.02.09
 
 Polaris Office.解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/PolarisOfficeProCrack.js
@@ -263,11 +215,6 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.j
 支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
 更新时间：2022-01-21
 
-计算器HD.解锁会员
-https://raw.githubusercontent.com/yqc007/QuantumultX/master/CalculatorHDProCrack.js
-软件版本：1.9.4
-更新时间：2021.11.16
-
 PlaneVPN.解锁订阅，排序靠前,2.4.5测试成功
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
 软件版本：2.4.1【美区商店】
@@ -277,7 +224,7 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
 
 
 
-
+  
 ```
 ⚠️⚠️以下未测试⚠️⚠️
 ----------------------------------
@@ -285,8 +232,6 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/PlaneVPNProCrack.js
 NewFace - AI智能变脸换脸变老时光机
 
   
-  
-urnuts/haproxy/main/nt/ox
 ```
 传送：
   
