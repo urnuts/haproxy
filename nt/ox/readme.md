@@ -72,6 +72,9 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiK
 支持版本：商店最新 3.7
 更新时间：2022.1.05
 
+白描.VIP . OCR/翻译
+https://raw.githubusercontent.com/id77/QuantumultX/master/Script/baimiao.js
+  
 Notability.解锁订阅，软件版本：11.0.1/5/6
 随手记.解锁VIP, 去除部分广告, 可下载付费主题
 一木记账.会员，未测试
