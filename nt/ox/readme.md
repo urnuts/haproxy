@@ -11,6 +11,8 @@
 
 
 流媒体字幕机翻
+https://neurogram.notion.site/Dualsub-b8b2c5259ef54b349722717ec25c2853
+https://github.com/id77/QuantumultX/blob/master/rewrite/Youtube_CC.conf
 ```
 
 <code>⚠️⚠️影音娱乐：影音,资讯，厨艺，健身 ⚠️⚠️
