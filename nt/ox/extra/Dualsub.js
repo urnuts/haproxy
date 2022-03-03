@@ -47,7 +47,6 @@
         GitHub: Neurogram-R
 */
 
-let url = $request.url
 let headers = $request.headers
 
 let default_settings = {
