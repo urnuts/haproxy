@@ -15,29 +15,29 @@
         [rewrite_local]
 
         // All in one
-        https:\/\/.*(media.(dss|star)ott|manifests.v2.api.hbo|hbomaxcdn|nflxvideo|cbs(aa|i)video).(com|net)\/((.+(\.vtt(\?m=\d+)*|-all-.+.m3u8.*))|hls.m3u8.+|\?o=\d+&v=\d+&e=.+) url script-response-body Dualsub.js
-        https:\/\/setting.(media.dssott|hbomaxcdn|nflxvideo|youtube|cbsivideo).(com|net)\/\?action=(g|s)et url script-analyze-echo-response Dualsub.js
-        https:\/\/www.youtube.com\/api\/timedtext.+ url script-request-header Dualsub.js
+        https:\/\/.*(media.(dss|star)ott|manifests.v2.api.hbo|hbomaxcdn|nflxvideo|cbs(aa|i)video).(com|net)\/((.+(\.vtt(\?m=\d+)*|-all-.+.m3u8.*))|hls.m3u8.+|\?o=\d+&v=\d+&e=.+) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
+        https:\/\/setting.(media.dssott|hbomaxcdn|nflxvideo|youtube|cbsivideo).(com|net)\/\?action=(g|s)et url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
+        https:\/\/www.youtube.com\/api\/timedtext.+ url script-request-header https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
 
         // Disney+, Star+ individual
-        https:\/\/.+media.(dss|star)ott.com\/ps01\/disney\/.+(\.vtt|-all-.+\.m3u8.*) url script-response-body Dualsub.js
-        https:\/\/setting.media.dssott.com\/\?action=(g|s)et url script-analyze-echo-response Dualsub.js
+        https:\/\/.+media.(dss|star)ott.com\/ps01\/disney\/.+(\.vtt|-all-.+\.m3u8.*) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
+        https:\/\/setting.media.dssott.com\/\?action=(g|s)et url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
  
         // HBO Max individual
-        https:\/\/(manifests.v2.api.hbo.com|.+hbomaxcdn.com)\/(hls.m3u8.+|video.+\.vtt) url script-response-body Dualsub.js
-        https:\/\/setting.hbomaxcdn.com\/\?action=(g|s)et url script-analyze-echo-response Dualsub.js
+        https:\/\/(manifests.v2.api.hbo.com|.+hbomaxcdn.com)\/(hls.m3u8.+|video.+\.vtt) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
+        https:\/\/setting.hbomaxcdn.com\/\?action=(g|s)et url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
 
         // Netflix individual
-        https:\/\/.+nflxvideo.net\/\?o=\d+&v=\d+&e=.+ url script-response-body Dualsub.js
-        https:\/\/setting.nflxvideo.net\/\?action=(g|s)et url script-analyze-echo-response Dualsub.js
+        https:\/\/.+nflxvideo.net\/\?o=\d+&v=\d+&e=.+ url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
+        https:\/\/setting.nflxvideo.net\/\?action=(g|s)et url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
 
         // Paramount+ individual
-        https:\/\/.+cbs(aa|i)video.com\/.+\.vtt(\?m=\d+)* url script-response-body Dualsub.js
-        https:\/\/setting.cbsivideo.com\/\?action=(g|s)et url script-analyze-echo-response Dualsub.js
+        https:\/\/.+cbs(aa|i)video.com\/.+\.vtt(\?m=\d+)* url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
+        https:\/\/setting.cbsivideo.com\/\?action=(g|s)et url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
 
         //YouTube individual
-        https:\/\/setting.youtube.com\/\?action=(g|s)et url script-analyze-echo-response Dualsub.js
-        https:\/\/www.youtube.com\/api\/timedtext.+ url script-request-header Dualsub.js
+        https:\/\/setting.youtube.com\/\?action=(g|s)et url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
+        https:\/\/www.youtube.com\/api\/timedtext.+ url script-request-header https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/Dualsub.js
 
         [mitm]
         hostname = *.media.dssott.com, *.media.starott.com, *.api.hbo.com, *.hbomaxcdn.com, *.nflxvideo.net, *.cbsaavideo.com, *.cbsivideo.com, *.youtube.com
