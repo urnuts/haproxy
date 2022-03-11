@@ -14,7 +14,10 @@
 https://neurogram.notion.site/Dualsub-b8b2c5259ef54b349722717ec25c2853
 https://github.com/Neurogram-R/Quantumult-X/blob/main/snippet/Netflix-Dualsub.snippet
 
-https://github.com/id77/QuantumultX/blob/master/rewrite/Youtube_CC.conf#开启字母后翻译成中文
+https://github.com/id77/QuantumultX/blob/master/rewrite/Youtube_CC.conf#开启字幕后，自动翻译成中文
+
+桌面浏览器-暴力猴/Tampermonkey： Youtube自动选择中文翻译字幕
+
 ```
 
 <code>⚠️⚠️影音娱乐：影音,资讯，厨艺，健身 ⚠️⚠️
@@ -79,7 +82,7 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiK
 支持版本：商店最新 3.7
 更新时间：2022.1.05
 
-白描.VIP . OCR/翻译
+白描.VIP . OCR/翻译   未测试
 https://raw.githubusercontent.com/id77/QuantumultX/master/Script/baimiao.js
   
 Notability.解锁订阅，软件版本：11.0.1/5/6
