@@ -16,6 +16,9 @@ iOS旧版应用抓包使用步骤：
 --> 软件取消拦截
 --> 点击下载图标，暂停后重启下载
 
+https://raw.githubusercontent.com/DoracisMu/quanX_rewirte/master/JdTb.conf#🉑京东
+
+
 
 流媒体字幕机翻
 https://neurogram.notion.site/Dualsub-b8b2c5259ef54b349722717ec25c2853
