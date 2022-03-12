@@ -708,7 +708,6 @@ function initScript() {
 
 function handleJobs() {
     try {
-        let url = res.url;
 
         let enable_jobs = [];
 
