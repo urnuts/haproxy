@@ -3,14 +3,14 @@ JD | TB Price comparison
 by Small
 date 2021-06-25
 Thanks @yichahucha
-
+ORZ-MINI提取
 ***************************
 Quantumult X:
 [rewrite_local]
-^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) url script-response-body https://service.2ti.st/QuanX/Script/jd_tb_price/main.js
+^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/main.js
 
-^http://.+/amdc/mobileDispatch url script-request-body https://service.2ti.st/QuanX/Script/jd_tb_price/main.js
-^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail url script-response-body https://service.2ti.st/QuanX/Script/jd_tb_price/main.js
+^http://.+/amdc/mobileDispatch url script-request-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/main.js
+^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail url script-response-body https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/extra/main.js
 
 [mitm]
 hostname =api.m.jd.com, trade-acs.m.taobao.com
