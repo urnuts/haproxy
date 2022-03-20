@@ -143,7 +143,7 @@ InShot.解锁订阅,⚠️外区下载
 答岸.解锁会员
 ⚠️⚠️⚠️需登录
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/DaZMasterProCrack.js
-软件版本：1.1.13
+软件版本：1.1.13， 或之前的老版本1.0.45
 更新时间：2021.11.23
 
 可可英语.VIP,ok
