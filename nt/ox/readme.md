@@ -187,7 +187,7 @@ NewFace - AI智能变脸换脸变老时光机
 ```
 传送：
   
-[I-am-R-E](https://github.com/I-am-R-E/QuantumultX) 
+[I-am-R-E](https://github.com/I-am-R-E/Functional-Store-Hub) 
 
 [Hausd0rff](https://github.com/yqc007/QuantumultX)
 
