@@ -27,6 +27,8 @@ https://github.com/id77/QuantumultX/blob/master/rewrite/Youtube_CC.conf#开启�
 桌面浏览器-暴力猴/Tampermonkey： Youtube自动选择中文翻译字幕
 
 ```
+
+```
  2024-05更新：✅ 表示测试可用，
  https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Picsew.js, tag=Picsew.v3.8.4✅（重新打开解锁专业版）
  https://raw.githubusercontent.com/WeiGiegie/666/main/zxsy.js, tag=中信书院✅【需登录，解锁vip/付费电子书】登录？
@@ -63,9 +65,9 @@ https://github.com/WeiGiegie/666
 https://www.ahhhhfs.com/43894/
 https://github.com/Marol62926/
 
-
 https://www.reswh.com/search.php?q=IOS%E5%9C%88X%E8%A7%84%E5%88%99
 
+```
 
 
 
