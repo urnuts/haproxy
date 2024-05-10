@@ -27,21 +27,21 @@ https://github.com/id77/QuantumultX/blob/master/rewrite/Youtube_CC.conf#开启�
 桌面浏览器-暴力猴/Tampermonkey： Youtube自动选择中文翻译字幕
 
 ```
-2024-05更新：✅ 表示测试可用，
-https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Picsew.js, tag=Picsew.v3.8.4✅（重新打开解锁专业版）
-https://raw.githubusercontent.com/WeiGiegie/666/main/zxsy.js, tag=中信书院✅【需登录，解锁vip/付费电子书】登录？
-https://raw.githubusercontent.com/WeiGiegie/666/main/cytq.js, tag=彩云天气✅【登录🔓vip】
-https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js, tag=🎵网易云音乐✅（需先登录🔓vip，偶尔失效
-https://raw.githubusercontent.com/WeiGiegie/666/main/mgsp.js, tag=咪咕视频v6.2.30✅【需登录🔓】
-https://raw.githubusercontent.com/WeiGiegie/666/main/miguyinyue.js, tag=咪咕音乐✅(无需登录🔓vip)
-https://raw.githubusercontent.com/chxm1023/Rewrite/main/yunting.js, tag=云听✅(无需登录🔓vip)
-https://raw.githubusercontent.com/WeiGiegie/666/main/xmly.js, tag=喜马拉雅✅（无需登录🔓VIP，此版不与appstore冲突）
-https://raw.githubusercontent.com/chxm1023/Rewrite/main/mandu.js, tag=漫读✅（关闭打开解锁pro,🔓epub/txt阅读器）
-https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js, tag=QQ音乐积分任务（获取cookie后关闭✅）
-https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/Bdyy/bdyy.conf, tag=波点音乐（Cookie抓去成功后关闭✅）
-https://raw.githubusercontent.com/Yu9191/Rewrite/main/MGTV.js, tag=芒果TV✅【登陆解锁】
-https://napi.ltd/script/Worker/KuWo.js, tag=酷我音乐盒（🔓vip,LOON✅可用）
-https://whatshub.top/rewrite/fenbeiyi.conf, tag=分贝仪✅
+ 2024-05更新：✅ 表示测试可用，
+ https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Picsew.js, tag=Picsew.v3.8.4✅（重新打开解锁专业版）
+ https://raw.githubusercontent.com/WeiGiegie/666/main/zxsy.js, tag=中信书院✅【需登录，解锁vip/付费电子书】登录？
+ https://raw.githubusercontent.com/WeiGiegie/666/main/cytq.js, tag=彩云天气✅【登录🔓vip】
+ https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js, tag=🎵网易云音乐✅（需先登录🔓vip，偶尔失效
+ https://raw.githubusercontent.com/WeiGiegie/666/main/mgsp.js, tag=咪咕视频v6.2.30✅【需登录🔓】
+ https://raw.githubusercontent.com/WeiGiegie/666/main/miguyinyue.js, tag=咪咕音乐✅(无需登录🔓vip)
+ https://raw.githubusercontent.com/chxm1023/Rewrite/main/yunting.js, tag=云听✅(无需登录🔓vip)
+ https://raw.githubusercontent.com/WeiGiegie/666/main/xmly.js, tag=喜马拉雅✅（无需登录🔓VIP，此版不与appstore冲突）
+ https://raw.githubusercontent.com/chxm1023/Rewrite/main/mandu.js, tag=漫读✅（关闭打开解锁pro,🔓epub/txt阅读器）
+ https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js, tag=QQ音乐积分任务（获取cookie后关闭✅）
+ https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/Bdyy/bdyy.conf, tag=波点音乐（Cookie抓去成功后关闭✅）
+ https://raw.githubusercontent.com/Yu9191/Rewrite/main/MGTV.js, tag=芒果TV✅【登陆解锁】
+ https://napi.ltd/script/Worker/KuWo.js, tag=酷我音乐盒（🔓vip,LOON✅可用）
+ https://whatshub.top/rewrite/fenbeiyi.conf, tag=分贝仪✅
 
 https://whatshub.top/rewrite/zztx.conf, tag=杂志天下✅
 https://whatshub.top/rewrite/zhsck.conf, tag=中华诗词库✅
