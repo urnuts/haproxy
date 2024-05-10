@@ -29,7 +29,7 @@ https://github.com/id77/QuantumultX/blob/master/rewrite/Youtube_CC.conf#开启�
 ```
 
 ```
- 2024-05更新：✅ 表示测试可用，
+ 2024-05更新：✅ 表示测试可用，未单独标出版本号的表示此时此刻最新版可解锁
  https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/Picsew.js, tag=Picsew.v3.8.4✅（重新打开解锁专业版）
  https://raw.githubusercontent.com/WeiGiegie/666/main/zxsy.js, tag=中信书院✅【需登录，解锁vip/付费电子书】登录？
  https://raw.githubusercontent.com/WeiGiegie/666/main/cytq.js, tag=彩云天气✅【登录🔓vip】
