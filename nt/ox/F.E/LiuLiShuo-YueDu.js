@@ -18,6 +18,16 @@ QuantumultX:
 [mitm] 
 hostname = vira.llsapp.com
 **************************
+
+Surge4 or Loon:
+[Script]
+# > 流利说·阅读(2022.01.16)
+http-response ^https?:\/\/vira\.llsapp\.com\/api\/v\d\/\w+\/\w+$ requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/F.E/LiuLiShuo-YueDu.js
+
+[mitm] 
+hostname = vira.llsapp.com
+**************************
+
 *
 *
 */
