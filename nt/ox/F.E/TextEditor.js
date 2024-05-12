@@ -1,5 +1,5 @@
 /*
-脚本功能：解锁TextEditor订阅
+脚本功能：解锁TextEditor订阅[一次性解锁，解锁后可升级]
 脚本作者：R·E
 下载地址：https://apps.apple.com/us/app/text-editor/id1483790257
 支持版本：商店最新 1.4.0
