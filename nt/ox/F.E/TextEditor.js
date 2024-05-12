@@ -15,7 +15,7 @@ QuantumultX:
 [mitm] 
 hostname = buy.itunes.apple.com
 ***************************
-LOON:
+Surge4 or Loon:
 [Script]
 http-response ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt requires-body=1,max-size=-1,script-path=https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/F.E/TextEditor.js
 [mitm] 
