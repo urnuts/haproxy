@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/Yu9191/Rewrite/main/MGTV.js, tag=芒果TV✅�
 
 https://raw.githubusercontent.com/WeiGiegie/666/main/zxsy.js, tag=中信书院✅【需登录，解锁vip/付费电子书】登录？
 https://raw.githubusercontent.com/WeiGiegie/666/main/cytq.js, tag=彩云天气✅【登录🔓vip】
-https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js, tag=🎵网易云音乐✅（需先登录🔓vip，偶尔失效
+https://raw.githubusercontent.com/WeiGiegie/666/main/wangyiyun.js, tag=🎵网易云音乐✅（需先登录🔓vip，偶尔失效,需先开启http抓取)
 https://raw.githubusercontent.com/WeiGiegie/666/main/mgsp.js, tag=咪咕视频v6.2.30✅【需登录🔓】
 https://raw.githubusercontent.com/WeiGiegie/666/main/miguyinyue.js, tag=咪咕音乐✅(无需登录🔓vip)
 https://raw.githubusercontent.com/WeiGiegie/666/main/xmly.js, tag=喜马拉雅✅（无需登录🔓VIP，此版不与appstore冲突）
@@ -45,7 +45,7 @@ https://raw.githubusercontent.com/chxm1023/Rewrite/main/yunting.js, tag=云听�
 https://raw.githubusercontent.com/chxm1023/Rewrite/main/mandu.js, tag=漫读✅（关闭打开解锁pro,🔓epub/txt阅读器）
 https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js, tag=QQ音乐积分任务（获取cookie后关闭✅）
 
-https://napi.ltd/script/Worker/KuWo.js, tag=酷我音乐盒（🔓vip,LOON✅可用，已上传）
+https://napi.ltd/script/Worker/KuWo.js, tag=酷我音乐盒（🔓vip,✅ 解锁至臻，2024-05-17，每次使用需要开启）
 
 https://whatshub.top/rewrite/fenbeiyi.conf, tag=分贝仪✅
 https://whatshub.top/rewrite/zztx.conf, tag=杂志天下✅
@@ -58,6 +58,10 @@ https://whatshub.top/rewrite/xxyh.conf, tag=小熊油耗✅（📱，🔓VIP）
 https://whatshub.top/rewrite/rmrb.conf, tag=人民日报去广告✅
 
 App解锁合集及去广告来源：
+
+https://www.reswh.com/search.php?q=IOS%E5%9C%88X%E8%A7%84%E5%88%99
+https://www.applnn.cc/tag/%e5%9c%88x
+
 https://github.com/chxm1023/Rewrite
 https://whatshub.top
 https://github.com/fmz200/wool_scripts
@@ -68,12 +72,10 @@ https://github.com/WeiGiegie/666
 https://www.ahhhhfs.com/43894/
 https://github.com/Marol62926/
 
-https://www.reswh.com/search.php?q=IOS%E5%9C%88X%E8%A7%84%E5%88%99
-
 ```
 
 
-
+```
 
 https://whatshub.top/rewrite/adultraplus.conf, tag=01. APP启动页去广告ultra+, update-interval=172800, opt-parser=false, enabled=true
 https://whatshub.top/rewrite/wechatad.conf, tag=微信公众号AD
@@ -103,8 +105,12 @@ https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Emby.conf, tag=Emby�
 https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Keep.js#🉑课程阶段, tag=Keep.📱【需登录】
 https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/nzw9314/Kekeyy.js, tag=可可英语.📧.✅【需登录】
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf, tag=流利说阅读.📱v2.2✅
+https://raw.githubusercontent.com/chxm1023/Rewrite/main/zhuishushenqi.js, tag=追书神器✅【需登录】
 
 
+每次使用需要开启/先开启规则/在进入软件刷新即可！
+
+```
 
 
 <code>⚠️⚠️影音娱乐：影音,资讯，厨艺，健身 ⚠️⚠️
