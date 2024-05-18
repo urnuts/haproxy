@@ -5,7 +5,7 @@ if (typeof $argument !== "undefined") {
 
   provname = "广东";//quantumultx用户请复制到本地脚本 更改其他省 省份名不能含"省"字。小火箭loon用户请看模块插件注释 surge请用面板
 }
-//默认江苏油价
+//默认广东油价
 //9 10 * * * https://raw.githubusercontent.com/deezertidal/private/main/oil.js, tag=今日油价, img-url=car.fill.system, enabled=true
 const encodedprovname = encodeURIComponent(provname);
 const apiUrls = [
