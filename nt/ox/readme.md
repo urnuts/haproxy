@@ -59,16 +59,29 @@ https://whatshub.top/rewrite/rmrb.conf, tag=人民日报去广告✅
 
 App解锁合集及去广告来源：
 
+001. IOS圈X规则：最新验证
 https://www.reswh.com/search.php?q=IOS%E5%9C%88X%E8%A7%84%E5%88%99
 https://www.applnn.cc/tag/%e5%9c%88x
 
-https://github.com/chxm1023/Rewrite
-https://whatshub.top
+002. QuantumultXJs
+    频道：t.me/GieGie777
+    交流: @GieGie444
+https://github.com/WeiGiegie/666/tree/main
+# 脚本较新，优质
+
+
+003. 叮当猫iOS资源脚本分享频道
+频道：t.me/chxm1023
+交流: @chxm1023_Chat
+https://github.com/chxm1023/Rewrite # 绿色指示灯表示可有效
+https://github.com/chxm1023/Rewrite/tree/main #  单独的js
+
+
+https://github.com/rucu6  #去广告
+https://github.com/Yu9191/Rewrite  # 较多js,未验证，含iTunes系列
+https://whatshub.top 
 https://github.com/fmz200/wool_scripts
-https://github.com/rucu6
-https://github.com/Yu9191/Rewrite
 https://github.com/ddgksf2013/ddgksf2013
-https://github.com/WeiGiegie/666
 https://www.ahhhhfs.com/43894/
 https://github.com/Marol62926/
 
@@ -78,8 +91,6 @@ https://github.com/Marol62926/
 ```
 
 https://whatshub.top/rewrite/adultraplus.conf, tag=01. APP启动页去广告ultra+, update-interval=172800, opt-parser=false, enabled=true
-https://whatshub.top/rewrite/wechatad.conf, tag=微信公众号AD
-
 #>>>>>>>>>> 奶思去广告fmz200
 #解锁VIP，未测: 百度文库解锁VIP文档阅读权限,彩云天气,Emby播放权限，Enpass 解锁订阅，剪映解锁会员，简讯订阅，VSCO Pro，WPS解锁VIP，醒图解锁VIP
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet, tag=02. App&小程序净化合集【fmz200】
