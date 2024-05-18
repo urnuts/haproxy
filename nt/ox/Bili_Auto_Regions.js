@@ -8,6 +8,7 @@ Author: @NobyDa
 作者库：https://raw.githubusercontent.com/NobyDa
 *******************************
 QuantumultX:
+## Bilibili换区：关闭温和机制,添加IP-CIDR,修改节点名称
 
 [rewrite_local]
 #哔哩哔哩, 港澳台番剧自动切换地区 & 显示豆瓣评分
