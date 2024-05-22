@@ -4,19 +4,17 @@
 > 脚本作者：@ddgksf2013
 > 微信账号：墨鱼手记
 > 更新时间：2023-02-22
-> 通知频道：https://t.me/ddgksf2021
-> 贡献投稿：https://t.me/ddgksf2013_bot
-> 问题反馈：ddgksf2013@163.com
-> 特别提醒：如需转载请注明出处，谢谢合作！
+
 > 脚本说明：目前脚本是最简洁也是最完美的了（低调使用），Enjoy！
 > 使用说明：请在本地添加分流 host, ad.12306.cn, direct
 
-[rewrite_local]
+[filter_local]
+host, ad.12306.cn, direct
 
-^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://github.com/ddgksf2013/Scripts/raw/master/12306.js
+[rewrite_local]
+^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/12306.js
 
 [mitm]
-
 hostname = ad.12306.cn
 
 ***********************************************/
