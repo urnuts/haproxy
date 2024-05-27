@@ -85,6 +85,12 @@ https://github.com/ddgksf2013/ddgksf2013
 https://www.ahhhhfs.com/43894/
 https://github.com/Marol62926/
 
+
+
+
+
+
+
 ```
 
 
@@ -117,6 +123,9 @@ https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/Keep.js#🉑课程�
 https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/nzw9314/Kekeyy.js, tag=可可英语.📧.✅【需登录】
 https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf, tag=流利说阅读.📱v2.2✅
 https://raw.githubusercontent.com/chxm1023/Rewrite/main/zhuishushenqi.js, tag=追书神器✅【需登录】
+
+
+
 
 
 每次使用需要开启/先开启规则/在进入软件刷新即可！
@@ -159,7 +168,7 @@ https://raw.githubusercontent.com/nameking77/Qx/main/rewrite/keep
 ```
 ⚠️⚠️工具类01：扫描，OCR，书摘，笔记，记账⚠️⚠️
 ----------------------------------
-
+免费扫描软件推荐： 联想智能扫描 
 
 ```
 扫描全能王.部分解锁：可扫描,不能OCR
@@ -182,22 +191,9 @@ https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/JavaScript/ShiTuBaiK
 支持版本：商店最新 3.7
 更新时间：2022.1.05
 
-白描.VIP . OCR/翻译   未测试
-https://raw.githubusercontent.com/id77/QuantumultX/master/Script/baimiao.js
-  
-Notability.解锁订阅，软件版本：11.0.1/5/6
-随手记.解锁VIP, 去除部分广告, 可下载付费主题
-一木记账.会员，未测试
-图图记账.解锁永久高级版
-
-
-
-
 ```
 ⚠️⚠️工具类02.：相机，录屏，截长图,照片/视频/音频编辑，壁纸，相册加密⚠️⚠️
 ----------------------------------
-免费扫描软件推荐： 联想智能扫描
-
 ```
 录屏大师.解锁会员
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/RecordScreenProCrack.js
@@ -211,7 +207,6 @@ https://raw.githubusercontent.com/LiangYi520/QuantumultX-Script/main/yptq.js
 更新时间：2022.02.16
 
 Picsart 美区更好使
-
 傲软抠图.解锁会员，⚠️⚠️⚠️需登录
 马卡龙玩图.解锁订阅. 未测试
 InShot.解锁订阅,⚠️外区下载
@@ -223,7 +218,7 @@ InShot.解锁订阅,⚠️外区下载
   
   
 ```
-⚠️⚠️工具类03：大师课，外语学习，小说/读书app，计算器，office/文本编辑⚠️⚠️
+⚠️⚠️工具类03：文本编辑⚠️⚠️
 ----------------------------------
 ```
 
@@ -232,12 +227,6 @@ kekeyy.js,NobyDa脚本
 支持版本：商店最新
 测试时间：2022.2.18
 
-流利说阅读.VIP会员
-⚠️⚠️⚠️手机登录 
-https://raw.githubusercontent.com/I-am-R-E/QuantumultX/main/LiuLiShuo-YueDu.conf
-老版本：2.19.6可解锁
-更新时间：2022.1.16
-
 Polaris Office.解锁订阅
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/PolarisOfficeProCrack.js
 软件版本：9.6.1
@@ -245,17 +234,13 @@ https://raw.githubusercontent.com/yqc007/QuantumultX/master/PolarisOfficeProCrac
 
 TextEditor.解锁
 https://raw.githubusercontent.com/yqc007/QuantumultX/master/FiMoCameraProCrack.js
-支持商店最新版，目前测试为一次性解锁，且同步到已登陆的账号
+支持商店最新版，目前测试为一次性解锁，解锁后可更新到最新版，
 更新时间：2022-01-21
 
 PlaneVPN.解锁订阅，⚠️排序靠前,与识图百科冲突，2.4.5测试成功
 使用说明：点击“恢复订阅”即可,一次性解锁永久订阅！
 ‼恢复订阅的过程中需要耐心等待,一次不行 就多试几次 直到最后出现,“成功”字样提示 说明破解生效‼
-有书
-七猫
-微信读书
   
-
 
   
 ```
@@ -267,6 +252,4 @@ PlaneVPN.解锁订阅，⚠️排序靠前,与识图百科冲突，2.4.5测试�
 
 [nameking77](https://github.com/nameking77/Qx/tree/main/rewrite)
 
-[凉意](https://github.com/LiangYi520/QuantumultX-Script  )
 
-[奇心](https://github.com/nzw9314/QuantumultX/tree/master/Script)
