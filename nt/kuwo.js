@@ -4,6 +4,7 @@
  * @channel https://t.me/yqc_123
  * @feedback https://t.me/yqc_777
  * @version 1.0.0
+ * @url: https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js
  * @ 2024-0604可用
  ******************************************
 脚本声明:
