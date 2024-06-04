@@ -46,6 +46,7 @@ https://raw.githubusercontent.com/chxm1023/Rewrite/main/mandu.js, tag=漫读✅�
 https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js, tag=QQ音乐积分任务（获取cookie后关闭✅）
 
 https://napi.ltd/script/Worker/KuWo.js, tag=酷我音乐盒（🔓vip,✅ 解锁至臻，2024-05-17，每次使用需要开启）
+#20240604 QX已失效，可换另一个
 
 https://whatshub.top/rewrite/fenbeiyi.conf, tag=分贝仪✅
 https://whatshub.top/rewrite/zztx.conf, tag=杂志天下✅
