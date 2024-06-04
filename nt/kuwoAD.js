@@ -19,7 +19,7 @@
 //解决酷我发热问题，关闭广告终结者Anti分流
 
 
-hostname = *.kuwo.cn, *.lrts.me
+hostname = *.kuwo.cn
 
 
 # > 酷我音乐_通用广告请求
