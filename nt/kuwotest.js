@@ -15,6 +15,8 @@
 7. 本脚本及其更新版权归作者所有
 ******************************************
 hostname = *.kuwo.cn
+# 解锁320K
+^https?:\/\/(?:musicpay|nmobi|vip1|audiobookpay|tingshu)\.kuwo\.cn\/(?:music\.pay\?newver=\d+|mobi.s\?f=kwxs|vip\/(?:enc\/user\/vip\?op=ui&uid=|v2\/theme\?op=gd)|a\.p|v2\/api\/pay\/user\/info) url script-response-body https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js
 
 # 解锁会员皮肤
 ^https?:\/\/vip1\.kuwo\.cn\/vip\/v2\/theme\?op=gd url script-response-body https://gist.githubusercontent.com/Cyb3rF1r3/efcee66b5d57a41af432f85e59256f0a/raw/kuwo.vip.js
@@ -22,6 +24,3 @@ hostname = *.kuwo.cn
 ^https?:\/\/audiobookpay\.kuwo\.cn\/a\.p url script-response-body https://gist.githubusercontent.com/Cyb3rF1r3/efcee66b5d57a41af432f85e59256f0a/raw/kuwo.vip.js
 # 伪造听书会员
 ^https?:\/\/tingshu\.kuwo\.cn\/v2\/api\/pay\/user\/info url script-response-body https://gist.githubusercontent.com/Cyb3rF1r3/efcee66b5d57a41af432f85e59256f0a/raw/kuwo.vip.js
-
-
-^https?:\/\/(?:musicpay|nmobi|vip1|audiobookpay|tingshu)\.kuwo\.cn\/(?:music\.pay\?newver=\d+|mobi.s\?f=kwxs|vip\/(?:enc\/user\/vip\?op=ui&uid=|v2\/theme\?op=gd)|a\.p|v2\/api\/pay\/user\/info) url script-response-body https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js
