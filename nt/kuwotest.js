@@ -15,7 +15,7 @@
 7. 本脚本及其更新版权归作者所有
 ******************************************
 hostname = *.kuwo.cn
-# 解锁320K
+# 解锁下载无损
 ^https?:\/\/(?:musicpay|nmobi|vip1|audiobookpay|tingshu)\.kuwo\.cn\/(?:music\.pay\?newver=\d+|mobi.s\?f=kwxs|vip\/(?:enc\/user\/vip\?op=ui&uid=|v2\/theme\?op=gd)|a\.p|v2\/api\/pay\/user\/info) url script-response-body https://raw.githubusercontent.com/Yuheng0101/X/main/Scripts/kuwo.js
 
 # 解锁会员皮肤
