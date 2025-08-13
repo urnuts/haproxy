@@ -2712,9 +2712,9 @@ https://apis.lifeweek.com.cn/api/baseConfig/getIosNewConfig url reject
 # > 万达电影
 # hostname = misc-api-prd-mx.wandafilm.com
 # APP开屏广告
-^https?:\/\/misc-api-prd-mx\.wandafilm\.com\/commend\/common_banner_batch\.api url jsonjq-response-body '.data.objects["OpenAPP-&-FlashAD"] = [] | .data.objects["InTheaters-&-BoxAD"] = []'
+#^https?:\/\/misc-api-prd-mx\.wandafilm\.com\/commend\/common_banner_batch\.api url jsonjq-response-body '.data.objects["OpenAPP-&-FlashAD"] = [] | .data.objects["InTheaters-&-BoxAD"] = []'
 # 小程序弹窗广告
-^https?:\/\/misc-api-prd-mx\.wandafilm\.com\/commend\/common_banner_batch\.api\?bannerInfos=%5B%7B%22cinemaI url response-body "WX_index_mp-&-boxAD" response-body "WX_index_mp-&-boxAD0"
+#^https?:\/\/misc-api-prd-mx\.wandafilm\.com\/commend\/common_banner_batch\.api\?bannerInfos=%5B%7B%22cinemaI url response-body "WX_index_mp-&-boxAD" response-body "WX_index_mp-&-boxAD0"
 
 # > 微信
 # hostname = mp.weixin.qq.com, weixin110.qq.com, security.wechat.com
