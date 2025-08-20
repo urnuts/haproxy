@@ -7,7 +7,7 @@
 // @Feedback          📮 ddgksf2013@163.com 📮
 // @UpdateTime        2023-04-12
 // @Attention         使用中若有问题请发邮件！
-// @Suitable          自行观看“# > ”注释内容
+// @Suitable          自行观看“# >  ”注释内容
 // @Attention         如需引用请注明出处，谢谢合作！
 // @Version           V2.0.44
 // @ScriptURL         https://gist.githubusercontent.com/ddgksf2013/0f76e952f0c4a2579932f45a209b40c3/raw/Kuwo.conf
