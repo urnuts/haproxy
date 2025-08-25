@@ -1,5 +1,6 @@
 # > 闲鱼去广告 fmz200 奶思
 # hostname = acs.m.goofish.com, g-acs.m.goofish.com, dinamicx.alibabausercontent.com
+
 # 拦截广告下发
 ^http:\/\/amdc\.m\.taobao\.com\/amdc\/mobileDispatch %E9%97%B2%E9%B1%BC* url-and-header reject
 # 我的页面横幅
@@ -19,5 +20,11 @@
 ^https:\/\/(g-)?acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idlehome\.home\.nextfresh\/ url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xianyu/xianyu_ads.js
 # 定位地区页面的信息流广告
 ^https:\/\/(g-)?acs\.m\.goofish\.com\/gw\/mtop\.taobao\.idle\.local\.home\/ url script-response-body https://github.com/fmz200/wool_scripts/raw/main/Scripts/xianyu/xianyu_ads.js
+
+# > 墨鱼去开屏
+^https?:\/\/acs\.m\.goofish\.com\/gw\/mtop.*splash\.ads url reject-200
+host-suffix,iyes.youku.com,reject
+
+
 
 hostname = acs.m.goofish.com, g-acs.m.goofish.com, dinamicx.alibabausercontent.com
