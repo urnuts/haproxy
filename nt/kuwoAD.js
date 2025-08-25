@@ -1,5 +1,5 @@
 // ==UserScript==
-// @ScriptName        酷我音乐纯净版[净化 ]
+// @ScriptName        酷我音乐纯净版[净化,墨鱼 ]
 // @Author            @ddgksf2013
 // @WechatID          公众号墨鱼手记
 // @TgChannel         https://t.me/ddgksf2021
