@@ -1,7 +1,7 @@
 
 /*
 # Author: @KleinerSource, tg@Plus_Movie_Best
-# EMBY解锁
+# EMBY 解锁客户端Premium
 ***************************
 QuantumultX:
 [mitm]
