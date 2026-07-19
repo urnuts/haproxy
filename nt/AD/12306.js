@@ -12,7 +12,7 @@
 host, ad.12306.cn, direct
 
 [rewrite_local]
-^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/main/nt/ox/12306.js
+^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://raw.githubusercontent.com/urnuts/haproxy/refs/heads/main/nt/AD/12306.js
 
 [mitm]
 hostname = ad.12306.cn
